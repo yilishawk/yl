@@ -1,14 +1,14 @@
 {
   "sites": [
               {
-      "key": "csp_XBPQ_yadongkorea",
-      "name": "yadongkorea",
+      "key": "csp_XBPQ_好色",
+      "name": "好色",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/mimang/S/raw/branch/master/noodlemaga.json"
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/好色.json"
     },
               {
       "key": "csp_XBPQ_anal",
