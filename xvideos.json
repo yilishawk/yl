@@ -8,7 +8,7 @@
 "热门推荐":"1",
 "直接播放":"1",
 //"二次截取":"<div id=\"content\">&&<div id=\"footer\">",
-"数组":"<div class=\"thumb-list__item video-thumb&&</a>",
+"数组":"<div class=\"thumb-list__item video-thumb&&</a>[替换:\"></i><span data-role=\"video-duration\">>>空]",
 "图片":"src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
