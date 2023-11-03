@@ -2,24 +2,24 @@
   "sites": [
 
               {
-      "key": "csp_XBPQ_top",
-      "name": "top",
+      "key": "csp_XBPQ_anal",
+      "name": "anal",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/mimang/S/raw/branch/master/top.json"
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/anal.json"
     },
                   {
-      "key": "csp_XBPQ_lo",
-      "name": "lo",
+      "key": "csp_XBPQ_noodlemaga",
+      "name": "noodlemaga",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/jo.json"
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/noodlemaga.json"
     },
     {
       "key": "csp_XBPQ_gofilm",
