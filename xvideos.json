@@ -13,7 +13,7 @@
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"duration\">&&</span>",
-"搜索url":"https://zh.xhamster3.com/search/{wd}",
+"搜索url":"https://zh.xhamster3.com/search/retro?q={wd}",
 "搜索模式": "1",
 //"搜索二次截取": "<div class=\"mixed-section index-videos\"&&<div class=\"pager-section\">",
 "搜索数组": "<div class=\"thumb-list__item video-thumb   \"&&</div>",
@@ -35,7 +35,8 @@
 "免嗅":"0",
 "分类":"亚洲$asian#国产$chinese#复古$retro#钢棒$gangbang",
 //"类型":"big+dick+anal--無修正流出$chinese+milf#日本無碼$japanese+日本+無修正+高画質#亚洲$asina+anal#极限$japanese+extreme+bdsm#无修正$extreme+japanese+anal+日本+無修正+高画質#真实摄像头$hidden+camera#摄像头手瘾$hidden+camera+masturbation#隐藏摄像头按摩$hidden+camera+massage#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju",
-"分类url":"https://zh.xhamster3.com/categories/{cateId}/{catePg}",
+//"分类url":"https://zh.xhamster3.com/categories/{cateId}/{catePg}",
+"分类url":"https://zh.xhamster3.com/search/{cateId}?page={catePg}",
 "筛选":{
 "asian":[
 {
