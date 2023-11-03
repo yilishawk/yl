@@ -1,0 +1,1024 @@
+{
+  "sites": [
+
+              {
+      "key": "csp_XBPQ_top",
+      "name": "top",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/top.json"
+    },
+                  {
+      "key": "csp_XBPQ_lo",
+      "name": "lo",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/jo.json"
+    },
+    {
+      "key": "csp_XBPQ_gofilm",
+      "name": "gofilm",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/gofilm.json"
+    },
+
+          {
+      "key": "csp_XBPQ_往往影视",
+      "name": "往往影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/往往影视.json"
+    },
+    {
+      "key": "csp_XBPQ_mj",
+      "name": "44",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/44.json"
+    },
+                                     {
+      "key": "csp_XBPQ_9day",
+      "name": "tvb云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/momo/raw/branch/master/tvb.json"
+    },
+                                 {
+      "key": "csp_XBPQ_51",
+      "name": "51",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/51.json"
+    },
+                                     {
+      "key": "csp_XBPQ_aidi",
+      "name": "aidi",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/aidi.json"
+    },
+                                 {
+      "key": "csp_XBPQ_175",
+      "name": "175",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/175.json"
+    },
+                             {
+      "key": "csp_XBPQ_享看",
+      "name": "享看采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/享看.json"
+    },
+                         {
+      "key": "csp_XBPQ_鲨鱼",
+      "name": "鲨鱼",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/鲨鱼.json"
+    },
+                         {
+      "key": "csp_XBPQ_dy2061",
+      "name": "dy2061",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/dy2061.json"
+    },
+                 {
+      "key": "csp_XBPQ_mp4cl",
+      "name": "mp4cl",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/mp4cl.json"
+    },
+                     {
+      "key": "csp_XBPQ_4kmv",
+      "name": "4kmv",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/4kmv.json"
+    },
+                 {
+      "key": "csp_XBPQ_cili",
+      "name": "cili",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/cili.json"
+    },
+             {
+      "key": "csp_XBPQ_mp4cl",
+      "name": "mp4cl",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/mp4cl.json"
+    },
+         {
+      "key": "csp_XBPQ_ikanbot",
+      "name": "ikanbot",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/h.json"
+    },
+   
+     {
+      "key": "csp_XBPQ_80s",
+      "name": "80s",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/momo/raw/branch/master/80s.json"
+    },
+              {
+      "key": "dr_ mp4磁力",
+      "name": "mp4磁力",
+      "type": 3,
+      "api": "https://agit.ai/mimang/js/raw/branch/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/mp4us.js"
+    },
+{"key":"电影港","name":"🧲电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/电影港磁力.json"},
+{"key":"BT天堂","name":"🧲BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/BT天堂.json"},
+{"key":"极影网","name":"🧲极影网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/极影网.json"},
+{"key":"高清MP4","name":"🧲高清MP4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高清MP4.json"},
+        {
+      "key": "csp_XBPQ_ 厂长影视",
+      "name": "厂长影视【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"站名\":\"厂长影视\",\r\n\"主页url\":\"https://www.czzy88.com/\",\r\n//发布页https://www.czzy.site/\r\n\"请求头\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\r\n\"二次截取\":\"<div class=\\\"bt_img mi_ne_kd mrb\\\">&&<div class=\\\"pagenavi_txt\\\">\",\r\n\"数组\":\"<li>&&</div>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"alt=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"qb\\\">&&</span>\",\r\n\"线路数组\":\"<div class=\\\"mi_paly_box\\\">&&</div>\",\r\n\"线路标题\":\"<span>&&</span>\",\r\n\"播放数组\":\"<div class=\\\"paly_list_btn\\\">&&</div>\",\r\n\"状态\":\"上映：&&</li>\",\r\n\"导演\":\"导演：&&</li>\",\r\n\"主演\":\"主演：&&</li>\",\r\n\"简介\":\"<div class=\\\"yp_context\\\">&&</p>\",\r\n\"播放列表\":\"<a&&/a>\",\r\n\"播放标题\":\">&&<\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n//\"搜索url\": \"/index.php?m=vod-search;post;wd={wd}&search=\",\r\n\"搜索url\":\"/xssearch?q={wd}&limit=500\",\r\n\"搜索模式\":\"1\",\r\n\"搜索二次截取\":\"<div class=\\\"bt_img mi_ne_kd search_list\\\">&&<div class=\\\"pagenavi_txt\\\">\",\r\n\"搜索数组\":\"<li&&</a>\",\r\n\"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"alt=\\\"&&\\\"\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\"搜索副标题\":\"<span>&&</span>\",\r\n//\"搜索后缀\":\"/detail/\",\r\n\"嗅探词\":\".m3u8#.mp4#api.cz01.site:81#nknkvod.sh.svp.tencent-cloud.com#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"User-Agent$123\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"最新电影&电影&国产剧&连续剧\",\r\n\"分类值\":\"zuixindianying&movie_bt/movie_bt_series/dyy&gcj&dsj\",\r\n\"分类url\":\"https://www.czzy88.com/{cateId}/page/{catePg}\",\r\n \"筛选\":\"0\"\r\n}"
+    },
+                    {
+      "key": "索尼资源",
+      "name": "索尼(采集)",
+      "type": 1,
+      "api": "https://xkanzy10.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+                {
+      "key": "快看资源",
+      "name": "快看(采集)",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+            {
+      "key": "快云资源",
+      "name": "快云(采集)",
+      "type": 1,
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "49资源",
+      "name": "49资源(采集)",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/",
+      "playUrl": "https://49zyplayerurl.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+            {
+      "key": "csp_XBPQ_6080",
+      "name": "6080影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/6080.json"
+    },
+            {
+      "key": "csp_XBPQ_freeok",
+      "name": "freeok影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/freeok.json"
+    },
+        {
+      "key": "csp_XBPQ_sh",
+      "name": "烧火影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/saohuo.json"
+    },
+            {
+      "key": "csp_XBPQ_jojo",
+      "name": "jojo",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/XBPQ/jojo.json"
+    },
+        {
+      "key": "csp_XYQHiker_6V电影磁力",
+      "name": "6V电影磁力【XYQHiker】",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n    \"title\": \"New6V\",\r\n    \"author\": \"压脉带\",\r\n    \"Headers\": \"PC_UA\",\r\n    \"Coding_format\": \"UTF-8\",\r\n    \"PicNeedProxy\": \"0\",\r\n    \"homeContent\":\"1\",\r\n    \"firstpage\": \"1\",\r\n    \"class_url\": \"http://www.xb6v.com/{cateId}/index_{catePg}.html[firstPage=http://www.xb6v.com/{cateId}/index.html]\",\r\n    \"class_name\": \"动画片&综艺&纪录片&国产剧&日韩剧&欧美剧&喜剧片&动作片&爱情片&科幻片&恐怖片&剧情片&战争片\",\r\n    \"class_value\": \"donghuapian&ZongYi&jilupian&dianshiju/guoju&dianshiju/rihanju&dianshiju/oumeiju&xijupian&dongzuopian&aiqingpian&kehuanpian&kongbupian&juqingpian&zhanzhengpian\",\r\n    \"filterdata\": {},\r\n    \"cat_mode\": \"1\",\r\n    \"catjson_twice\": \"\",\r\n    \"cat_arr_rule\": \"body&&.post_hover\",\r\n    \"cat_is_jsoup\": \"1\",\r\n    \"cat_title\": \"a&&title\",\r\n    \"cat_url\": \"a&&href\",\r\n    \"cat_pic\": \"img&&src\",\r\n    \"cat_subtitle\": \".pic-text&&Text\",\r\n    \"cat_prefix\": \"http://www.xb6v.com/\",\r\n    \"cat_suffix\": \"\",\r\n    \"SHeaders\": \"User-Agent$PC_UA\",\r\n    \"search_url\": \"http://www.xb6v.com/e/search/index.php;post\",\r\n    \"sea_PtBody\": \"show=title&tempid=1&tbname=article&mid=1&dopost=search&submit=&keyboard={wd}\",\r\n    \"search_mode\": \"1\",\r\n    \"sea_arr_rule\": \"body&&.post_hover\",\r\n    \"sea_is_jsoup\": \"1\",\r\n    \"sea_pic\": \"img&&src\",\r\n    \"sea_title\": \"font&&Text\",\r\n    \"sea_url\": \"a&&href\",\r\n    \"sea_subtitle\": \"\",\r\n    \"search_prefix\": \"http://www.xb6v.com/\",\r\n    \"search_suffix\": \"\",\r\n    \"force_play\": \"0\",\r\n    \"play_prefix\": \"https://live.52sf.ga/huya/\",\r\n    \"play_suffix\": \"#isVideo=true#\",\r\n    \"play_header\": \"authority$ku.peizq.online#Referer$https://play.peizq.online\",\r\n    \"proj_is_jsoup\": \"0\",\r\n    \"proj_cate\": \"语　　言\",\r\n    \"proj_year\": \"年　　代\",\r\n    \"proj_area\": \"类　　别\",\r\n    \"proj_actor\": \"演　　员　&&</p>\",\r\n    \"proj_plot\": \"简　　介&&</p>\",\r\n    \"list_arr_rule\": \"body&&[href*=magnet]\",\r\n    \"epi_arr_rule\": \"a\",\r\n    \"epi_is_jsoup\": \"1\",\r\n    \"epi_title\": \"a&&Text\",\r\n    \"epi_url\": \"a&&href\",\r\n    \"epi_reverse\": \"0\",\r\n    \"epiurl_prefix\": \"\",\r\n    \"epiurl_suffix\": \"\",\r\n    \"Anal_MacPlayer\": \"0\",\r\n    \"ManualSniffer\": \"0\",\r\n    \"VideoFormat\": \".mp4#.m3u8#.flv\",\r\n    \"VideoFilter\": \".html#=http\"\r\n}\r\n"
+    },
+    {
+      "key": "dr_ 爱看",
+      "name": "爱看JS",
+      "type": 3,
+      "api": "https://agit.ai/mimang/js/raw/branch/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "var 二级=`js:\r\ntry {\r\n    VOD={};\r\n\tlet html1 = request(input);\r\n\tpdfh = jsp.pdfh;\r\n\tVOD.vod_id = pdfh(html1, \"#current_id&&value\");\r\n\tVOD.vod_name = pdfh(html1, \"h2&&Text\");\r\n\t// VOD.vod_pic = pdfh(html1, \".item-root&&img&&src\");\r\n\tVOD.vod_pic = pdfh(html1, \".item-root&&img&&data-src\");\r\n\t// VOD.vod_actor = pdfh(html1, \".celebrity&&Text\");\r\n\tVOD.vod_actor = pdfh(html1, \".meta:eq(4)&&Text\");\r\n\t// VOD.vod_area = pdfh(html1, \".country&&Text\");\r\n\tVOD.vod_area = pdfh(html1, \".meta:eq(3)&&Text\");\r\n\t// VOD.vod_year = pdfh(html1, \".year&&Text\");\r\n\tVOD.vod_year = pdfh(html1, \".meta:eq(2)&&Text\");\r\n\tVOD.vod_remarks = \"\";\r\n\tVOD.vod_director = \"\";\r\n\tVOD.vod_content = \"\";\r\n\tlog(VOD);\r\n\tinput = \"https://www.ikanbot.com/api/getResN?videoId=\" + input.split(\"/\").pop() + \"&mtype=2\";\r\n\tlet html = request(input);\r\n\tprint(html);\r\n\thtml = JSON.parse(html);\r\n\tlet episodes = html.data.list;\r\n\tlet playMap = {};\r\n\tif (typeof play_url === \"undefined\") {\r\n\t\tvar play_url = \"\"\r\n\t}\r\n\tepisodes.forEach(function(ep) {\r\n\t\tlet playurls = JSON.parse(ep[\"resData\"]);\r\n\t\tplayurls.forEach(function(playurl) {\r\n\t\t\tlet source = playurl[\"flag\"];\r\n\t\t\tif (!playMap.hasOwnProperty(source)) {\r\n\t\t\t\tplayMap[source] = []\r\n\t\t\t}\r\n\t\t\tplayMap[source].push(playurl[\"url\"])\r\n\t\t})\r\n\t});\r\n\tlet playFrom = [];\r\n\tlet playList = [];\r\n\tObject.keys(playMap).forEach(function(key) {\r\n\t\tplayFrom.append(key);\r\n\t\tplayList.append(playMap[key])\r\n\t});\r\n\tlet vod_play_from = playFrom.join(\"$$$\");\r\n\tlet vod_play_url = playList.join(\"$$$\");\r\n\tVOD[\"vod_play_from\"] = vod_play_from;\r\n\tVOD[\"vod_play_url\"] = vod_play_url;\r\n\tlog(VOD);\r\n} catch (e) {\r\n\tlog(\"获取二级详情页发生错误:\" + e.message)\r\n}\r\n`;\r\n\r\nvar rule = {\r\n    title:'爱看机器人',\r\n    host:'https://www.ikanbot.com',\r\n    url:'/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',\r\n    //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2\r\n    searchUrl:'/search?q=**&p=fypage',\r\n    searchable:2,\r\n    quickSearch:0,\r\n    filterable:1,\r\n    filter_url:'{{fl.tag}}',\r\n    // 图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',\r\n\t图片来源:'@Referer=https://www.ikanbot.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',\r\n    filter:{\r\n        \"movie\":[{\"key\":\"tag\",\"name\":\"标签\",\"value\":[{\"n\":\"热门\",\"v\":\"热门\"},{\"n\":\"最新\",\"v\":\"最新\"},{\"n\":\"经典\",\"v\":\"经典\"},{\"n\":\"豆瓣高分\",\"v\":\"豆瓣高分\"},{\"n\":\"冷门佳片\",\"v\":\"冷门佳片\"},{\"n\":\"华语\",\"v\":\"华语\"},{\"n\":\"欧美\",\"v\":\"欧美\"},{\"n\":\"韩国\",\"v\":\"韩国\"},{\"n\":\"日本\",\"v\":\"日本\"},{\"n\":\"动作\",\"v\":\"动作\"},{\"n\":\"喜剧\",\"v\":\"喜剧\"},{\"n\":\"爱情\",\"v\":\"爱情\"},{\"n\":\"科幻\",\"v\":\"科幻\"},{\"n\":\"悬疑\",\"v\":\"悬疑\"},{\"n\":\"恐怖\",\"v\":\"恐怖\"},{\"n\":\"治愈\",\"v\":\"治愈\"},{\"n\":\"豆瓣top250\",\"v\":\"豆瓣top250\"}]}],\r\n        \"tv\":[{\"key\":\"tag\",\"name\":\"标签\",\"value\":[{\"n\":\"热门\",\"v\":\"热门\"},{\"n\":\"美剧\",\"v\":\"美剧\"},{\"n\":\"英剧\",\"v\":\"英剧\"},{\"n\":\"韩剧\",\"v\":\"韩剧\"},{\"n\":\"日剧\",\"v\":\"日剧\"},{\"n\":\"国产剧\",\"v\":\"国产剧\"},{\"n\":\"港剧\",\"v\":\"港剧\"},{\"n\":\"日本动画\",\"v\":\"日本动画\"},{\"n\":\"综艺\",\"v\":\"综艺\"},{\"n\":\"纪录片\",\"v\":\"纪录片\"}]}]\r\n    },\r\n    filter_def:{\r\n\t\tmovie:{tag:'热门'},\r\n\t\ttv:{tag:'热门'},\r\n\t},\r\n    filter获取方法:`\r\n    let value = [];\r\n    $('ul').eq(2).find('li').each(function() {\r\n      // console.log($(this).text());\r\n      let n = $(this).text().trim();\r\n      value.push({\r\n      'n': n, 'v': n\r\n      });\r\n    });\r\n    // 电影执行:\r\n    let data = {'movie': [{'key': 'tag', 'name': '标签', 'value': value}]};\r\n    console.log(JSON.stringify(data));\r\n    \r\n    //剧集执行:\r\n    let data = {'tv': [{'key': 'tag', 'name': '标签', 'value': value}]};\r\n    console.log(JSON.stringify(data));\r\n    `,\r\n    headers:{'User-Agent':'PC_UA',},\r\n    class_name:'电影&剧集',\r\n    class_url:'movie&tv',\r\n\tplay_parse:true,\r\n\tdouble:true,\r\n    推荐:'.v-list;div.item;*;*;*;*', //这里可以为空，这样点播不会有内容\r\n    // 一级:'.v-list&&div.item;p&&Text;img&&src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配\r\n\t一级:'.v-list&&div.item;p&&Text;img&&data-src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配\r\n    二级:二级,\r\n    // 搜索:'#search-result&&.media;h5&&a&&Text;a&&img&&data-src;.label&&Text;a&&href',//第三个是描述，一般显示更新或者完结\r\n\t搜索:'.col-md-8&&.media;h5&&a&&Text;a&&img&&data-src;.label&&Text;a&&href',//第三个是描述，一般显示更新或者完结\r\n}\r\n"
+    },
+    {
+      "key": "csp_XYQHiker_nm",
+      "name": "子子",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n    \"规则名\": \"子子影视\",\r\n    \"规则作者\": \"香雅情\",\r\n    \"请求头参数\": \"MOBILE_UA\",\r\n    \"网页编码格式\": \"UTF-8\",\r\n    \"是否开启获取首页数据\":\"1\",\r\n    \"图片是否需要代理\": \"否\",\r\n    \"是否开启获取首页数据\": \"1\",\r\n    \"首页推荐链接\": \"https://www.ziziys.com\",\r\n    \"首页列表数组规则\": \"body&&.module-items:has(.module-item-pic)\",\r\n    \"首页片单列表数组规则\": \".module-item\",\r\n    \"首页片单是否Jsoup写法\": \"1\",\r\n    \"分类起始页码\": \"1\",\r\n    \"分类链接\": \"https://www.ziziys.com/list/{cateId}-{catePg}.html\",\r\n    \"分类名称\": \"电影&电视剧&动漫\",\r\n    \"分类名称替换词\": \"1&2&3\",\r\n    //\"筛选数据\": {},\r\n    \"筛选数据\": \"ext\",\r\n    //{cateId}\r\n    \"筛选子分类名称\": \"动漫片&恐怖片&历史传记片&战争片&情色片&武侠古装&记录片&灾难片&音乐歌舞&运动片&科幻片&动作片&剧情片&喜剧&爱情片&惊悚片&奇幻片&悬疑片||国产剧&美剧&日韩剧&泰剧||国漫&日漫&欧美动漫\",\r\n    \"筛选子分类替换词\": \"23&24&25&26&27&28&29&30&31&32&33&6&7&8&9&10&11&12||13&14&15&16||20&21&22\",\r\n    \"分类截取模式\": \"1\",\r\n    \"分类列表数组规则\": \"body&&.module-item:has(.module-item-text)\",\r\n    \"分类片单是否Jsoup写法\": \"是\",\r\n    \"分类片单标题\": \".module-item-title&&Text\",\r\n    \"分类片单链接\": \"a&&href\",\r\n    \"分类片单图片\": \".lazyloaded&&data-src\",\r\n    \"分类片单副标题\": \".module-item-text&&Text\",\r\n    \"分类片单链接加前缀\": \"https://www.ziziys.com\",\r\n    \"分类片单链接加后缀\": \"\",\r\n    \"搜索请求头参数\": \"User-Agent$MOBILE_UA\",\r\n    \"搜索链接\": \"https://www.ziziys.com/vsearch/--.html?wd={wd}\",\r\n    \"POST请求数据\": \"wd={wd}&search=\",\r\n    \"搜索截取模式\": \"1\",\r\n    \"搜索列表数组规则\": \".module-items&&.module-search-item\",\r\n    \"搜索片单是否Jsoup写法\": \"是\",\r\n    \"搜索片单图片\": \".lazyload&&data-src\",\r\n    \"搜索片单标题\": \"h3&&a&&Text\",\r\n    \"搜索片单链接\": \"h3&&a&&href\",\r\n    \"搜索片单副标题\": \".video-info-header&&Text\",\r\n    \"搜索片单链接加前缀\": \"https://www.ziziys.com\",\r\n    \"搜索片单链接加后缀\": \"\",\r\n    \"链接是否直接播放\": \"否\",\r\n    \"直接播放链接加前缀\": \"https://live.52sf.ga/huya/\",\r\n    \"直接播放链接加后缀\": \"#isVideo=true#\",\r\n    \"直接播放直链视频请求头\": \"authority$ku.peizq.online#Referer$https://play.peizq.online\",\r\n    \"详情是否Jsoup写法\": \"是\",\r\n    \"类型详情\": \"\",\r\n    \"年代详情\": \"..video-info-main&&.video-info-items,2&&Text\",\r\n    \"地区详情\": \"\",\r\n    \"演员详情\": \".video-info-main&&.video-info-items,1&&Text\",\r\n    \"简介详情\": \".video-info-main&&.video-info-items,-1&&Text\",\r\n    \"线路列表数组规则\": \".module-player-tab&&.module-tab-item\",\r\n    \"线路标题\": \"Text\",\r\n    \"播放列表数组规则\": \"body&&.module-player-list\",\r\n    \"选集列表数组规则\": \".module-tab-content&&a\",\r\n    \"选集标题链接是否Jsoup写法\": \"是\",\r\n    \"选集标题\": \"a&&Text\",\r\n    \"选集链接\": \"a&&href\",\r\n    \"是否反转选集序列\": \"否\",\r\n    \"选集链接加前缀\": \"https://www.ziziys.com\",\r\n    \"选集链接加后缀\": \"\",\r\n    \"分析MacPlayer\": \"是\",\r\n    \"是否开启手动嗅探\": \"否\",\r\n    \"手动嗅探视频链接关键词\": \".mp4#.m3u8#.flv\",\r\n    \"手动嗅探视频链接过滤词\": \".html#=http\"\r\n}\r\n"
+    },
+        {
+      "key": "csp_XBPQ_ 奇优影院",
+      "name": "奇优影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"站名\":\"奇优影院\",\r\n\"主页url\":\"http://www.qiyoudy2.com\",\r\n\"发布页\":\"http://www.qiyoudy.info/\",\r\n\"数组\":\"<div class=\\\"stui-vodlist__box\\\">&&</div>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"<span class=\\\"pic-text text-right\\\">&&</span>\",\r\n\"搜索url\":\"http://www.qiyoudy1.com/search.php;post;searchword={wd}\",\r\n\"搜索模式\":\"1\",\r\n\"搜索数组\":\"<a class=\\\"v-thumb stui-vodlist__thumb&&</a>\",\r\n\"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"title=\\\"&&\\\"\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\"搜索副标题\":\"<span class=\\\"pic-text text-right\\\">&&</span>\",\r\n\"搜索后缀\":\"/view/\",\r\n\"线路数组\":\"<a data-toggle=\\\"tab\\\"&&/a>[排序:播放源2>播放源3>播放源4>播放源1]\",\r\n\"线路标题\":\">&&<\",\r\n\"播放数组\":\"<ul class=\\\"stui-content__playlist clearfix&&</ul>\",\r\n\"影片年代\":\"年份：&&</p>\",\r\n\"影片地区\":\"地区：&&<span\",\r\n\"影片类型\":\"类型：&&</a>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</a>\",\r\n\"播放列表\":\"<a&&/a>\",\r\n\"播放标题\":\">&&<\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"http://www.qiyoudy1.com\",\r\n\"嗅探词\":\".m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"分类url\":\"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}\",\r\n\"分类\":\"电影$1#电视剧$2#动漫$3#综艺$4\",\r\n\"筛选\":\r\n{\r\n\"1\":[\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"2\":[\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"3\":[\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"4\":[\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"6\":[\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n]\r\n}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_零零七影视",
+      "name": "零零七影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"作者\":\"张弘\",\r\n\"站名\":\"零零七影视\",\r\n\"主页url\":\"https://www.007ts.me\",\r\n\"数组\":\"<div class=\\\"stui-vodlist__box\\\">&&</div>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"<span class=\\\"pic-text text-right\\\">&&</span>\",\r\n\"搜索url\":\"/vodsearch/{wd}----------{pg}---.html\",\r\n\"搜索模式\":\"1\",\r\n\"搜索数组\":\"<div class=\\\"stui-vodlist__box\\\">&&</div>\",\r\n\"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"title=\\\"&&\\\"\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\"搜索副标题\":\"<span class=\\\"pic-text text-right\\\">&&</span>\",\r\n\"搜索后缀\":\"/detail/\",\r\n\"影片类型\":\"类型：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"style=\\\"display: none;\\\">&&</span>\",\r\n\"线路二次截取\":\"<ul class=\\\"nav nav-tabs dpplay pull-right\\\">&&</ul>\",\r\n\"线路数组\":\"<li&&</li>\",\r\n\"线路标题\":\">&&</a>\",\r\n\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\r\n\"播放列表\":\"<a&&/a>\",\r\n\"播放标题\":\">&&<\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"分类\":\"电影$1#电视剧$2#动漫$3#综艺$4#少儿$19#热舞$18#直播$7\",\r\n\"分类url\":\"https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\",\r\n\"免嗅\":\"1\",\r\n\"筛选\":{\r\n\"1\":[\r\n{\"key\":\"class\",\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"爱情\",\"v\":\"爱情\"},\r\n{\"n\":\"动作\",\"v\":\"动作\"},\r\n{\"n\":\"喜剧\",\"v\":\"喜剧\"},\r\n{\"n\":\"战争\",\"v\":\"战争\"},\r\n{\"n\":\"科幻\",\"v\":\"科幻\"},\r\n{\"n\":\"剧情\",\"v\":\"剧情\"},\r\n{\"n\":\"武侠\",\"v\":\"武侠\"},\r\n{\"n\":\"冒险\",\"v\":\"冒险\"},\r\n{\"n\":\"枪战\",\"v\":\"枪战\"},\r\n{\"n\":\"恐怖\",\"v\":\"恐怖\"},\r\n{\"n\":\"微电影\",\"v\":\"微电影\"},\r\n{\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n{\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"大陆\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"台湾\",\"v\":\"台湾\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"},\r\n{\"n\":\"日本\",\"v\":\"日本\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"泰国\",\"v\":\"泰国\"},\r\n{\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n{\"n\":\"印度\",\"v\":\"印度\"},\r\n{\"n\":\"英国\",\"v\":\"英国\"},\r\n{\"n\":\"法国\",\"v\":\"法国\"},\r\n{\"n\":\"加拿大\",\"v\":\"加拿大\"},\r\n{\"n\":\"西班牙\",\"v\":\"西班牙\"},\r\n{\"n\":\"俄罗斯\",\"v\":\"俄罗斯\"},\r\n{\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n{\"key\":\"lang\",\"name\":\"语言\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"国语\",\"v\":\"国语\"},\r\n{\"n\":\"英语\",\"v\":\"英语\"},\r\n{\"n\":\"粤语\",\"v\":\"粤语\"},\r\n{\"n\":\"闽南语\",\"v\":\"闽南语\"},\r\n{\"n\":\"韩语\",\"v\":\"韩语\"},\r\n{\"n\":\"日语\",\"v\":\"日语\"},\r\n{\"n\":\"法语\",\"v\":\"法语\"},\r\n{\"n\":\"德语\",\"v\":\"德语\"},\r\n{\"n\":\"其它\",\"v\":\"其它\"}]},\r\n  \r\n{\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"2023\",\"v\":\"2023\"},\r\n{\"n\":\"2022\",\"v\":\"2022\"},\r\n{\"n\":\"2021\",\"v\":\"2021\"},\r\n{\"n\":\"2020\",\"v\":\"2020\"},\r\n{\"n\":\"2019\",\"v\":\"2019\"},\r\n{\"n\":\"2018\",\"v\":\"2018\"},\r\n{\"n\":\"2017\",\"v\":\"2017\"},\r\n{\"n\":\"2016\",\"v\":\"2016\"},\r\n{\"n\":\"2015\",\"v\":\"2015\"},\r\n{\"n\":\"2014\",\"v\":\"2014\"},\r\n{\"n\":\"2013\",\"v\":\"2013\"},\r\n{\"n\":\"2012\",\"v\":\"2012\"},\r\n{\"n\":\"2011\",\"v\":\"2011\"},\r\n{\"n\":\"2010\",\"v\":\"2010\"},\r\n{\"n\":\"2009\",\"v\":\"2009\"},\r\n{\"n\":\"2008\",\"v\":\"2008\"},\r\n{\"n\":\"2007\",\"v\":\"2007\"},\r\n{\"n\":\"2006\",\"v\":\"2006\"},\r\n{\"n\":\"2005\",\"v\":\"2005\"},\r\n{\"n\":\"2004\",\"v\":\"2004\"},\r\n{\"n\":\"2003\",\"v\":\"2003\"},\r\n{\"n\":\"2002\",\"v\":\"2002\"},\r\n{\"n\":\"2001\",\"v\":\"2001\"},\r\n{\"n\":\"2000\",\"v\":\"2000\"}]},\r\n  \r\n{\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"2\":[\r\n{\"key\":\"class\",\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"古装\",\"v\":\"古装\"},\r\n{\"n\":\"战争\",\"v\":\"战争\"},\r\n{\"n\":\"喜剧\",\"v\":\"喜剧\"},\r\n{\"n\":\"家庭\",\"v\":\"家庭\"},\r\n{\"n\":\"犯罪\",\"v\":\"犯罪\"},\r\n{\"n\":\"动作\",\"v\":\"运动\"},\r\n{\"n\":\"奇幻\",\"v\":\"奇幻\"},\r\n{\"n\":\"剧情\",\"v\":\"剧情\"},\r\n{\"n\":\"历史\",\"v\":\"历史\"},\r\n{\"n\":\"经典\",\"v\":\"经典\"},\r\n{\"n\":\"乡村\",\"v\":\"乡村\"},\r\n{\"n\":\"情景\",\"v\":\"情景\"},\r\n{\"n\":\"商战\",\"v\":\"商战\"},\r\n{\"n\":\"网剧\",\"v\":\"网剧\"},\r\n{\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n{\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"大陆\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"台湾\",\"v\":\"台湾\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"},\r\n{\"n\":\"日本\",\"v\":\"日本\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"泰国\",\"v\":\"泰国\"},\r\n{\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n{\"n\":\"印度\",\"v\":\"印度\"},\r\n{\"n\":\"英国\",\"v\":\"英国\"},\r\n{\"n\":\"法国\",\"v\":\"法国\"},\r\n{\"n\":\"加拿大\",\"v\":\"加拿大\"},\r\n{\"n\":\"西班牙\",\"v\":\"西班牙\"},\r\n{\"n\":\"俄罗斯\",\"v\":\"俄罗斯\"},\r\n{\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n{\"key\":\"lang\",\"name\":\"语言\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"国语\",\"v\":\"国语\"},\r\n{\"n\":\"英语\",\"v\":\"英语\"},\r\n{\"n\":\"粤语\",\"v\":\"粤语\"},\r\n{\"n\":\"闽南语\",\"v\":\"闽南语\"},\r\n{\"n\":\"韩语\",\"v\":\"韩语\"},\r\n{\"n\":\"日语\",\"v\":\"日语\"},\r\n{\"n\":\"法语\",\"v\":\"法语\"},\r\n{\"n\":\"德语\",\"v\":\"德语\"},\r\n{\"n\":\"其它\",\"v\":\"其它\"}]},\r\n  \r\n{\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"2023\",\"v\":\"2023\"},\r\n{\"n\":\"2022\",\"v\":\"2022\"},\r\n{\"n\":\"2021\",\"v\":\"2021\"},\r\n{\"n\":\"2020\",\"v\":\"2020\"},\r\n{\"n\":\"2019\",\"v\":\"2019\"},\r\n{\"n\":\"2018\",\"v\":\"2018\"},\r\n{\"n\":\"2017\",\"v\":\"2017\"},\r\n{\"n\":\"2016\",\"v\":\"2016\"},\r\n{\"n\":\"2015\",\"v\":\"2015\"},\r\n{\"n\":\"2014\",\"v\":\"2014\"},\r\n{\"n\":\"2013\",\"v\":\"2013\"},\r\n{\"n\":\"2012\",\"v\":\"2012\"},\r\n{\"n\":\"2011\",\"v\":\"2011\"},\r\n{\"n\":\"2010\",\"v\":\"2010\"},\r\n{\"n\":\"2009\",\"v\":\"2009\"},\r\n{\"n\":\"2008\",\"v\":\"2008\"},\r\n{\"n\":\"2007\",\"v\":\"2007\"},\r\n{\"n\":\"2006\",\"v\":\"2006\"},\r\n{\"n\":\"2005\",\"v\":\"2005\"},\r\n{\"n\":\"2004\",\"v\":\"2004\"},\r\n{\"n\":\"2003\",\"v\":\"2003\"},\r\n{\"n\":\"2002\",\"v\":\"2002\"},\r\n{\"n\":\"2001\",\"v\":\"2001\"},\r\n{\"n\":\"2000\",\"v\":\"2000\"}]},\r\n  \r\n{\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"3\":[\r\n{\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"大陆\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"台湾\",\"v\":\"台湾\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"},\r\n{\"n\":\"日本\",\"v\":\"日本\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"泰国\",\"v\":\"泰国\"},\r\n{\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n{\"n\":\"印度\",\"v\":\"印度\"},\r\n{\"n\":\"英国\",\"v\":\"英国\"},\r\n{\"n\":\"法国\",\"v\":\"法国\"},\r\n{\"n\":\"加拿大\",\"v\":\"加拿大\"},\r\n{\"n\":\"西班牙\",\"v\":\"西班牙\"},\r\n{\"n\":\"俄罗斯\",\"v\":\"俄罗斯\"},\r\n{\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n{\"key\":\"lang\",\"name\":\"语言\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"国语\",\"v\":\"国语\"},\r\n{\"n\":\"英语\",\"v\":\"英语\"},\r\n{\"n\":\"粤语\",\"v\":\"粤语\"},\r\n{\"n\":\"闽南语\",\"v\":\"闽南语\"},\r\n{\"n\":\"韩语\",\"v\":\"韩语\"},\r\n{\"n\":\"日语\",\"v\":\"日语\"},\r\n{\"n\":\"法语\",\"v\":\"法语\"},\r\n{\"n\":\"德语\",\"v\":\"德语\"},\r\n{\"n\":\"其它\",\"v\":\"其它\"}]},\r\n  \r\n{\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"2023\",\"v\":\"2023\"},\r\n{\"n\":\"2022\",\"v\":\"2022\"},\r\n{\"n\":\"2021\",\"v\":\"2021\"},\r\n{\"n\":\"2020\",\"v\":\"2020\"},\r\n{\"n\":\"2019\",\"v\":\"2019\"},\r\n{\"n\":\"2018\",\"v\":\"2018\"},\r\n{\"n\":\"2017\",\"v\":\"2017\"},\r\n{\"n\":\"2016\",\"v\":\"2016\"},\r\n{\"n\":\"2015\",\"v\":\"2015\"},\r\n{\"n\":\"2014\",\"v\":\"2014\"},\r\n{\"n\":\"2013\",\"v\":\"2013\"},\r\n{\"n\":\"2012\",\"v\":\"2012\"},\r\n{\"n\":\"2011\",\"v\":\"2011\"},\r\n{\"n\":\"2010\",\"v\":\"2010\"},\r\n{\"n\":\"2009\",\"v\":\"2009\"},\r\n{\"n\":\"2008\",\"v\":\"2008\"},\r\n{\"n\":\"2007\",\"v\":\"2007\"},\r\n{\"n\":\"2006\",\"v\":\"2006\"},\r\n{\"n\":\"2005\",\"v\":\"2005\"},\r\n{\"n\":\"2004\",\"v\":\"2004\"},\r\n{\"n\":\"2003\",\"v\":\"2003\"},\r\n{\"n\":\"2002\",\"v\":\"2002\"},\r\n{\"n\":\"2001\",\"v\":\"2001\"},\r\n{\"n\":\"2000\",\"v\":\"2000\"}]},\r\n  \r\n{\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"4\":[\r\n{\"key\":\"class\",\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"脱口秀\",\"v\":\"脱口秀\"},\r\n{\"n\":\"真人秀\",\"v\":\"真人秀\"},\r\n{\"n\":\"访谈\",\"v\":\"访谈\"},\r\n{\"n\":\"选秀\",\"v\":\"选秀\"},\r\n{\"n\":\"八卦\",\"v\":\"八卦\"},\r\n{\"n\":\"访谈\",\"v\":\"访谈\"},\r\n{\"n\":\"情感\",\"v\":\"情感\"},\r\n{\"n\":\"生活\",\"v\":\"生活\"},\r\n{\"n\":\"搞笑\",\"v\":\"搞笑\"},\r\n{\"n\":\"音乐\",\"v\":\"音乐\"}]},\r\n  \r\n{\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"大陆\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"台湾\",\"v\":\"台湾\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"},\r\n{\"n\":\"日本\",\"v\":\"日本\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"泰国\",\"v\":\"泰国\"},\r\n{\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n{\"n\":\"印度\",\"v\":\"印度\"},\r\n{\"n\":\"英国\",\"v\":\"英国\"},\r\n{\"n\":\"法国\",\"v\":\"法国\"},\r\n{\"n\":\"加拿大\",\"v\":\"加拿大\"},\r\n{\"n\":\"西班牙\",\"v\":\"西班牙\"},\r\n{\"n\":\"俄罗斯\",\"v\":\"俄罗斯\"},\r\n{\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n{\"key\":\"lang\",\"name\":\"语言\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"国语\",\"v\":\"国语\"},\r\n{\"n\":\"英语\",\"v\":\"英语\"},\r\n{\"n\":\"粤语\",\"v\":\"粤语\"},\r\n{\"n\":\"闽南语\",\"v\":\"闽南语\"},\r\n{\"n\":\"韩语\",\"v\":\"韩语\"},\r\n{\"n\":\"日语\",\"v\":\"日语\"},\r\n{\"n\":\"法语\",\"v\":\"法语\"},\r\n{\"n\":\"德语\",\"v\":\"德语\"},\r\n{\"n\":\"其它\",\"v\":\"其它\"}]},\r\n  \r\n{\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"2023\",\"v\":\"2023\"},\r\n{\"n\":\"2022\",\"v\":\"2022\"},\r\n{\"n\":\"2021\",\"v\":\"2021\"},\r\n{\"n\":\"2020\",\"v\":\"2020\"},\r\n{\"n\":\"2019\",\"v\":\"2019\"},\r\n{\"n\":\"2018\",\"v\":\"2018\"},\r\n{\"n\":\"2017\",\"v\":\"2017\"},\r\n{\"n\":\"2016\",\"v\":\"2016\"},\r\n{\"n\":\"2015\",\"v\":\"2015\"},\r\n{\"n\":\"2014\",\"v\":\"2014\"},\r\n{\"n\":\"2013\",\"v\":\"2013\"},\r\n{\"n\":\"2012\",\"v\":\"2012\"},\r\n{\"n\":\"2011\",\"v\":\"2011\"},\r\n{\"n\":\"2010\",\"v\":\"2010\"},\r\n{\"n\":\"2009\",\"v\":\"2009\"},\r\n{\"n\":\"2008\",\"v\":\"2008\"},\r\n{\"n\":\"2007\",\"v\":\"2007\"},\r\n{\"n\":\"2006\",\"v\":\"2006\"},\r\n{\"n\":\"2005\",\"v\":\"2005\"},\r\n{\"n\":\"2004\",\"v\":\"2004\"},\r\n{\"n\":\"2003\",\"v\":\"2003\"},\r\n{\"n\":\"2002\",\"v\":\"2002\"},\r\n{\"n\":\"2001\",\"v\":\"2001\"},\r\n{\"n\":\"2000\",\"v\":\"2000\"}]},\r\n  \r\n{\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}]}]}\r\n}"
+    },
+        {
+      "key": "dr_ aiqiy",
+      "name": "aiqiyi JS",
+      "type": 3,
+      "api": "https://agit.ai/mimang/js/raw/branch/master/lib/drpy2.min.js",
+      "playUrl": "https://jx.imayday.cn/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/aiqiyi.js"
+    },
+    {"key":"电影港","name":"🧲电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/电影港磁力.json"},
+            {
+      "key": "csp_XBPQ_7",
+      "name": "7",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/momo/raw/branch/master/7.json"
+    },
+           {
+      "key": "dr_哔嘀影视",
+      "name": "哔嘀影视JS",
+      "type": 3,
+      "api": "https://agit.ai/mimang/js/raw/branch/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/bdys.js"
+    },
+
+   {
+      "key": "dr_ kuyun",
+      "name": "kuyun",
+      "type": 3,
+      "api": "https://agit.ai/mimang/js/raw/branch/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/酷云77.js"
+    },
+            {
+      "key": "dr_ gaze",
+      "name": "gaze",
+      "type": 3,
+      "api": "https://agit.ai/mimang/js/raw/branch/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/js/raw/branch/master/gaze.js"
+    },
+        {
+      "key": "csp_XBPQ_ 97",
+      "name": "97",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/momo/raw/branch/master/97.json"
+    },
+    {"key":"dr_荐片","name":"荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"},
+    {
+      "key": "csp_XBPQ_ 85cili",
+      "name": "85ci",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mimang/momo/raw/branch/master/clcs.json"
+    },
+    {
+      "key": "csp_XBPQ_ 零零七",
+      "name": "💢零零七",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"
+    },
+    {
+      "key": "快看资源",
+      "name": "快看资源(采集)",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "暴风资源",
+      "name": "暴风资源(采集)",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "csp_XPath_nm",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "    {\r\n      \"author\": \"春风\",\r\n      \"ua\": \"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36\",\r\n      \"发布页\": \"www.nmdvd.com\",\r\n      \"homeUrl\": \"https://www.nmddd.com\",\r\n      \"dcVipFlag\": \"true\",\r\n      \"dcPlayUrl\": \"true\",\r\n      \"cateManual\": {\r\n      \"电影\": \"1\",\r\n      \"连续剧\": \"2\",\r\n      \"动漫\": \"4\",\r\n      \"综艺\": \"3\"\r\n      },\r\n      \"homeVodNode\": \"//section/section[position()>2]//ul[@class='resize_list']/li/a\",\r\n      \"homeVodName\": \"/@title\",\r\n      \"homeVodId\": \"/@href\",\r\n      \"homeVodIdR\": \"/(S+).html\",\r\n      \"homeVodImg\": \"//@data-echo\",\r\n      \"homeVodImgR\": \"\",\r\n      \"homeVodMark\": \"/div/span[2]/span/text()\",\r\n      \"cateUrl\": \"https://www.nmddd.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html\",\r\n      \"cateVodNode\": \"//ul[@class='resize_list']/li/a\",\r\n      \"cateVodName\": \"/@title\",\r\n      \"cateVodId\": \"/@href\",\r\n      \"cateVodIdR\": \"/(S+).html\",\r\n      \"cateVodImg\": \"//@data-echo\",\r\n      \"cateVodImgR\": \"\",\r\n      \"cateVodMark\": \"/div/span[2]/span/em/text()\",\r\n      \"dtUrl\": \"https://www.nmddd.com/{vid}\",\r\n      \"dtNode\": \"//body\",\r\n      \"dtName\": \"//section[@class='page-hd']/a/@title\",\r\n      \"dtNameR\": \"\",\r\n      \"dtImg\": \"//section[@class='page-hd']/a/img/@src\",\r\n      \"dtImgR\": \"\",\r\n      \"dtCate\": \"\",\r\n      \"dtCateR\": \"\",\r\n      \"dtYear\": \"//span[contains(text(), '年代')]/following-sibling::a/text()\",\r\n      \"dtYearR\": \"\",\r\n      \"dtArea\": \"\",\r\n      \"dtAreaR\": \"\",\r\n      \"dtDirector\": \"//span[contains(text(), '导演')]/following-sibling::a/text()\",\r\n      \"dtDirectorR\": \"\",\r\n      \"dtActor\": \"//span[contains(text(), '主演')]/following-sibling::a/text()\",\r\n      \"dtActorR\": \"\",\r\n      \"dtDesc\": \"//article[@class='detail-con']/p/text()\",\r\n      \"dtDescR\": \"\",\r\n      \"dtFromNode\": \"//div[@class='hd']/ul/li/a\",\r\n      \"dtFromName\": \"/text()\",\r\n      \"dtFromNameR\": \"\",\r\n      \"dtUrlNode\": \"//div[@class='numList']/ul\",\r\n      \"dtUrlSubNode\": \"/li/a\",\r\n      \"dtUrlId\": \"@href\",\r\n      \"dtUrlIdR\": \"/(S+).html\",\r\n      \"dtUrlName\": \"/text()\",\r\n      \"dtUrlNameR\": \"\",\r\n      \"playUrl\": \"https://www.nmddd.com/{playUrl}\",\r\n      \"playUa\": \"\",\r\n      \"searchUrl\": \"https://www.nmddd.com/index.php?m=vod-search&wd={wd}\",\r\n      \"scVodNode\": \"//ul[@class='ulPicTxt clearfix']/li\",\r\n      \"scVodName\": \"//span[@class='sTit']/text()\",\r\n      \"scVodId\": \"//span[@class='sBtn']/a/@href\",\r\n      \"scVodIdR\": \"/(S+).html\",\r\n      \"scVodImg\": \"//img/@data-src\",\r\n      \"scVodMark\": \"//span[@class='sDes'][2]/text()\",\r\n      \"filter\":{\r\n     \"1\": [\r\n           {\r\n            \"name\":\"类型\",\r\n            \"key\":\"cateId\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"1\"},\r\n           {\"n\":\"动作片\",\"v\":\"5\"},\r\n           {\"n\":\"喜剧片\",\"v\":\"6\"},\r\n           {\"n\":\"爱情片\",\"v\":\"7\"},\r\n           {\"n\":\"科幻片\",\"v\":\"8\"},\r\n           {\"n\":\"恐怖片\",\"v\":\"9\"},\r\n           {\"n\":\"剧情片\",\"v\":\"10\"},\r\n           {\"n\":\"战争片\",\"v\":\"11\"},\r\n           {\"n\":\"惊悚片\",\"v\":\"16\"},\r\n           {\"n\":\"奇幻片\",\"v\":\"17\"}\r\n          ]},\r\n           {\r\n            \"name\":\"年份\",\r\n            \"key\":\"year\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"2022\",\"v\":\"2022\"},\r\n           {\"n\":\"2021\",\"v\":\"2021\"},\r\n           {\"n\":\"2020\",\"v\":\"2020\"},\r\n           {\"n\":\"2019\",\"v\":\"2019\"},\r\n           {\"n\":\"2018\",\"v\":\"2018\"},\r\n           {\"n\":\"2017\",\"v\":\"2017\"},\r\n           {\"n\":\"2016\",\"v\":\"2016\"},\r\n           {\"n\":\"2015\",\"v\":\"2015\"},\r\n           {\"n\":\"2014\",\"v\":\"2014\"},\r\n           {\"n\":\"2013\",\"v\":\"2013\"},\r\n           {\"n\":\"2012\",\"v\":\"2012\"},\r\n           {\"n\":\"2011\",\"v\":\"2011\"},\r\n           {\"n\":\"2010\",\"v\":\"2010\"}\r\n          ]},\r\n           {\r\n            \"name\":\"地区\",\r\n            \"key\":\"area\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"大陆\",\"v\":\"大陆\"},\r\n           {\"n\":\"香港\",\"v\":\"香港\"},\r\n           {\"n\":\"台湾\",\"v\":\"台湾\"},\r\n           {\"n\":\"米国\",\"v\":\"米国\"},\r\n           {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n           {\"n\":\"日本\",\"v\":\"日本\"},\r\n           {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n           {\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n           {\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n           {\"n\":\"印度\",\"v\":\"印度\"},\r\n           {\"n\":\"英国\",\"v\":\"英国\"},\r\n           {\"n\":\"法国\",\"v\":\"法国\"},\r\n           {\"n\":\"加拿大\",\"v\":\"加拿大\"}\r\n          ]},\r\n           {\r\n            \"name\":\"排序\",\r\n            \"key\":\"by\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"时间\",\"v\":\"time\"},\r\n           {\"n\":\"人气\",\"v\":\"hits\"},\r\n           {\"n\":\"评分\",\"v\":\"score\"}\r\n          ]}\r\n         ],\r\n     \"2\": [\r\n           {\r\n            \"name\":\"类型\",\r\n            \"key\":\"cateId\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"2\"},\r\n           {\"n\":\"国产剧\",\"v\":\"12\"},\r\n           {\"n\":\"港台剧\",\"v\":\"13\"},\r\n           {\"n\":\"日韩剧\",\"v\":\"14\"},\r\n           {\"n\":\"欧美剧\",\"v\":\"15\"}\r\n          ]},\r\n           {\r\n            \"name\":\"年份\",\r\n            \"key\":\"year\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"2022\",\"v\":\"2022\"},\r\n           {\"n\":\"2021\",\"v\":\"2021\"},\r\n           {\"n\":\"2020\",\"v\":\"2020\"},\r\n           {\"n\":\"2019\",\"v\":\"2019\"},\r\n           {\"n\":\"2018\",\"v\":\"2018\"},\r\n           {\"n\":\"2017\",\"v\":\"2017\"},\r\n           {\"n\":\"2016\",\"v\":\"2016\"},\r\n           {\"n\":\"2015\",\"v\":\"2015\"},\r\n           {\"n\":\"2014\",\"v\":\"2014\"},\r\n           {\"n\":\"2013\",\"v\":\"2013\"},\r\n           {\"n\":\"2012\",\"v\":\"2012\"},\r\n           {\"n\":\"2011\",\"v\":\"2011\"},\r\n           {\"n\":\"2010\",\"v\":\"2010\"}\r\n          ]},\r\n           {\r\n            \"name\":\"地区\",\r\n            \"key\":\"area\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"大陆\",\"v\":\"大陆\"},\r\n           {\"n\":\"香港\",\"v\":\"香港\"},\r\n           {\"n\":\"台湾\",\"v\":\"台湾\"},\r\n           {\"n\":\"米国\",\"v\":\"米国\"},\r\n           {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n           {\"n\":\"日本\",\"v\":\"日本\"},\r\n           {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n           {\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n           {\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n           {\"n\":\"印度\",\"v\":\"印度\"},\r\n           {\"n\":\"英国\",\"v\":\"英国\"},\r\n           {\"n\":\"法国\",\"v\":\"法国\"},\r\n           {\"n\":\"加拿大\",\"v\":\"加拿大\"}\r\n          ]},\r\n           {\r\n            \"name\":\"排序\",\r\n            \"key\":\"by\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"时间\",\"v\":\"time\"},\r\n           {\"n\":\"人气\",\"v\":\"hits\"},\r\n           {\"n\":\"评分\",\"v\":\"score\"}\r\n          ]}\r\n         ],\r\n     \"3\": [\r\n           {\r\n            \"name\":\"类型\",\r\n            \"key\":\"cateId\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"3\"}\r\n          ]},\r\n           {\r\n            \"name\":\"年份\",\r\n            \"key\":\"year\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"2022\",\"v\":\"2022\"},\r\n           {\"n\":\"2021\",\"v\":\"2021\"},\r\n           {\"n\":\"2020\",\"v\":\"2020\"},\r\n           {\"n\":\"2019\",\"v\":\"2019\"},\r\n           {\"n\":\"2018\",\"v\":\"2018\"},\r\n           {\"n\":\"2017\",\"v\":\"2017\"},\r\n           {\"n\":\"2016\",\"v\":\"2016\"},\r\n           {\"n\":\"2015\",\"v\":\"2015\"},\r\n           {\"n\":\"2014\",\"v\":\"2014\"},\r\n           {\"n\":\"2013\",\"v\":\"2013\"},\r\n           {\"n\":\"2012\",\"v\":\"2012\"},\r\n           {\"n\":\"2011\",\"v\":\"2011\"},\r\n           {\"n\":\"2010\",\"v\":\"2010\"}\r\n          ]},\r\n           {\r\n            \"name\":\"地区\",\r\n            \"key\":\"area\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"大陆\",\"v\":\"大陆\"},\r\n           {\"n\":\"香港\",\"v\":\"香港\"},\r\n           {\"n\":\"台湾\",\"v\":\"台湾\"},\r\n           {\"n\":\"米国\",\"v\":\"米国\"},\r\n           {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n           {\"n\":\"日本\",\"v\":\"日本\"},\r\n           {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n           {\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n           {\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n           {\"n\":\"印度\",\"v\":\"印度\"},\r\n           {\"n\":\"英国\",\"v\":\"英国\"},\r\n           {\"n\":\"法国\",\"v\":\"法国\"},\r\n           {\"n\":\"加拿大\",\"v\":\"加拿大\"}\r\n          ]},\r\n           {\r\n            \"name\":\"排序\",\r\n            \"key\":\"by\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"时间\",\"v\":\"time\"},\r\n           {\"n\":\"人气\",\"v\":\"hits\"},\r\n           {\"n\":\"评分\",\"v\":\"score\"}\r\n          ]}\r\n         ],\r\n     \"4\": [\r\n           {\r\n            \"name\":\"类型\",\r\n            \"key\":\"cateId\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"4\"},\r\n           {\"n\":\"动漫剧\",\"v\":\"18\"},\r\n           {\"n\":\"动漫片\",\"v\":\"19\"}\r\n          ]},\r\n           {\r\n            \"name\":\"年份\",\r\n            \"key\":\"year\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"2022\",\"v\":\"2022\"},\r\n           {\"n\":\"2021\",\"v\":\"2021\"},\r\n           {\"n\":\"2020\",\"v\":\"2020\"},\r\n           {\"n\":\"2019\",\"v\":\"2019\"},\r\n           {\"n\":\"2018\",\"v\":\"2018\"},\r\n           {\"n\":\"2017\",\"v\":\"2017\"},\r\n           {\"n\":\"2016\",\"v\":\"2016\"},\r\n           {\"n\":\"2015\",\"v\":\"2015\"},\r\n           {\"n\":\"2014\",\"v\":\"2014\"},\r\n           {\"n\":\"2013\",\"v\":\"2013\"},\r\n           {\"n\":\"2012\",\"v\":\"2012\"},\r\n           {\"n\":\"2011\",\"v\":\"2011\"},\r\n           {\"n\":\"2010\",\"v\":\"2010\"}\r\n          ]},\r\n           {\r\n            \"name\":\"地区\",\r\n            \"key\":\"area\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"大陆\",\"v\":\"大陆\"},\r\n           {\"n\":\"香港\",\"v\":\"香港\"},\r\n           {\"n\":\"台湾\",\"v\":\"台湾\"},\r\n           {\"n\":\"米国\",\"v\":\"米国\"},\r\n           {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n           {\"n\":\"日本\",\"v\":\"日本\"},\r\n           {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n           {\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n           {\"n\":\"马来西亚\",\"v\":\"马来西亚\"},\r\n           {\"n\":\"印度\",\"v\":\"印度\"},\r\n           {\"n\":\"英国\",\"v\":\"英国\"},\r\n           {\"n\":\"法国\",\"v\":\"法国\"},\r\n           {\"n\":\"加拿大\",\"v\":\"加拿大\"}\r\n          ]},\r\n           {\r\n            \"name\":\"排序\",\r\n            \"key\":\"by\",\r\n            \"value\":[\r\n           {\"n\":\"全部\",\"v\":\"\"},\r\n           {\"n\":\"时间\",\"v\":\"time\"},\r\n           {\"n\":\"人气\",\"v\":\"hits\"},\r\n           {\"n\":\"评分\",\"v\":\"score\"}\r\n        ]}\r\n       ]\r\n      }\r\n     }"
+    },
+    {
+      "key": "csp_XBPQ_ 乐猪影视",
+      "name": "乐猪影视【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"站名\":\"乐猪影视\",\r\n\"主页url\":\"http://www.lezhutv.com\",\r\n\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"倒序播放\":\"1\",\r\n\"数组\":\"class=\\\"vbox\\\">&&</li>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"<span>&&</span>\",\r\n\"线路数组\":\"icon-pin\\\">&&/h3>[替换:1.在线视频 (支持手机)>>👉线路♥<序号>]\",\r\n\"线路标题\":\"</i>&&<\",\r\n\"播放数组\":\"class=\\\"list_block show\\\"&&</ul>\",\r\n\"影片类型\":\"class=\\\"yac\\\">&&</p>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"class=\\\"tbox_js\\\">&&</div>\",\r\n\"播放列表\":\"<li>&&</li>\",\r\n\"播放标题\":\"\\\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n//\"搜索url\": \"/index.php?m=vod-search;post;wd={wd}&search=\",\r\n\"搜索url\":\"http://www.lezhutv.com/index.php?m=vod-search&wd={wd}\",\r\n\"搜索模式\":\"1\",\r\n\"搜索数组\":\"class=\\\"vbox\\\">&&</li>\",\r\n\"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"title=\\\"&&\\\"\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\"搜索副标题\":\"<span>&&</span>\",\r\n\"搜索后缀\":\"/detail/\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"电影&连续剧&综艺&韩剧&美剧\",\r\n\"分类值\":\"1&2&3&14&15\",\r\n\"分类url\":\"http://www.lezhutv.com/type/{cateId}-{catePg}.html\"\r\n}"
+    },
+    {
+      "key": "狐狸",
+      "name": "狐狸",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.9day.cc/api.php/app/"
+    },
+    {
+      "key": "迷你库",
+      "name": "Ⓜ迷你库",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.oftens.top/api.php/app/"
+    },
+    {
+      "key": "csp_DuoX",
+      "name": "多线影视",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天堂资源",
+      "name": "天堂资源(采集)",
+      "type": 1,
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "电影",
+        "国产剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "相声小品",
+      "name": "🅱️相声小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"
+    },
+    {
+      "key": "xinlangapi",
+      "name": "新浪(采集)",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "大陆剧",
+        "港澳剧",
+        "韩剧",
+        "动漫电影",
+        "欧美剧"
+      ]
+    },
+    {
+      "key": "guangsuapi",
+      "name": "光速推荐(采集)",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "大陆剧",
+        "港澳剧",
+        "韩剧",
+        "动漫电影",
+        "欧美剧"
+      ]
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XBPQ_ 看看剧秒播",
+      "name": "看看剧秒播【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"剧白白\",\r\n\"主页url\":\"https://www.kankanju.cc\",\r\n\"请求头\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"\",\r\n\"数组\":\"<div class=\\\"stui-vodlist__box\\\">&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"pic-text text-right\\\"><b>&&</b>\",\r\n\"搜索url\":\"https://www.kankanju.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=500\",\r\n\"搜索模式\": \"0\",\r\n//\"搜索数组\": \"<li&&</li>\",\r\n//\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n//\"搜索标题\": \"title=\\\"&&\\\"\",\r\n//\"搜索链接\": \"href=\\\"&&\\\"\",\r\n//\"搜索后缀\":\"/vod/\",\r\n\"线路二次截取\":\"<ul class=\\\"nav nav-tabs  dpplay pull-right\\\">&&</ul>\",\r\n\"线路数组\":\"<li>&&</li>\",\r\n\"线路标题\":\"tab\\\">&&</a>\",\r\n\"播放数组\":\"<ul class=\\\"stui-content__playlist clearfix sort-list\\\">&&</ul>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"<li>&&</li>\",\r\n\"播放标题\":\"\\\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\"zjcdn.com#1.mp4#.m3u8?#.mp4#.m3u8\",\r\n\"过滤词\":\"url=#?v=https\",\r\n\"播放请求头\":\"\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#奈飞$topicdetail-5\",\r\n\"分类url\":\"https://www.kankanju.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html\",\r\n \"筛选\":{\r\n\"dianshiju\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"dianshiju\"},\r\n  {\"n\":\"国产剧\",\"v\":\"guochanju\"},\r\n  {\"n\":\"港台剧\",\"v\":\"gangtaiju\"},\r\n  {\"n\":\"日韩剧\",\"v\":\"rihanju\"},\r\n  {\"n\":\"欧美剧\",\"v\":\"oumeiju\"}]},\r\n  \r\n  {\"key\":\"class\",\"name\":\"剧情\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"喜剧\",\"v\":\"喜剧\"},\r\n  {\"n\":\"爱情\",\"v\":\"爱情\"},\r\n  {\"n\":\"恐怖\",\"v\":\"恐怖\"},\r\n  {\"n\":\"动作\",\"v\":\"动作\"},\r\n  {\"n\":\"科幻\",\"v\":\"科幻\"},\r\n  {\"n\":\"剧情\",\"v\":\"剧情\"},\r\n  {\"n\":\"战争\",\"v\":\"战争\"},\r\n  {\"n\":\"犯罪\",\"v\":\"犯罪\"},\r\n  {\"n\":\"奇幻\",\"v\":\"奇幻\"},\r\n  {\"n\":\"武侠\",\"v\":\"武侠\"},\r\n  {\"n\":\"冒险\",\"v\":\"冒险\"},\r\n  {\"n\":\"奈飞\",\"v\":\"Netflix\"},\r\n  {\"n\":\"悬疑\",\"v\":\"悬疑\"},\r\n  {\"n\":\"惊悚\",\"v\":\"惊悚\"},\r\n  {\"n\":\"古装\",\"v\":\"古装\"},\r\n  {\"n\":\"历史\",\"v\":\"历史\"},\r\n  {\"n\":\"脱口秀\",\"v\":\"脱口秀\"},\r\n  {\"n\":\"灾难\",\"v\":\"灾难\"}]},\r\n  \r\n  {\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"中国\",\"v\":\"中国大陆\"},\r\n  {\"n\":\"香港\",\"v\":\"中国香港\"},\r\n  {\"n\":\"台湾\",\"v\":\"中国台湾\"},\r\n  {\"n\":\"美国\",\"v\":\"美国\"},\r\n  {\"n\":\"法国\",\"v\":\"法国\"},\r\n  {\"n\":\"英国\",\"v\":\"英国\"},\r\n  {\"n\":\"日本\",\"v\":\"日本\"},\r\n  {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n  {\"n\":\"德国\",\"v\":\"德国\"},\r\n  {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n  {\"n\":\"印度\",\"v\":\"印度\"},\r\n  {\"n\":\"意大利\",\"v\":\"意大利\"},\r\n  {\"n\":\"西班牙\",\"v\":\"西班牙\"},\r\n  {\"n\":\"加拿大\",\"v\":\"加拿大\"},\r\n  {\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n  {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"}]},\r\n  \r\n  {\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n  {\"n\":\"时间\",\"v\":\"time\"},\r\n  {\"n\":\"人气\",\"v\":\"hits\"},\r\n  {\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"dianying\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n{\"n\":\"全部\",\"v\":\"dianying\"},\r\n{\"n\":\"动作片\",\"v\":\"dongzuopian\"},\r\n{\"n\":\"喜剧片\",\"v\":\"xijupian\"},\r\n{\"n\":\"爱情片\",\"v\":\"aiqingpian\"},\r\n{\"n\":\"科幻片\",\"v\":\"kehuanpian\"},\r\n{\"n\":\"恐怖片\",\"v\":\"kongbupian\"},\r\n{\"n\":\"剧情片\",\"v\":\"juqingpian\"},\r\n{\"n\":\"战争片\",\"v\":\"zhanzhengpian\"},\r\n{\"n\":\"动画片\",\"v\":\"dinghuapian\"}]},\r\n  \r\n  {\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"大陆\",\"v\":\"中国大陆\"},\r\n  {\"n\":\"香港\",\"v\":\"中国香港\"},\r\n  {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n  {\"n\":\"美国\",\"v\":\"美国\"},\r\n  {\"n\":\"日本\",\"v\":\"日本\"},\r\n  {\"n\":\"法国\",\"v\":\"法国\"},\r\n  {\"n\":\"英国\",\"v\":\"英国\"},\r\n  {\"n\":\"德国\",\"v\":\"德国\"},\r\n  {\"n\":\"台湾\",\"v\":\"中国台湾\"},\r\n  {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n  {\"n\":\"印度\",\"v\":\"印度\"},\r\n  {\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n  {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]},\r\n  \r\n  {\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n  {\"n\":\"时间\",\"v\":\"time\"},\r\n  {\"n\":\"人气\",\"v\":\"hits\"},\r\n  {\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"3\":[\r\n  {\"key\":\"class\",\"name\":\"剧情\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"选秀\",\"v\":\"选秀\"},\r\n  {\"n\":\"情感\",\"v\":\"情感\"},\r\n  {\"n\":\"访谈\",\"v\":\"访谈\"},\r\n  {\"n\":\"播报\",\"v\":\"播报\"},\r\n  {\"n\":\"旅游\",\"v\":\"旅游\"},\r\n  {\"n\":\"音乐\",\"v\":\"音乐\"},\r\n  {\"n\":\"美食\",\"v\":\"美食\"},\r\n  {\"n\":\"纪实\",\"v\":\"纪实\"},\r\n  {\"n\":\"曲艺\",\"v\":\"曲艺\"},\r\n  {\"n\":\"生活\",\"v\":\"生活\"},\r\n  {\"n\":\"游戏互动\",\"v\":\"游戏互动\"},\r\n  {\"n\":\"财经\",\"v\":\"财经\"},\r\n  {\"n\":\"求职\",\"v\":\"求职\"}]},\r\n  \r\n  {\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"内地\",\"v\":\"内地\"},\r\n  {\"n\":\"港台\",\"v\":\"港台\"},\r\n  {\"n\":\"日韩\",\"v\":\"日韩\"},\r\n  {\"n\":\"欧美\",\"v\":\"欧美\"}]},\r\n  \r\n  {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2007\",\"v\":\"2007\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]},\r\n  \r\n  {\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n  {\"n\":\"时间\",\"v\":\"time\"},\r\n  {\"n\":\"人气\",\"v\":\"hits\"},\r\n  {\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"4\":[\r\n  {\"key\":\"class\",\"name\":\"剧情\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"情感\",\"v\":\"情感\"},\r\n  {\"n\":\"科幻\",\"v\":\"科幻\"},\r\n  {\"n\":\"热血\",\"v\":\"热血\"},\r\n  {\"n\":\"推理\",\"v\":\"推理\"},\r\n  {\"n\":\"搞笑\",\"v\":\"搞笑\"},\r\n  {\"n\":\"冒险\",\"v\":\"冒险\"},\r\n  {\"n\":\"萝莉\",\"v\":\"萝莉\"},\r\n  {\"n\":\"校园\",\"v\":\"校园\"},\r\n  {\"n\":\"动作\",\"v\":\"动作\"},\r\n  {\"n\":\"机战\",\"v\":\"机战\"},\r\n  {\"n\":\"运动\",\"v\":\"运动\"},\r\n  {\"n\":\"战争\",\"v\":\"战争\"},\r\n  {\"n\":\"少年\",\"v\":\"少年\"},\r\n  {\"n\":\"少女\",\"v\":\"少女\"},\r\n  {\"n\":\"社会\",\"v\":\"社会\"},\r\n  {\"n\":\"原创\",\"v\":\"原创\"},\r\n  {\"n\":\"亲子\",\"v\":\"亲子\"},\r\n  {\"n\":\"益智\",\"v\":\"益智\"},\r\n  {\"n\":\"励志\",\"v\":\"励志\"},\r\n  {\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n  {\"key\":\"area\",\"name\":\"地区\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"内地\",\"v\":\"内地\"},\r\n  {\"n\":\"韩国\",\"v\":\"韩国\"},\r\n  {\"n\":\"香港\",\"v\":\"香港\"},\r\n  {\"n\":\"台湾\",\"v\":\"台湾\"},\r\n  {\"n\":\"日本\",\"v\":\"日本\"},\r\n  {\"n\":\"美国\",\"v\":\"美国\"},\r\n  {\"n\":\"泰国\",\"v\":\"泰国\"},\r\n  {\"n\":\"英国\",\"v\":\"英国\"},\r\n  {\"n\":\"新加坡\",\"v\":\"新加坡\"},\r\n  {\"n\":\"其他\",\"v\":\"其他\"}]},\r\n  \r\n  {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2007\",\"v\":\"2007\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]},\r\n  \r\n  {\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n  {\"n\":\"时间\",\"v\":\"time\"},\r\n  {\"n\":\"人气\",\"v\":\"hits\"},\r\n  {\"n\":\"评分\",\"v\":\"score\"}]}],\r\n  \r\n\"33\":[\r\n  {\"key\":\"by\",\"name\":\"排序\",\"value\":[\r\n  {\"n\":\"时间\",\"v\":\"time\"},\r\n  {\"n\":\"人气\",\"v\":\"hits\"},\r\n  {\"n\":\"评分\",\"v\":\"score\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_77",
+      "name": "酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XBPQ_ 小苹果影视",
+      "name": "小苹果影视【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"小苹果\",\r\n\"主页url\":\"\",\r\n\"请求头\":\"okhttp/3.12.11\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"[&&]\",\r\n\"数组\":\"{&&}\",\r\n\"图片\":\"\\\"pic\\\":\\\"&&\\\"\",\r\n\"标题\":\"\\\"name\\\":\\\"&&\\\"\",\r\n\"链接\":\"\\\"id\\\":&&,\",\r\n\"链接前缀\":\"http://ht.grelighting.cn/api.php/v2.vod/androiddetail?vod_id=\",\r\n\"副标题\":\"\\\"updateInfo\\\":\\\"&&\\\"\",\r\n\"搜索url\":\"http://ht.grelighting.cn/api.php/v2.vod/androidsearch10086?page={pg}&wd={wd}\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"[&&]\",\r\n\"搜索数组\": \"{&&}\",\r\n\"搜索图片\": \"\\\"pic\\\":\\\"&&\\\"\",\r\n\"搜索标题\": \"\\\"name\\\":\\\"&&\\\"\",\r\n\"搜索链接\": \"\\\"id\\\":&&,\",\r\n\"搜索链接前缀\":\"http://ht.grelighting.cn/api.php/v2.vod/androiddetail?vod_id=\",\r\n\"线路二次截取\":\"\",\r\n\"线路数组\":\"<div class=\\\"module-tab-item tab-item selected\\\"&&</div>\",\r\n\"线路标题\":\"<span>&&</span>\",\r\n\"播放数组\":\"[&&]\",\r\n\"状态\":\"\\\"updateInfo\\\":\\\"&&\\\"\",\r\n\"导演\":\"\\\"director\\\":&&,\",\r\n\"主演\":\"\\\"actor\\\":\\\"&&\\\"\",\r\n\"简介\":\"\\\"content\\\":\\\"&&\\\"\",\r\n\"播放列表\":\"{&&}\",\r\n\"播放标题\":\"\\\"key\\\":\\\"&&\\\"\",\r\n\"播放链接\":\"\\\"url\\\":\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"User-Agent$Lvaf/58.12.100\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\r\n\"分类url\":\"http://t.grelighting.cn/api.php/v2.vod/androidfilter10086?page={catePg}&type={cateId}&sortby=updatetime&class={class}&area={area}&year={year}\",\r\n\"筛选\":{\r\n\"1\":[\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"动作片\",\"v\":\"动作片\"},\r\n{\"n\":\"喜剧片\",\"v\":\"喜剧片\"},\r\n{\"n\":\"爱情片\",\"v\":\"爱情片\"},\r\n{\"n\":\"科幻片\",\"v\":\"科幻片\"},\r\n{\"n\":\"恐怖片\",\"v\":\"恐怖片\"},\r\n{\"n\":\"剧情片\",\"v\":\"剧情片\"},\r\n{\"n\":\"战争片\",\"v\":\"战争片\"},\r\n{\"n\":\"犯罪片\",\"v\":\"犯罪片\"},\r\n{\"n\":\"动漫片\",\"v\":\"动漫片\"}\r\n]\r\n},\r\n{\"key\":\"area\",\r\n\"name\":\"地区\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"大陆\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"日韩\",\"v\":\"日韩\"}\r\n]\r\n},\r\n {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]}\r\n],\r\n\"2\":[\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"古装\",\"v\":\"古装\"},\r\n{\"n\":\"喜剧片\",\"v\":\"喜剧\"},\r\n{\"n\":\"青春偶像\",\"v\":\"青春偶像\"},\r\n{\"n\":\"家庭\",\"v\":\"家庭\"},\r\n{\"n\":\"恐怖片\",\"v\":\"恐怖\"},\r\n{\"n\":\"剧情片\",\"v\":\"剧情\"},\r\n{\"n\":\"战争片\",\"v\":\"战争\"},\r\n{\"n\":\"奇幻\",\"v\":\"奇幻\"},\r\n{\"n\":\"历史\",\"v\":\"历史\"},\r\n{\"n\":\"经典\",\"v\":\"经典\"},\r\n{\"n\":\"乡村\",\"v\":\"乡村\"},\r\n{\"n\":\"动作\",\"v\":\"动作\"}\r\n]\r\n},\r\n{\"key\":\"area\",\r\n\"name\":\"地区\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"大陆\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"日韩\",\"v\":\"日韩\"}\r\n]\r\n},\r\n {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]}\r\n],\r\n\"3\":[\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"真人秀\",\"v\":\"真人秀\"},\r\n{\"n\":\"脱口秀\",\"v\":\"脱口秀\"},\r\n{\"n\":\"晚会\",\"v\":\"晚会\"},\r\n{\"n\":\"搞笑\",\"v\":\"搞笑\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"4\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"4\"},\r\n{\"n\":\"国产动漫\",\"v\":\"32\"},\r\n{\"n\":\"日本动漫\",\"v\":\"33\"},\r\n{\"n\":\"其他动漫\",\"v\":\"35\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n]\r\n}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_ 独播库",
+      "name": "独播库【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"独播库\",\r\n\"主页url\":\"https://u.duboku.io\",\r\n\"请求头\":\"Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.85 Mobile/15E148 Safari/604.1\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"\",\r\n\"数组\":\"lazyload&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"\",\r\n//\"搜索url\":\"https://u.duboku.io/vodsearch/{wd}----------{pg}---.html\",\r\n\"搜索url\":\"https://u.duboku.io/vodsearch/-------------.html?wd={wd}&submit=\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"id=\\\"searchList\\\">&&<ul class=\\\"myui-page text-center clearfix\\\">\",\r\n\"搜索数组\": \"lazyload&&</a>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"搜索后缀\":\"/voddetail/\",\r\n\"线路二次截取\":\"<ul class=\\\"nav nav-tabs active\\\">&&</ul>\",\r\n\"线路数组\":\"<li>&&</li>\",\r\n\"线路标题\":\"tab\\\">&&</a>\",\r\n\"播放数组\":\"<ul class=\\\"myui-content__list&&</ul>\",\r\n\"状态\":\"<span class=\\\"text-red\\\">&&</span>\",\r\n\"导演\":\"导演：</span>&&<p>\",\r\n\"主演\":\"主演：</span>&&</p>\",\r\n\"简介\":\"style=\\\"display: none;\\\"><p>&&</p>\",\r\n\"播放列表\":\"<li&&</li>\",\r\n\"播放标题\":\"html\\\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"https://u.duboku.io\",\r\n\"嗅探词\":\".m3u8\",\r\n\"过滤词\":\"\",\r\n\"播放请求头\":\"\",\r\n\"免嗅\":\"1\",\r\n\"分类\":\"国产剧$13#电视剧$2#港剧$20#综艺$3\",\r\n\"分类url\":\"https://u.duboku.io/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html\",\r\n\"筛选\":{\r\n\"2\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"2\"},\r\n{\"n\":\"大陆剧\",\"v\":\"13\"},\r\n{\"n\":\"日韩剧\",\"v\":\"15\"},\r\n{\"n\":\"港剧\",\"v\":\"20\"}\r\n]\r\n},\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"悬疑\",\"v\":\"悬疑\"},\r\n{\"n\":\"武侠\",\"v\":\"武侠\"},\r\n{\"n\":\"爱情片\",\"v\":\"爱情\"},\r\n{\"n\":\"科幻片\",\"v\":\"科幻\"},\r\n{\"n\":\"古装\",\"v\":\"古装\"},\r\n{\"n\":\"剧情片\",\"v\":\"剧情\"},\r\n{\"n\":\"战争片\",\"v\":\"战争\"},\r\n{\"n\":\"青春\",\"v\":\"青春\"},\r\n{\"n\":\"警匪\",\"v\":\"警匪\"},\r\n{\"n\":\"喜剧\",\"v\":\"喜剧\"},\r\n{\"n\":\"偶像\",\"v\":\"偶像\"},\r\n{\"n\":\"谍战\",\"v\":\"谍战\"},\r\n{\"n\":\"罪案\",\"v\":\"罪案\"}\r\n]\r\n},\r\n{\"key\":\"area\",\r\n\"name\":\"地区\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"内地\"},\r\n{\"n\":\"香港\",\"v\":\"香港\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"}\r\n]\r\n},\r\n {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]}\r\n],\r\n\"100\":[\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"古装\",\"v\":\"古装\"},\r\n{\"n\":\"喜剧片\",\"v\":\"喜剧\"},\r\n{\"n\":\"青春偶像\",\"v\":\"青春偶像\"},\r\n{\"n\":\"家庭\",\"v\":\"家庭\"},\r\n{\"n\":\"恐怖片\",\"v\":\"恐怖\"},\r\n{\"n\":\"剧情片\",\"v\":\"剧情\"},\r\n{\"n\":\"战争片\",\"v\":\"战争\"},\r\n{\"n\":\"奇幻\",\"v\":\"奇幻\"},\r\n{\"n\":\"历史\",\"v\":\"历史\"},\r\n{\"n\":\"经典\",\"v\":\"经典\"},\r\n{\"n\":\"乡村\",\"v\":\"乡村\"},\r\n{\"n\":\"动作\",\"v\":\"动作\"}\r\n]\r\n},\r\n{\"key\":\"area\",\r\n\"name\":\"地区\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"中国大陆\"},\r\n{\"n\":\"香港\",\"v\":\"中国香港\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"}\r\n]\r\n},\r\n {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]}\r\n],\r\n\"8\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"3\"},\r\n{\"n\":\"大陆综艺\",\"v\":\"28\"},\r\n{\"n\":\"港台综艺\",\"v\":\"29\"},\r\n{\"n\":\"日韩综艺\",\"v\":\"30\"},\r\n{\"n\":\"欧美综艺\",\"v\":\"31\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"4\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"4\"},\r\n{\"n\":\"国产动漫\",\"v\":\"32\"},\r\n{\"n\":\"日本动漫\",\"v\":\"33\"},\r\n{\"n\":\"其他动漫\",\"v\":\"35\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n]\r\n}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_ 利奥影视",
+      "name": "利奥影视【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"站名\":\"利奥\",\r\n\"主页url\":\"https://www.libvio.cc/\",\r\n//发布页https://libvio.app/\r\n\"数组\":\"<div class=\\\"stui-vodlist__box\\\">&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"链接前缀\":\"https://www.libvio.cc\",\r\n\"副标题\":\"pic-text text-right\\\">&&</span>\",\r\n\"线路数组\":\"<div class=\\\"stui-pannel__head clearfix\\\">&&</div>\",\r\n\"线路标题\":\"iconfont icon-iconfontplay2\\\">&&</h3>[不包含:夸克网盘#HD播放]\",\r\n\"播放数组\":\"<ul class=\\\"stui-content__playlist clearfix\\\">&&</ul>\",\r\n\"状态\":\"总集数：&&</p>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"<li&&</li>\",\r\n\"播放标题\":\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n//\"搜索url\": \"/index.php?m=vod-search;post;wd={wd}&search=\",\r\n\"搜索url\":\"https://www.libvio.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=500\",\r\n\"搜索模式\":\"0\",\r\n\"搜索二次截取\":\"<ul class=\\\"stui-vodlist clearfix\\\">&&<ul class=\\\"stui-page__item text-center clearfix\\\">\",\r\n\"搜索数组\":\"<li&&</a>\",\r\n\"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"title=\\\"&&\\\"\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\"搜索副标题\":\"pic-text text-right\\\">&&</span>\",\r\n\"搜索后缀\":\"/detail/\",\r\n\"嗅探词\":\"media-zjhz-fy-corp.zj6oss.ctyunxs.cn#m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"User-Agent$123\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"电影$1#电视剧$2#日韩$15#欧美$16\",\r\n//\"分类值\":\"zuixindianying&movie_bt/movie_bt_series/dyy&gcj&dsj\",\r\n\"分类url\":\"https://www.libvio.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html\",\r\n\"筛选\":{\r\n\"1\":[\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"动作片\",\"v\":\"动作\"},\r\n{\"n\":\"喜剧片\",\"v\":\"喜剧\"},\r\n{\"n\":\"爱情片\",\"v\":\"爱情\"},\r\n{\"n\":\"科幻片\",\"v\":\"科幻\"},\r\n{\"n\":\"恐怖片\",\"v\":\"恐怖\"},\r\n{\"n\":\"剧情片\",\"v\":\"剧情\"},\r\n{\"n\":\"战争片\",\"v\":\"战争\"},\r\n{\"n\":\"奇幻片\",\"v\":\"奇幻\"},\r\n{\"n\":\"警匪\",\"v\":\"警匪\"},\r\n{\"n\":\"动画片\",\"v\":\"动画\"},\r\n{\"n\":\"武侠\",\"v\":\"武侠\"},\r\n{\"n\":\"犯罪片\",\"v\":\"犯罪\"},\r\n{\"n\":\"冒险\",\"v\":\"冒险\"}\r\n]\r\n},\r\n{\"key\":\"area\",\r\n\"name\":\"地区\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"中国大陆\"},\r\n{\"n\":\"香港\",\"v\":\"中国香港\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"}\r\n]\r\n},\r\n {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]}\r\n],\r\n\"2\":[\r\n{\r\n\"key\":\"class\",\r\n\"name\":\"剧情\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"古装\",\"v\":\"古装\"},\r\n{\"n\":\"喜剧片\",\"v\":\"喜剧\"},\r\n{\"n\":\"青春偶像\",\"v\":\"青春偶像\"},\r\n{\"n\":\"家庭\",\"v\":\"家庭\"},\r\n{\"n\":\"恐怖片\",\"v\":\"恐怖\"},\r\n{\"n\":\"剧情片\",\"v\":\"剧情\"},\r\n{\"n\":\"战争片\",\"v\":\"战争\"},\r\n{\"n\":\"奇幻\",\"v\":\"奇幻\"},\r\n{\"n\":\"历史\",\"v\":\"历史\"},\r\n{\"n\":\"经典\",\"v\":\"经典\"},\r\n{\"n\":\"乡村\",\"v\":\"乡村\"},\r\n{\"n\":\"动作\",\"v\":\"动作\"}\r\n]\r\n},\r\n{\"key\":\"area\",\r\n\"name\":\"地区\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"\"},\r\n{\"n\":\"大陆\",\"v\":\"中国大陆\"},\r\n{\"n\":\"香港\",\"v\":\"中国香港\"},\r\n{\"n\":\"美国\",\"v\":\"美国\"},\r\n{\"n\":\"韩国\",\"v\":\"韩国\"}\r\n]\r\n},\r\n {\"key\":\"year\",\"name\":\"年份\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"2023\",\"v\":\"2023\"},\r\n  {\"n\":\"2022\",\"v\":\"2022\"},\r\n  {\"n\":\"2021\",\"v\":\"2021\"},\r\n  {\"n\":\"2020\",\"v\":\"2020\"},\r\n  {\"n\":\"2019\",\"v\":\"2019\"},\r\n  {\"n\":\"2018\",\"v\":\"2018\"},\r\n  {\"n\":\"2017\",\"v\":\"2017\"},\r\n  {\"n\":\"2016\",\"v\":\"2016\"},\r\n  {\"n\":\"2015\",\"v\":\"2015\"},\r\n  {\"n\":\"2014\",\"v\":\"2014\"},\r\n  {\"n\":\"2013\",\"v\":\"2013\"},\r\n  {\"n\":\"2012\",\"v\":\"2012\"},\r\n  {\"n\":\"2011\",\"v\":\"2011\"},\r\n  {\"n\":\"2010\",\"v\":\"2010\"},\r\n  {\"n\":\"2009\",\"v\":\"2009\"},\r\n  {\"n\":\"2008\",\"v\":\"2008\"},\r\n  {\"n\":\"2006\",\"v\":\"2006\"},\r\n  {\"n\":\"2005\",\"v\":\"2005\"},\r\n  {\"n\":\"2004\",\"v\":\"2004\"}]}\r\n],\r\n\"3\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"3\"},\r\n{\"n\":\"大陆综艺\",\"v\":\"28\"},\r\n{\"n\":\"港台综艺\",\"v\":\"29\"},\r\n{\"n\":\"日韩综艺\",\"v\":\"30\"},\r\n{\"n\":\"欧美综艺\",\"v\":\"31\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"4\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"4\"},\r\n{\"n\":\"国产动漫\",\"v\":\"32\"},\r\n{\"n\":\"日本动漫\",\"v\":\"33\"},\r\n{\"n\":\"其他动漫\",\"v\":\"35\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n]\r\n}\r\n}"
+    }
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL21pbWFuZy96Yi9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+         {
+      "name": "4K",
+      "type": 0,
+      "url": "http://g119.icu/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+     {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+     {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+        {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/jiexi/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+        {
+      "name": "往往",
+      "type": 0,
+      "url": "https://www.oftens.top/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "zhanglang",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "咸鱼云解析",
+      "type": 0,
+      "url": "https://jx.xyflv.com/?url="
+    },
+    {
+      "name": "OKjx嗅探",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "扶风解析",
+      "type": 0,
+      "url": "https://api.huomiao.cc/api/bfq/?key=uXTGVVcEN7KtgvNXJu&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
+    },
+    {
+      "name": "酷秒云解析",
+      "type": 1,
+      "url": "http://lg.llwwwll.com:5477/home/api?type=ys&uid=339615&key=bdehjmnoGJLNRUW016&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
+    }
+  ],
+   "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+   "rules":[{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}],
+   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"],
+   "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+  "wallpaper": "https://api.likepoems.com/img/bing",
+  //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380"
+  "spider": "https://agit.ai/mimang/momo/src/branch/master/Yoursmile10.5.jar"
+}
