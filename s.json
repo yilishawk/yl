@@ -1,5 +1,15 @@
 {
   "sites": [
+                  {
+      "key": "csp_XBPQ_sae8",
+      "name": "sae8",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/sae8.json"
+    },
               {
       "key": "csp_XBPQ_好色",
       "name": "好色",
