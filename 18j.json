@@ -13,7 +13,7 @@
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 //"副标题":"pic-text text-right\"><b>&&</b>",
-"搜索url":"https://zipaav.net/s/nid/1/page/{page}/sid/1/wd/{wd}/",
+"搜索url":"https://zipaav.net/s/nid/1/page/{pg}/sid/1/wd/{wd}/",
 "搜索模式": "1",
 "搜索二次截取": "<ul class=\"list\">&&<ul class=\"pagelist\">",
 "搜索数组": "<li&&</li>",
