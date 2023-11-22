@@ -38,7 +38,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"国产视频$25#日本无码$20#三级电影$1#人妻$8#欧美$18",
-"分类url":"https://37haobb.com/typegaokk/{cateId}_{catePg}.html",
+"分类url":"https://37haobb.com/typegaokk/{cateId}_{catePg}.html[firstPage=https://37haobb.com/typegaokk/{cateId}.html]",
  "筛选":{
 "25":[
   {"key":"cateId","name":"类型","value":[
