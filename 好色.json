@@ -13,7 +13,7 @@
 "标题":"title= \"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"duration\">&&</var>",
-"搜索url":"https://hsex.icu/search-{pg}}.htm?search={wd}",
+"搜索url":"https://hsex.icu/search-{pg}.htm?search={wd}",
 "搜索模式": "1",
 //"搜索二次截取": "<div class=\"row body\">&&<div class=\"clearfix\">",
 "搜索数组": "<div class=\"thumbnail\">&&</a>",
@@ -39,7 +39,7 @@
 "播放请求头":"",
 "免嗅":"0",
 "分类":"熟女$熟女#肛$肛交#阿姨$阿姨#真实$真实",
-"分类url":"https://hsex.icu/search-{catePg}.htm?search={cateId}&sort=new",
+"分类url":"https://hsex.icu/search-{catePg}.htm?search={cateId}",
  "筛选":{
 "熟女":[
   {"key":"cateId","name":"类型","value":[
