@@ -25,7 +25,7 @@
 //"线路二次截取":"<ul class=\"nav nav-tabs  dpplay pull-right\">&&</ul>",
 //"线路数组":"<li>&&</li>",
 //"线路标题":"tab\">&&</a>",
-//"播放二次截取":"id=\"player\">&&</div>",
+"播放二次截取":"<div class=\"videos\">&&直播推荐",
 "播放数组":"id=\"player\">&&</div>",
 "状态":"更新：&&</span>",
 "导演":"导演：&&</p>",
