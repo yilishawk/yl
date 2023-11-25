@@ -6,7 +6,7 @@
 "请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
 "cookie":"",
 "热门推荐":"1",
-"直接播放":"1",
+"直接播放":"0",
 //"二次截取":"<div class=\"row body\">&&",
 "数组":"<div class=\"col-xs-6 col-md-3\">&&</div>",
 "图片":"url('&&'",
