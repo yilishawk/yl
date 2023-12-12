@@ -1,0 +1,77 @@
+{
+"作者":"凯哥",
+"站名":"石榴",
+"主页url":"https://asianxxx.one/",
+//
+//"请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+"cookie":"",
+"热门推荐":"1",
+"直接播放":"0",
+//"二次截取":"<ul class=\"list\">&&<ul class=\"pagelist\">",
+"数组":"<div class=\"item&&</div>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+//"副标题":"pic-text text-right\"><b>&&</b>",
+"搜索url":"https://asianxxx.one/search/{wd}/",
+"搜索模式": "1",
+//"搜索二次截取": "<ul class=\"list\">&&<ul class=\"pagelist\">",
+"搜索数组": "<div class=\"item&&</div>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+//"搜索后缀":"/voddetail/",
+"播放二次截取":"<div id=\"kt_player\">&&</script>",
+//"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
+"线路标题":"<h3>&&</h3>",
+"播放数组":"video_id:&&logo_anchor:",
+"状态":"更新：&&</span>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</span>",
+"播放列表":"license_code:&&preview_url1:",
+"播放标题":"preview_height1: '&&'",
+"播放链接":"video_url: '&&'",
+"播放链接后缀":"?rnd=+rnd: '&&'",
+"嗅探词":".mp4#s1.asianxxx.one#.ahcdn.com",
+//"过滤词":"cn.xgroovy.com#?v=https",
+"播放请求头":"",
+//"免嗅":"0",
+"分类":"中国人$chinese#日本人$japanese#爆菊$anal#大吊$big-cock#硬核性交$rough#公共场合$public#双插$double-penetration",
+"分类url":"https://asianxxx.one/search/{cateId}/",
+ "筛选":{
+"chinese":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"绿帽子","v":"cuckold"},
+  {"n":"自卫","v":"solo"},
+  {"n":"成熟","v":"mature"},
+  {"n":"多人性交","v":"gangbang"},
+  {"n":"bdsm","v":"bdsm"},
+  {"n":"按摩","v":"massage"},
+  {"n":"复古","v":"vintage"},
+  {"n":"传媒剧评","v":"12"}]}],
+  
+"japanese":[
+ {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"日本肛交","v":"japanese-anal"},
+  {"n":"自卫棒","v":"dildo"},
+  {"n":"夫妻","v":"wife-anal"},
+  {"n":"五码字幕","v":"19"}
+  ]}],
+  
+"300":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"欧美自拍","v":"21"},
+  {"n":"欧美字幕","v":"22"},
+  {"n":"重口味","v":"23"}]}],
+  
+"400":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"港台伦理","v":"29"},
+  {"n":"日韩伦理","v":"30"},
+  {"n":"欧美伦理","v":"31"}]}]}
+}
