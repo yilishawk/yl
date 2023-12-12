@@ -6,7 +6,7 @@
 //"请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
 "cookie":"",
 "热门推荐":"1",
-"直接播放":"0",
+"直接播放":"1",
 //"二次截取":"<ul class=\"list\">&&<ul class=\"pagelist\">",
 "数组":"<div class=\"preloadLine\">&&</p>",
 "图片":"data-src=\"&&\"",
@@ -33,12 +33,12 @@
 "播放标题":"preview_height1: '&&'",
 "播放链接":"video_url: '&&'",
 "播放链接后缀":"?rnd=+rnd: '&&'",
-"嗅探词":".mp4#s1.asianxxx.one#.ahcdn.com",
+"嗅探词":"ev-h-ph.ypncdn.com#.mp4#s1.asianxxx.one#.ahcdn.com",
 //"过滤词":"cn.xgroovy.com#?v=https",
 "播放请求头":"",
 //"免嗅":"0",
-"分类":"中国人$chinese#日本人$japanese#爆菊$anal#大吊$big-cock#硬核性交$rough#公共场合$public#双插$double-penetration",
-"分类url":"https://www.youporn.com/category/{cateId}/?page={catePg}",
+"分类":"中国人$chinese#日本人$japanese+anal#爆菊$anal#自慰棒$dildo#大吊$big+cock#硬核性交$rough#公共场合$public#双插$doublepenetration",
+"分类url":"https://www.youporn.com/search/?query={cateId}&page={catePg}",
  "筛选":{
 "chinese":[
   {"key":"cateId","name":"类型","value":[
@@ -55,9 +55,9 @@
 "japanese":[
  {"key":"cateId","name":"类型","value":[
   {"n":"全部","v":""},
-  {"n":"日本肛交","v":"japanese-anal"},
+  {"n":"夫妻自卫","v":"wife+dildo"},
   {"n":"自卫棒","v":"dildo"},
-  {"n":"夫妻","v":"wife-anal"},
+  {"n":"夫妻","v":"wife+anal"},
   {"n":"亚洲","v":"asian"}
   ]}],
   
