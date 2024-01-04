@@ -10,6 +10,17 @@
       "filterable": 1,
       "ext": "https://agit.ai/mimang/S/raw/branch/master/youporn.json"
     },
+                            {
+      "key": "csp_XBPQ_pornken",
+      "name": "pornken",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/pornken.json"
+    },
+       
                     {
       "key": "csp_XBPQ_asianxxx",
       "name": "asianxxx",
