@@ -8,7 +8,7 @@
 "热门推荐":"1",
 "直接播放":"0",
 //"二次截取":"<ul class=\"list\">&&<ul class=\"pagelist\">",
-"数组":"lazyload&&</a>",
+"数组":"<div class=\"card mx-1\">&&</a>[替换:alt=\"watermark\">>空]",
 "图片":"data-src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
