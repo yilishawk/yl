@@ -12,7 +12,7 @@
 "图片":"url('&&')",
 "标题":"-1/\">&&</a>",
 "链接":"href=\"&&\"",
-"副标题":"\"layer\">&&</small>",
+"副标题":"\"layer\">&&</small></a>",
 "搜索url":"https://www.liujiuse.com/search/page/{pg}/wd/{wd}/",
 "搜索模式": "1",
 "搜索二次截取": "<ul class=\"vodlist clearfix\">&&<ul class=\"pagelist\">",
