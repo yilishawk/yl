@@ -10,7 +10,7 @@
 //"二次截取":"<div class=\"row\">&&<div class=\"row\">",
 "数组":"<div class=\"colVideoList\">&&</div></div>",
 "图片":"url('&&')",
-"标题":"/\">&&</a>",
+"标题":"-1/\">&&</a>",
 "链接":"href=\"&&\"",
 "副标题":"\"layer\">&&</small>",
 "搜索url":"https://www.liujiuse.com/search/page/{pg}/wd/{wd}/",
