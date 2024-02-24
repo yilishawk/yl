@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "https://agit.ai/mimang/S/raw/branch/master/9119.json"
     },
+                                              {
+      "key": "csp_XBPQ_noodlemaga",
+      "name": "noodlemaga",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/noodlemaga.json"
+    },
                                         {
       "key": "csp_XBPQ_69色",
       "name": "69色",
