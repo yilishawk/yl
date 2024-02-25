@@ -1,14 +1,85 @@
 {
   "sites": [
-                                            {
-      "key": "csp_XBPQ_9119",
-      "name": "9119",
-      "type": 3,
-      "api": "csp_XBPQ",
+    {
+      "key": "草流采集",
+      "name": "草流采集",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/mimang/S/raw/branch/master/9119.json"
+      "filterable": 0
+    },
+    {
+      "key": "黄瓜",
+      "name": "黄瓜采集",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/Prodao/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "葡萄",
+      "name": "葡萄采集",
+      "type": 1,
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "奥斯卡",
+      "name": "奥斯卡采集",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "博天堂资",
+      "name": "博天堂资采集",
+      "type": 1,
+      "api": "http://bttcjz.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "155",
+      "name": "155采集",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "玉兔卡",
+      "name": "玉兔采集",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "探探",
+      "name": "探探",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "X资源",
+      "name": "X资源采集",
+      "type": 1,
+      "api": "https://jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
                                               {
       "key": "csp_XBPQ_noodlemaga",
