@@ -39,7 +39,7 @@
     {
       "key": "博天堂资",
       "name": "博天堂资采集",
-      "type": 2,
+      "type": 0,
       "api": "http://bttcjz.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
