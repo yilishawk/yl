@@ -91,6 +91,16 @@
       "filterable": 1,
       "ext": "https://agit.ai/mimang/S/raw/branch/master/pornken.json"
     },
+                                                  {
+      "key": "csp_XBPQ_盗摄",
+      "name": "盗摄",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/盗摄.json"
+    },
                                         {
       "key": "csp_XBPQ_69色",
       "name": "69色",
