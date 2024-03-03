@@ -19,7 +19,7 @@
 "搜索图片": "data-original=\"&&\"",
 "搜索标题": "title=\"&&\"",
 "搜索链接": "data-href=\"&&\"",
-"播放二次截取":"<div id=\"kt_player">&&<div class=\"video__player-tools\">",
+"播放二次截取":"<div id=\"kt_player\">&&<div class=\"video__player-tools\">",
 //"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
 //"线路标题":"<h3>&&</h3>",
 "播放数组":"video_id:&&$timeline_screens_url:",
