@@ -6,7 +6,7 @@
 "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 "cookie":"",
 "热门推荐":"1",
-"直接播放":"1",
+"直接播放":"0",
 //"二次截取":"<ul class=\"list\">&&<ul class=\"pagelist\">",
 "数组":"<div class=\"item col  \">&&/div>",
 "图片":"data-original=\"&&\"",
