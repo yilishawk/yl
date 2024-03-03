@@ -81,6 +81,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+                                                  {
+      "key": "csp_XBPQ_xhand",
+      "name": "xhand",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/xhand.json"
+    },
                                               {
       "key": "csp_XBPQ_pornken",
       "name": "全球pornken",
