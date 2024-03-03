@@ -22,7 +22,7 @@
 "播放二次截取":"<div id=\"kt_player\">&&<div class=\"video__player-tools\">",
 //"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
 //"线路标题":"<h3>&&</h3>",
-"播放数组":"video_id:&&$timeline_screens_url:",
+"播放数组":"video_id:&&</script>",
 "状态":"更新：&&</span>",
 "导演":"导演：&&</p>",
 "主演":"主演：&&</p>",
