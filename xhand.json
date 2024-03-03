@@ -27,7 +27,7 @@
 "导演":"导演：&&</p>",
 "主演":"主演：&&</p>",
 "简介":"var pageContext&&'",
-"播放列表":"video_url:&&video_alt_url_hd:",
+"播放列表":"video_url:&&timeline_screens_url:",
 "播放标题":"video_alt_url_text: '&&'",
 "播放链接":"video_alt_url: '&&'",
 "播放链接后缀":"?rnd=+rnd: '&&'",
