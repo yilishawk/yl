@@ -9,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+        {
+      "key": "fhapi9采集",
+      "name": "fhapi9采集",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "黄瓜",
       "name": "黄瓜采集",
