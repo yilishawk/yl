@@ -34,7 +34,7 @@
 //"跳转播放链接":"url\":\"&&\"",
 "嗅探词":".m3u8",
 //"过滤词":"cn.xgroovy.com#?v=https",
-"播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Cookie$PHPSESSID=1e17vjusfd87n9n7gig8cl05ip；； wms=1#Origin$https://www.liujiuse.com",
+"播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Cookie$PHPSESSID=1e17vjusfd87n9n7gig8cl05ip#Origin$https://www.liujiuse.com",
 //"免嗅":"0",
 "分类":"超清精选$hd#国产原创$chinese#网红主播$rec#台湾$taiwaneseav",
 "分类url":"https://www.liujiuse.com/videos/{cateId}-{catePg}/",
