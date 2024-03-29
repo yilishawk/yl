@@ -110,6 +110,16 @@
       "filterable": 1,
       "ext": "https://agit.ai/mimang/S/raw/branch/master/pornken.json"
     },
+                                                      {
+      "key": "csp_XBPQ_优狐视频",
+      "name": "优狐视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/优狐视频.json"
+    },
                                                   {
       "key": "csp_XBPQ_盗摄",
       "name": "盗摄",
