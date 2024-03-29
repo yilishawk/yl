@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "https://agit.ai/mimang/S/raw/branch/master/优狐视频.json"
     },
+                                                              {
+      "key": "csp_XBPQ_肉铺",
+      "name": "肉铺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/肉铺.json"
+    },
     {
       "key": "草流采集",
       "name": "草流采集",
