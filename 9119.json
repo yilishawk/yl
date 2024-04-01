@@ -13,7 +13,7 @@
 "标题":"title\":\"&&\"",
 "链接":"https://t911136.xyz:7265/v2/videoplay;post;vid=+id\":&&,",
 "副标题":"bi bi-clock\"></i><span>&&</span>",
-"搜索url":"https://t911136.xyz:7265/v2/home/search;post;keyword={wd}&page={pq}&limit=10",
+"搜索url":"https://t911136.xyz:7265/v2/home/search;post;keyword={wd}&page={pg}&limit=10",
 "搜索模式": "1",
 "搜索二次截取": "data\":[&&]",
 "搜索数组": "{&&}",
