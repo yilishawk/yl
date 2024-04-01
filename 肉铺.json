@@ -31,8 +31,8 @@
   "播放二次截取": "<div class=\"flex-1\">&&</body>",
   "播放列表": "video\":{&&description",
   "播放标题": "name\":\"&&\"",
-  "播放链接": "https://v.rn120.xyz/hls2/+id\":\"&&\"+/index.m3u8?v=6&exp=1711760400&auth=K2oF7VbV9cdl-T_4IN9twmnyXD-TbA0DtVLhIAelFIw",
- // "跳转播放链接": "url*'&&'",
+  "播放链接": "https://rouva2.xyz/api/v/+id\":\"&&\"",
+  "跳转播放链接": "videoUrl\":\"&&\"",
   "嗅探词": ".m3u8?",
   "倒序播放": "0",
   "免嗅": "0"
