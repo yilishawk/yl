@@ -1,0 +1,85 @@
+{
+"作者":"凯哥",
+"站名":"优狐视频",
+"主页url":"https://www.bh358.top/",
+//发布页bh2024.top
+//"请求头":"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+"cookie":"",
+"热门推荐":"1",
+"直接播放":"0",
+//"二次截取":"id=\"list_videos_common_videos_list_items\">&&<div class=\"pagination\"",
+"数组":"<div class=\"item\">&&</a>",
+"图片":"src=\"&&\"",
+"标题":"title\">&&</strong>",
+"链接":"href=\"&&\"",
+"链接后缀":"",
+"副标题":"",
+"搜索url":"https://www.bh358.top/search/video/{wd}/{pg}",
+"搜索模式": "1",
+//"搜索二次截取": "id=\"list_videos_videos_list_search_result_items\">&&<div class=\"pagination\"",
+"搜索数组": "<div class=\"item\">&&</a>",
+"搜索图片": "src=\"&&\"",
+"搜索标题": "title\">&&</strong>",
+"搜索链接": "href=\"&&\"",
+"搜索链接后缀":"",
+
+//"线路二次截取":"<ul class=\"nav nav-tabs  dpplay pull-right\">&&</ul>",
+"播放二次截取":"id=\"dplayer-container\">&&<div class=\"video-info\">",
+//"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
+"播放数组":"<script>&&</script>",
+"状态":"更新：&&</span>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</span>",
+"播放列表":" const dp&&})",
+"播放标题":"type: '&&'",
+"播放链接":"url: '&&'",
+//"嗅探词":".m3u8?#.mp4#.m3u8",
+//"过滤词":"url=#?v=https",
+"播放请求头":"",
+//"免嗅":"0",
+"分类":"国产$1#国产主播$6#日本无码$2#网报黑料$7#欧美$4#三级$9",
+"分类url":"https://www.bh358.top/type/{cateId}/{catePg}",
+ "筛选":{
+"91porn":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"日本无码","v":"ri-ben-wu-ma"},
+  {"n":"国产主播","v":"guo-chan-zhu-bo"},
+  {"n":"国产原创","v":"guo-chan-yuan-chuang"},
+  {"n":"三级综艺","v":"san-ji-zong-yi"},
+  {"n":"人妖视频","v":"ren-yao-shi-pin"},
+  {"n":"国产探花","v":"guo-chan-tan-hua"},
+  {"n":"国产网曝","v":"guo-chan-wang-pu"},
+  {"n":"华语AV","v":"hua-yu-av"},
+  {"n":"國產品牌新資源","v":"guo-chan-pin-pai-xin-zi-yuan2"},
+  {"n":"日韩无码","v":"ri-han-wu-ma"},
+  {"n":"mywife","v":"scute-mywife"},
+  {"n":"亞洲SM","v":"ya-zhou-sm"},
+  {"n":"日本高清","v":"ri-ben-gao-qing"},
+  {"n":"國產直播","v":"guo-chan-zhi-bo"},
+  {"n":"日韩自拍","v":"ri-han-zi-pai"}]}],
+  
+"guo-chan-zi-pai":[
+ {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"欧美自拍","v":"ou-mei-zi-pai"},
+  {"n":"国产裸聊","v":"guo-chan-luo-liao"},
+  {"n":"三级","v":"san-ji"},
+  {"n":"精品偷拍","v":"jing-pin-tou-pai"}
+  ]}],
+  
+"zhong-guo-zhu-bo":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"国产偷拍","v":"guo-chan-tou-pai"},
+  {"n":"摄像头","v":"dao-she"},
+  {"n":"主播网红","v":"zhu-bo-wang-hong"}]}],
+  
+"tou-pai-shi-pin":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"SM调教","v":"sm-tiao-jiao"},
+  {"n":"自慰合集","v":"zi-wei-he-ji"},
+  {"n":"3P群交","v":"3p-qun-jiao"}]}]}
+}
