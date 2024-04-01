@@ -1,14 +1,14 @@
 {
   "sites": [
-                {
-      "key": "csp_XPathFilter_buna",
-      "name": "buna",
+                                                              {
+      "key": "csp_XBPQ_9119",
+      "name": "9119",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/mimang/S/raw/branch/master/buna.json"
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/9119.json"
     },
                                                           {
       "key": "csp_XBPQ_优狐视频",
