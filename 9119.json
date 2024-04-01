@@ -33,7 +33,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"黑料$101#国产$1#日韩$4#欧美$25#猎奇$181#主播$40",
-"分类url":"https://t911136.xyz:7265/v2/category;post;{\"category_id\":\"{cateId}\",\"category_child_id\":\"\",\"page\":{catePg},\"limit\":10}",
+"分类url":"https://t911136.xyz:7265/v2/category;post;category_id={cateId}&category_child_id=&page={catePg}&limit=10",
 //"分类url":"https://t91190.xyz:9388/category/?category_id={cateId}&category_child_id=&page={catePg}&limit=30",
  "筛选":{
 "1":[
