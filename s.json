@@ -1,5 +1,15 @@
 {
   "sites": [
+                {
+      "key": "csp_XPathFilter_buna",
+      "name": "buna",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/buna.json"
+    },
                                                           {
       "key": "csp_XBPQ_优狐视频",
       "name": "优狐视频",
