@@ -1,5 +1,15 @@
 {
   "sites": [
+          {
+      "key": "csp_XBPQ_秒播影视cj",
+      "name": "秒播影视采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/yilishawk/js/XBPQ/秒播影视cj.json"
+    },
                                                                       {
       "key": "csp_XBPQ_蘑菇",
       "name": "蘑菇",
