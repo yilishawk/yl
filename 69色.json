@@ -1,7 +1,7 @@
 {
 "作者":"凯哥",
 "站名":"石榴",
-"主页url":"https://www.liujiuse.com/",
+"主页url":"https://www.69se.tv/",
 //发布页https://69se.github.io/
 "头部集合":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#authority$www.liujiuse.com#Referer$https://www.liujiuse.com/",
 "直接播放":"1",
@@ -11,7 +11,7 @@
 "图片":"url('&&')",
 "标题":"/1-1/\">&&</a>",
 "链接":"href=\"&&\"",
-"搜索url":"https://www.liujiuse.com/search/page/{pg}/wd/{wd}/",
+"搜索url":"https://www.69se.tv//search/page/{pg}/wd/{wd}/",
 "搜索模式": "1",
 "搜索数组": "<div class=\"colVideoList\">&&</div></div>",
 "搜索图片": "url('&&')",
@@ -37,7 +37,7 @@
 "播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Cookie$PHPSESSID=1e17vjusfd87n9n7gig8cl05ip#Origin$https://www.liujiuse.com",
 //"免嗅":"0",
 "分类":"超清精选$hd#国产原创$chinese#网红主播$rec#台湾$taiwaneseav",
-"分类url":"https://www.liujiuse.com/videos/{cateId}-{catePg}/",
+"分类url":"https://www.69se.tv/videos/{cateId}-{catePg}/",
  "筛选":{
 "49":[
   {"key":"cateId","name":"类型","value":[
