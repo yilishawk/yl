@@ -1,35 +1,6 @@
 {
   "sites": [
-                                                                      {
-      "key": "csp_XBPQ_蘑菇",
-      "name": "蘑菇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/%E8%98%91%E8%8F%87.json"
-    },
-                                                                  {
-      "key": "csp_XBPQ_9118",
-      "name": "9118",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/9118.json"
-    },
-                                                              {
-      "key": "csp_XBPQ_9119",
-      "name": "9119",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/9119.json"
-    },
+             
                                                           {
       "key": "csp_XBPQ_优狐视频",
       "name": "优狐视频",
