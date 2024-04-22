@@ -61,6 +61,16 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/youporn.json"
     },
+                                                              {
+      "key": "csp_XBPQ_noodlemaga",
+      "name": "noodlemaga",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/noodlemaga.json"
+    },
     {
       "key": "草流采集",
       "name": "草流采集",
