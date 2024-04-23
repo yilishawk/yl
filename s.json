@@ -1,6 +1,14 @@
 {
   "sites": [
-             
+        {
+      "key": "91采集",
+      "name": "91采集",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
                                                           {
       "key": "csp_XBPQ_优狐视频",
       "name": "优狐视频",
