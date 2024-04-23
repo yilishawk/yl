@@ -33,7 +33,7 @@
 "简介":"简介：&&</span>",
 "播放列表":"<img&&message",
 "播放标题":"alt=\"&&\"",
-"播放链接":"https://hls.163cdns.com:2306/contents/videos/+src=\"/contents/videos_screenshots&&preview",
+"播放链接":"https://hls.163cdns.com:2306/contents/videos/+src=\"/img/vs&&preview",
 "播放链接后缀":"<link href=\"https://www.youhu.com/v/&&\"+.m3u8",
 //"嗅探词":".m3u8?#.mp4#.m3u8",
 //"过滤词":"url=#?v=https",
