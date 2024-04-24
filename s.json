@@ -8,7 +8,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },    
+    },   
+                                                              {
+      "key": "csp_XBPQ_盗摄",
+      "name": "盗摄",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/盗摄.json"
+    },
                                                           {
       "key": "csp_XBPQ_优狐视频",
       "name": "优狐视频",
