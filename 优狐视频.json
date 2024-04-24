@@ -1,7 +1,7 @@
 {
 "作者":"凯哥",
 "站名":"优狐视频",
-"主页url":"https://yh.z83eet.cc/",
+"主页url":"https://yh.6cvxsf.cc/",
 //发布页https://youhushipin.github.io/https://youhu.gitbook.io
 "请求头":"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
 "cookie":"",
@@ -14,7 +14,7 @@
 "链接":"",
 "链接后缀":"",
 "副标题":"",
-"搜索url":"https://yh.z83eet.cc/search/{wd}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&category_ids=&sort_by=&from_videos={pg}",
+"搜索url":"https://yh.6cvxsf.cc/search/{wd}/?mode=async&function=get_block&block_id=list_videos_videos_list_search_result&category_ids=&sort_by=&from_videos={pg}",
 "搜索模式": "1",
 "搜索二次截取": "id=\"list_videos_videos_list_search_result_items\">&&<div class=\"pagination\"",
 "搜索数组": "<a&&data-webp=",
@@ -40,7 +40,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"91视频$91porn#国产自拍$guo-chan-zi-pai#国产主播$zhong-guo-zhu-bo#偷拍视频$tou-pai-shi-pin#国产精品$guo-chan-jing-pin#欧美$ou-mei#国产传媒$guo-chan-chuan-mei",
-"分类url":"https://yh.z83eet.cc/categories/{cateId}/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={catePg}",
+"分类url":"https://yh.6cvxsf.cc/categories/{cateId}/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=post_date&from={catePg}",
  "筛选":{
 "91porn":[
   {"key":"cateId","name":"类型","value":[
