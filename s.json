@@ -286,13 +286,13 @@
     },
               {
       "key": "csp_XBPQ_anal",
-      "name": "anal",
+      "name": "anal2",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/anal.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/anal2.json"
     },
                   {
       "key": "csp_XBPQ_xvideos",
