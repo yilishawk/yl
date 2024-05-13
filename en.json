@@ -1,0 +1,81 @@
+{
+"作者":"凯哥",
+"站名":"石榴",
+"主页url":"http://en.thisav.one/",
+//发布页http://18fby.com/https://new.18jvip.com/18302/
+"请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+"cookie":"",
+"热门推荐":"1",
+"直接播放":"0",
+"二次截取":"<div class=\"video-list  ui link cards bbt-row avdata-4r\"&&<div class=\"sc-16r8icm-0 sc-4r7b5t-0 cjTnHf __navigation_page\"",
+"数组":"<li&&</li>",
+"图片":"data-src=&& class=\"",
+"标题":"target=_blank class=title>&& </a>",
+"链接":"data-hash-id=\"&&\"",
+"副标题":"time\">&&</span>",
+"搜索url":"https://japan-whores.com/search/videos/{wd}/?mode=async&function=get_block&block_id=list_videos_videos&sort_by=&from={pg}",
+"搜索模式": "1",
+//"搜索二次截取": "<ul class=\"list\">&&<ul class=\"pagelist\">",
+"搜索数组": "<div class=\"item thumb\">&&</a>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+//"搜索后缀":"/voddetail/",
+"播放二次截取":"<div class=\"butdown\">&&<div class=\"suggestions2 suggestions3\">",
+//"线路数组":"<div class=\"stui-vodlist__head\">&&</div>",
+"线路标题":"<h3>&&</h3>",
+"播放数组":"<div class=\"rate_box rating-container\">&&</div>",
+"状态":"更新：&&</span>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</span>",
+"播放列表":"<a h&&</a>",
+"播放标题":"data-vote=\"&&\"",
+"播放链接":"https://japan-whores.com/embed/+data-video-id=\"&&\"",
+//"跳转播放链接":"https://pornken.net/+src=\"&&\"",
+//"二次跳转播放链接":"480p\"><source src=\"&&\"",
+"播放链接前缀":"",
+"嗅探词":"?embed=true#.ahcdn.com",
+"过滤词":"s3t3d2y8.afcdn.net",
+"播放请求头":"",
+//"免嗅":"0",
+"分类":"成熟$fc2#肛交$heyzo#高清$hd#欧美$european#跨种族$interracial#摄像头$webcam#公共场合$public#双插$double-penetration",
+"分类url":"http://en.thisav.one/jav/studio/{cateId}/{catePg}",
+ "筛选":{
+"chinese":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"自慰棒","v":"dildo"},
+  {"n":"ACZD","v":"ACZD"},
+  {"n":"绿帽子","v":"cuckold"},
+  {"n":"自卫","v":"solo"},
+  {"n":"成熟","v":"mature"},
+  {"n":"多人性交","v":"gangbang"},
+  {"n":"bdsm","v":"bdsm"},
+  {"n":"按摩","v":"massage"},
+  {"n":"复古","v":"vintage"},
+  {"n":"传媒剧评","v":"12"}]}],
+  
+"200":[
+ {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"日韩自拍","v":"13"},
+  {"n":"日韩五码","v":"14"},
+  {"n":"中文字幕","v":"15"},
+  {"n":"五码字幕","v":"19"}
+  ]}],
+  
+"300":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"欧美自拍","v":"21"},
+  {"n":"欧美字幕","v":"22"},
+  {"n":"重口味","v":"23"}]}],
+  
+"400":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"港台伦理","v":"29"},
+  {"n":"日韩伦理","v":"30"},
+  {"n":"欧美伦理","v":"31"}]}]}
+}
