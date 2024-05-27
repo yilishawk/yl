@@ -29,10 +29,10 @@
 "播放列表":" <iframe&&</iframe>",
 "播放标题":"allowfullscreen=\"&&\"",
 "播放链接":"src='&&'",
-"跳转播放链接":"{file:\"&&\"",
+"跳转播放链接":"file:\"&&\"",
 "二次跳转播放链接":"file\":\"&&\"",
 "播放请求头":"",
-//"免嗅":"0",
+"嗅探词":"vlxx",
 "分类":"更多$phim-sex-moi#越南$phim-sex-vietsub#日本$phim-sex-viet-nam#riben$phim-sex-nhat-ban#欧美$phim-sex-chau-au#中国$phim-sex-trung-quoc#javhd$phim-sex-jav-hd#性爱电影$phim-sex-tap-the#xnxx$phim-sex-xnxx#xvideos$phim-sex-xvideos",
 "分类url":"https://mobiblog.app/{cateId}/{catePg}",
  "筛选":{
