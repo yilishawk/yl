@@ -1,0 +1,73 @@
+{
+"作者":"凯哥",
+"站名":"石榴",
+"主页url":"https://mobiblog.app/",
+//发布页https://vlxx.fan/
+//"请求头":"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
+"cookie":"",
+"热门推荐":"1",
+"直接播放":"0",
+//"二次截取":"<ul class=\"list\">&&<ul class=\"pagelist\">",
+"数组":"<div class=\"post\">&&</a>",
+"图片":"data-src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+//"副标题":"pic-text text-right\"><b>&&</b>",
+"搜索url":"https://18jc.life/s/nid/1/page/{pg}/sid/1/wd/{wd}/",
+"搜索模式": "1",
+"搜索二次截取": "<ul class=\"list\">&&<ul class=\"pagelist\">",
+"搜索数组": "<li&&</li>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "itle=\"&&\"",
+"搜索链接": "href=\"&&\"",
+//"播放二次截取":"<div class=\"main warp rows\">&&</div>",
+"播放数组":"<div class=\"wrap-video\">&&</div>",
+"状态":"更新：&&</span>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</span>",
+"播放列表":" <iframe&&</iframe>",
+"播放标题":"allowfullscreen=\"&&\"",
+"播放链接":"src='&&'",
+"跳转播放链接":"{file:\"&&\"",
+"二次跳转播放链接":"file\":\"&&\"",
+"播放请求头":"",
+//"免嗅":"0",
+"分类":"更多$phim-sex-moi#越南$phim-sex-vietsub#日本$phim-sex-viet-nam#riben$phim-sex-nhat-ban#欧美$phim-sex-chau-au#中国$phim-sex-trung-quoc#javhd$phim-sex-jav-hd#性爱电影$phim-sex-tap-the#xnxx$phim-sex-xnxx#xvideos$phim-sex-xvideos",
+"分类url":"https://mobiblog.app/{cateId}/{catePg}",
+ "筛选":{
+"1":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"自拍","v":"5"},
+  {"n":"主播诱惑","v":"6"},
+  {"n":"探花约泡","v":"7"},
+  {"n":"偷拍偷窥","v":"8"},
+  {"n":"乱伦侵犯","v":"9"},
+  {"n":"网曝吃瓜","v":"10"},
+  {"n":"短视频","v":"11"},
+  {"n":"传媒剧评","v":"12"}]}],
+  
+"2":[
+ {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"日韩自拍","v":"13"},
+  {"n":"日韩五码","v":"14"},
+  {"n":"中文字幕","v":"15"},
+  {"n":"五码字幕","v":"19"}
+  ]}],
+  
+"3":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"欧美自拍","v":"21"},
+  {"n":"欧美字幕","v":"22"},
+  {"n":"重口味","v":"23"}]}],
+  
+"4":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":""},
+  {"n":"港台伦理","v":"29"},
+  {"n":"日韩伦理","v":"30"},
+  {"n":"欧美伦理","v":"31"}]}]}
+}
