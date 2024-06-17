@@ -16,5 +16,6 @@ var rule = {
   limit: 6,
   推荐: '.column.is-one-quarter-tablet;img&&alt;img&&src;.duration&&Text;a&&href',
   一级: '.column.is-one-quarter-tablet;img&&alt;img&&src;.hd&&Text;a&&href',
+	二级:'*',
   搜索: '*',
 }
