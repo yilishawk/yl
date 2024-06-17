@@ -1,0 +1,20 @@
+var rule = {
+  title: '',
+  host: 'https://bijeop.com',
+  url: '/fyclass/fypage',
+  searchUrl: '/search?keywords=**&page=fypage',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  headers: {
+    'User-Agent': 'UC_UA',
+  },
+	class_name:'视频&蝌蚪&精品',
+	class_url:'video&videos&vod',
+  play_parse: true,
+  lazy: '',
+  limit: 6,
+  推荐: '.column.is-one-quarter-tablet;img&&alt;img&&src;.duration&&Text;a&&href',
+  一级: '.column.is-one-quarter-tablet;img&&alt;img&&src;.hd&&Text;a&&href',
+  搜索: '*',
+}
