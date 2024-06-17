@@ -10,26 +10,7 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/黄色仓库.json"
     },
-        	  	  	  	  	              {
-      "key": "dr_91",
-      "name": "91por",
-      "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/91por.js"
-    },
-    	  	  	  	  	              {
-      "key": "dr_missav",
-      "name": "missav",
-      "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/missav.js"
-    },
+
                                                                       {
       "key": "csp_XBPQ_abjav",
       "name": "abjav",
