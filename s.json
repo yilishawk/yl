@@ -20,6 +20,22 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/91采集.json"
     },
+                                  {
+      "key": "官网资源",
+      "name": "官网(采集)",
+      "type": 1,
+      "playUrl": "",
+      "api": "http://bttcj.com/inc/jsonsapi.php?ac=videolist",
+      "searchable":1,
+      "quickSearch": 1},
+                                  {
+      "key": "91",
+      "name": "91",
+      "type": 1,
+      "playUrl": "",
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch": 1},
     {"key":"xjjzyapi.com","name":"美少女","type":1,"api":"https://xjjzyapi.com/cjapi/sda/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"semaozy.com","name":"色猫(FQ)","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","searchable":1,"filterable":1},
 {"key":"lajiaozy.com","name":"辣椒(FQ)","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/?ac=list","searchable":1,"filterable":1},
