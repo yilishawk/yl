@@ -33,8 +33,8 @@
     "播放链接":"src=\"&&\"",
     "分类url":"https://hsck43.25img.com{cateId}&p={catePg}",
     "分类":"国产$/?type=ycgc#无码中字$/?type=wz#无码$/?type=rw#欧美$/?type=om",
-    "嗅探词":".mp4?dis#.mp4#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-    "过滤词":"hjx.m3u8zy.top#url=#op.m3u8zy.fun#51.la#cnzz.com#baidu.com#bilibili.com",
+    "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+    "过滤词":"mp4.js",
     //"跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
     //"跳转播放链接": "https://jx.m3u8zy.top/player/ez.php?code=nkvod&if=1&url=+url\":\"&&\"",
     "播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
