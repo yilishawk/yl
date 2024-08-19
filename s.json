@@ -1,5 +1,14 @@
 {
   "sites": [
+            {
+      "key": "花猫",
+      "name": "花猫",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
       "key": "xbapi",
       "name": "xbapi",
