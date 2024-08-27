@@ -9,6 +9,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+             	  	  	  	  	              {
+      "key": "dr_missav",
+      "name": "missav",
+      "type": 3,
+      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/lib/wk.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://github.com/yilishawk/yl/raw/master/missav.js"
+    },
         {
       "key": "xbapi",
       "name": "xbapi",
