@@ -1,5 +1,15 @@
 {
   "sites": [
+                 	  	  	  	  	              {
+      "key": "dr_kanav",
+      "name": "kanav",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/js/-/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://github.com/yilishawk/yl/raw/master/kanav.js"
+    },
                                                                   {
       "key": "csp_XBPQ_whores",
       "name": "whores",
