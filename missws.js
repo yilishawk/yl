@@ -2,7 +2,7 @@ var rule = {
     title:'Missav',
     host:'https://missav.ws',
     searchUrl:'/cn/search/**?filters=uncensored-leak&page=fypage',
-    url:'cn/search/fyclass?page=fypage',
+    url:'/cn/search/fyclass?page=fypage',
     headers:{
         'User-Agent':'Mozilla/5.0 (Linux; Android 13; SM-A536E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq'
     },
