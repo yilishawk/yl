@@ -1,5 +1,5 @@
 var rule = {
-    title:'Missav',
+    title:'Missws',
     host:'https://missav.ws',
     searchUrl:'/cn/search/**?filters=uncensored-leak&page=fypage',
     url:'/cn/search/fyclass?page=fypage',
