@@ -12,7 +12,7 @@ var rule = {
     limit:5,
     play_parse:true,
     lazy:'',
-    一级:'.overflow-hidden.shadow-lg;img&&alt;img&&data-src;.absolute.bottom-1&&Text;a&&href',
+    一级:'.overflow-hidden.shadow-lg;img&&alt;img&&data-src;.absolute.bottom-1&&Text;a:eq(1)&&href',
     二级:'*',
 	搜索:'.overflow-hidden.shadow-lg;img&&alt;img&&data-src;.absolute.bottom-1&&Text;a&&href',
 	searchable:1,//是否启用全局搜索,
