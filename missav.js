@@ -4,7 +4,7 @@ var rule = {
 	searchUrl:'/cn/search/**?filters=uncensored-leak&page=fypage',
     url:'/fyclass?page=fypage',
     headers:{
-        'User-Agent':'MOBILE_UA'
+        'User-Agent':'Mozilla/5.0 (Linux; Android 13; SM-A536E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq'
     },
     timeout:5000,
     class_name:'中文字幕&新作上市&素人&无码流出&国产麻豆',//静态分类名称拼接
