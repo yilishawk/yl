@@ -1,7 +1,7 @@
 var rule = {
   title: '',
   host: 'https://www.xnxx-ru.com',
-  url: '/search/hd-only/fyclass/fypage[/search/hd-only/fyclass/]',
+  url: '/search/hd-only/fyclass/fypage',
   searchUrl: '/search/hd-only/fyclass/fypage',
   searchable: 2,
   quickSearch: 0,
