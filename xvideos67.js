@@ -1,0 +1,18 @@
+var rule = {
+  title: '',
+  host: 'https://www.xvideos67.com/',
+  url: '/fyclass/fypage',
+  searchUrl: '/?k=**&p=fypage',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  class_parse: 'ul.sub-list&&li;a&&Text;a&&href',
+  play_parse: true,
+  lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input;\n  }",
+  limit: 6,
+  double: true,
+  推荐: '.module-list;.module-items&&.module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
+  一级: '.mozaique.cust-nb-cols .frame-block.thumb-block;p:eq(0)&&a&&title;a:eq(0)&&img&&data-src;.metadata&&Text;a&&href',
+  二级: '*',
+  搜索: '*',
+}
