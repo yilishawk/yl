@@ -50,6 +50,16 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/xvideos.json"
     },
+                     	  	  	  	  	              {
+      "key": "dr_xvideos67",
+      "name": "xvideos67",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/js/-/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/xvideos67.js"
+    },
             {
       "key": "花猫",
       "name": "花猫",
