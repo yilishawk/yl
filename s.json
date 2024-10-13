@@ -57,6 +57,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+                      {
+      "key": "csp_XBPQ_avdb",
+      "name": "avdb",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/avdb.json"
+    },
         {
       "key": "xxavs",
       "name": "xxavs",
