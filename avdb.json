@@ -10,7 +10,7 @@
   "图片": "poster_url\":\"&&\"",
   "标题": "\"name\":\"&&\"",
   "副标题": "quality\":\"&&\"+year\":\"&&\"",
-  "链接": "player/?s=&&\"",
+  "链接": "link_embed\":\"&&\"",
     "搜索url": "https://360zy.com/api.php/provide/vod?wd={wd}&ac=detail",
   "搜索模式": "1",
   "搜索二次截取": "list\":[&&]}",
