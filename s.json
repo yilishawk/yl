@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/missws.js"
     },
+                                                                      {
+      "key": "csp_XBPQ_黄影",
+      "name": "黄影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/黄影.json"
+    },
                                                                   {
       "key": "csp_XBPQ_whores",
       "name": "whores",
