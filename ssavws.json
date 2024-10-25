@@ -39,8 +39,8 @@
 "过滤词":"mp4",
 "播放请求头":"",
 //"免嗅":"0",
-"分类":"亨利&亨利#麻豆&麻豆#高清&高清#五十&五十#ACZD&ACZD#麻豆&madou",
-"分类url":"https://missav.ws/cn/search/{cateId}?filters={class}&page={catePg}l",
+"分类":"亨利$亨利#麻豆$麻豆#高清$高清#五十$五十#ACZD$ACZD#麻豆$madou",
+"分类url":"https://missav.ws/cn/search/{cateId}?filters={class}&page={catePg}",
  "筛选":{
 		"高清":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"高清"},{"n":"女同性恋","v":"女同性恋"},{"n":"按摩棒","v":"按摩棒"},{"n":"SM","v":"SM"},{"n":"肛门","v":"肛门"},{"n":"乱交","v":"乱交"},{"n":"玩具","v":"玩具"},{"n":"母亲","v":"母亲"},{"n":"野外露出","v":"野外露出"},{"n":"全高清 (FHD)","v":"全高清 (FHD)"}]},{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"单人作品","v":"individual"},{"n":"无码流出","v":"uncensored-leak"},{"n":"无码影片","v":"uncensored"},{"n":"日本AV","v":"jav"},{"n":"中文字幕","v":"chinese-subtitle"}]}],
 		"ACZD":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"高清"},{"n":"拷问","v":"拷问"},{"n":"3P、4P","v":"3P、4P"},{"n":"灌肠","v":"灌肠"},{"n":"异物插入","v":"异物插入"},{"n":"假阳具","v":"假阳具"},{"n":"拳头","v":"拳头"},{"n":"五十","v":"五十"},{"n":"黑人","v":"黑人"},{"n":"全高清 (FHD)","v":"全高清 (FHD)"}]},{"key":"class","name":"剧情","value":[{"n":"全部","v":""},{"n":"单人作品","v":"individual"},{"n":"无码流出","v":"uncensored-leak"},{"n":"无码影片","v":"uncensored"},{"n":"日本AV","v":"jav"},{"n":"中文字幕","v":"chinese-subtitle"}]}],
