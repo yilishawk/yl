@@ -1,14 +1,14 @@
 {
 "作者":"凯哥",
 "站名":"石榴",
-"主页url":"https://missav.ws/",
+//"主页url":"https://missav.ws/",
 //发布页https://avbro.one/
 //"请求头":"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
 "cookie":"",
 "热门推荐":"1",
 "直接播放":"1",
 //"二次截取":"个频道&&<ul class=\"page text_center cleafix\">",
-"数组":"<div class=\"relative aspect-w-16&&</a>",
+"数组":"<div class=\"relative aspect-w-16&&<div class=\"my-2 text-sm text-nord4",
 "图片":"data-src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
