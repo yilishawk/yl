@@ -22,7 +22,35 @@ filter_url:'filters={{fl.class}}&page=fypage',
     class_url:'亨利&麻豆&高清&五十&肛交&ACZD&肛交&纪录片',//静态分类标识拼接
     limit:5,
     play_parse:true,
-    lazy:'',
+     lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        var url = html.url;
+        if (html.encrypt == '1') {
+            url = unescape(url)
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        }
+        if (/\\.m3u8|\\.m3u8/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
+        } else if (/NBY|youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(url)) {
+            let play_Url = /bilibili/.test(url) ? 'https://jiexi.ibaopian.pro/player/analysis.php?v=' : 'https://jiexi.ibaopian.pro/player/analysis.php?v='; // type0的parse
+            input = {
+                jx: 0,
+                url: url,
+                playUrl: play_Url,
+                parse: 1,
+                header: JSON.stringify({
+                    'user-agent': 'Mozilla/5.0',
+                }),
+            }
+        } else {
+            input
+        }
+    `,
     一级:'.overflow-hidden.shadow-lg;img&&alt;img&&data-src;.absolute.bottom-1&&Text;a&&href',
     二级:'*',
 	搜索:'.overflow-hidden.shadow-lg;img&&alt;img&&data-src;.absolute.bottom-1&&Text;a&&href',
