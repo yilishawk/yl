@@ -21,6 +21,16 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/黄影.json"
     },
                                                                           {
+      "key": "csp_XBPQ_theporn",
+      "name": "theporn",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/yl/master/theporn.json"
+    },
+                                                                          {
       "key": "csp_XBPQ_ssavws",
       "name": "ssavws",
       "type": 3,
