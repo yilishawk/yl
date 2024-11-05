@@ -3,10 +3,10 @@
 "站名":"石榴",
 "主页url":"https://thep5044.cc/",
 //发布页https://thepthep5002.cc/
-//"头部集合":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#authority$www.liujiuse.com#Referer$https://www.liujiuse.com/",
-"直接播放":"1",
+"请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36",
 //"直接播放":"1",
-//"二次截取":"<div class=\"row\">&&<div class=\"row\">",
+//"直接播放":"1",
+"二次截取":"<div class=video-av-data>&&<div class=cl>",
 "数组":"<div class=\"avdata card&&</a>",
 "图片":"data-src=\"&&\"",
 "标题":"alt=\"&&\"",
