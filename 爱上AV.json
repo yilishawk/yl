@@ -37,7 +37,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"最新$new#日韩$2#欧美$25#伦理$27#精品推荐$1#国产视频$20",
-"分类url":"www.crvcd.cc/vodtype/{cateId}-{catePg}/",
+"分类url":"https://www.crvcd.cc/vodtype/{cateId}-{catePg}/",
  "筛选":{
 "11":[
   {"key":"cateId","name":"类型","value":[
