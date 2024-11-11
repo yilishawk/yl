@@ -58,16 +58,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_XBPQ_avdb",
-      "name": "avdb",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/avdb.json"
-    },
-    {
       "key": "xxavs",
       "name": "xxavs",
       "type": 1,
@@ -158,51 +148,6 @@
       "filterable": 0
     },
     {
-      "key": "api.11bat.com",
-      "name": "成人15",
-      "type": 0,
-      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "成人19",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "msnii.com",
-      "name": "成人20",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "xrbsp.com",
-      "name": "成人21",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "kxgav.com",
-      "name": "成人22",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_XBPQ_en",
       "name": "en",
       "type": 3,
@@ -211,16 +156,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/en.json"
-    },
-    {
-      "key": "csp_XBPQ_pornx",
-      "name": "pornx",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/pornx.json"
     },
     {
       "key": "csp_XBPQ_肉铺",
