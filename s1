@@ -1,0 +1,984 @@
+{
+  "sites": [
+    {
+      "key": "csp_XBPQ_黄色仓库",
+      "name": "黄色仓库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n    \"作者\":\"凯哥\",\r\n    \"站名\":\"耐看点播\",\r\n//\"头部集合\": \"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.nkvod.com\",\r\n//https://hsck43.25img.com/\r\n    //\"直接播放\":\"1\",\r\n    \"主页url\":\"https://hsck43.25img.com\",\r\n    //\"二次截取\":\"<div class=\\\"module-list\\\">&&<footer id=\\\"footer\\\"\",\r\n    \"数组\":\"lazyload&&</a>[不包含:米菲兔]\",\r\n    \"图片\":\"data-original=\\\"&&\\\"\",\r\n    \"标题\":\"title=\\\"&&\\\"\",\r\n    \"链接\":\"href=\\\"&&\\\"\",\r\n    \"副标题\":\"pic-text text-right\\\">&&</span>\",\r\n    \"简介\":\"style=\\\"line-height: 20px;\\\">&&</p>\",\r\n    \"导演\":\"导演：&&</div>\",\r\n    \"主演\":\"主演：&&</div>\",\r\n    \"影片年代\":\"更新：&&</div>\",\r\n    \"影片状态\":\"集数：&&</div>\",\r\n    \"搜索url\":\"https://hsck4.26img.com/?p={pg}&search2=ndafeoafa&search={wd}\",\r\n    \"搜索模式\":\"1\",\r\n    //\"搜索二次截取\":\"<div class=\\\"module-items module-card-items\\\">&&id=\\\"page\\\">\",\r\n    \"搜索数组\":\"lazyload&&</a>[不包含:米菲兔]\",\r\n    \"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n    \"搜索标题\":\"title=\\\"&&\\\"\",\r\n    \"搜索链接\":\"href=\\\"&&\\\"\",\r\n    //\"搜索后缀\":\"/oftensdetail/\",\r\n    //\"线路数组\":\"<div class=\\\"module-tab-item tab-item\\\"&&</div>\",\r\n    //\"线路标题\":\"<span>&&</span>[替换:奇艺视频>>奇云#腾讯视频>>腾云#优酷视频>>优云#芒果视频>>芒云]\",\r\n \"播放二次截取\":\"<div class=\\\"stui-pannel-bd\\\">&&<div class=\\\"mac_digg\\\"\",\r\n    \"播放数组\":\"<div id=\\\"widthVideoVideo\\\"&&</script>\",\r\n    \"播放标题\":\"id=\\\"&&\\\"\",\r\n    \"播放列表\":\"<video&&</video>\",\r\n    \"播放链接\":\"src=\\\"&&\\\"\",\r\n    \"分类url\":\"https://hsck43.25img.com{cateId}&p={catePg}\",\r\n    \"分类\":\"国产$/?type=ycgc#无码中字$/?type=wz#无码$/?type=rw#欧美$/?type=om\",\r\n    \"嗅探词\":\".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a\",\r\n    \"过滤词\":\"mp4.js\",\r\n    //\"跳转播放链接数组\": \"<div class=\\\"player-box-main\\\">&&</script>\",\r\n    //\"跳转播放链接\": \"https://jx.m3u8zy.top/player/ez.php?code=nkvod&if=1&url=+url\\\":\\\"&&\\\"\",\r\n    \"播放请求头\":\"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36\"\r\n}"
+    },
+    {
+      "key": "三级",
+      "name": "三级",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XBPQ_sae8",
+      "name": "sae8",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/sae8.json"
+    },
+    {
+      "key": "csp_XBPQ_whores",
+      "name": "whores",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://japan-whores.com/\",\r\n//发布页http://18fby.com/https://new.18jvip.com/18302/\r\n  \"头部集合\":\"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=k3rs6806fgooo4sa33qqu8e2nd; feid=97afa7b45136a7e822621a0c32b46098; utm=%7B%22ads_type%22%3A%22%22%7D; st_d=%7B%7D; sid=656e72a30a5166c35138926f195152bf; kt_tcookie=1; xfeid=a82fbf11ea6f30adab70d37ad4d1f25a; atas_uid=; zone-cap-5118902=1%3B1719295047; kt_qparams=id%3D350645%26dir%3Djapanese-mommy-s-taboo-ultimate-bonding-son-s-penis-meets-mom-s-tongue; feid_sa=4; sid_sa=4\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"1\",\r\n//\"二次截取\":\"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"数组\":\"<div class=\\\"item thumb\\\">&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"https://japan-whores.com/embed/+href=\\\"https://japan-whores.com/videos/&&/\",\r\n\"副标题\":\"time\\\">&&</span>\",\r\n\"搜索url\":\"https://japan-whores.com/search/videos/{wd}/?mode=async&function=get_block&block_id=list_videos_videos&sort_by=&from={pg}\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<div class=\\\"item thumb\\\">&&</a>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"https://japan-whores.com/embed/+href=\\\"https://japan-whores.com/videos/&&/\",\r\n//\"搜索后缀\":\"/voddetail/\",\r\n\"播放二次截取\":\"<div class=\\\"butdown\\\">&&<div class=\\\"suggestions2 suggestions3\\\">\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"线路标题\":\"<h3>&&</h3>\",\r\n\"播放数组\":\"<div class=\\\"rate_box rating-container\\\">&&</div>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"<a h&&</a>\",\r\n\"播放标题\":\"data-vote=\\\"&&\\\"\",\r\n\"播放链接\":\"https://japan-whores.com/embed/+data-video-id=\\\"&&\\\"\",\r\n//\"跳转播放链接\":\"https://pornken.net/+src=\\\"&&\\\"\",\r\n//\"二次跳转播放链接\":\"480p\\\"><source src=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\"cdn.privatehost.com#?embed=true\",\r\n\"过滤词\":\".jpg#s3t3d2y8.afcdn.net\",\r\n  \"播放请求头\":\"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=k3rs6806fgooo4sa33qqu8e2nd; feid=97afa7b45136a7e822621a0c32b46098; utm=%7B%22ads_type%22%3A%22%22%7D; st_d=%7B%7D; sid=656e72a30a5166c35138926f195152bf; kt_tcookie=1; xfeid=a82fbf11ea6f30adab70d37ad4d1f25a; atas_uid=; zone-cap-5118902=1%3B1719295047; kt_qparams=id%3D350645%26dir%3Djapanese-mommy-s-taboo-ultimate-bonding-son-s-penis-meets-mom-s-tongue; feid_sa=3; sid_sa=3\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"成熟$mature#肛交$anal#高清$hd#欧美$european#跨种族$interracial#摄像头$webcam#公共场合$public#双插$double-penetration\",\r\n\"分类url\":\"https://japan-whores.com/c/{cateId}/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=video_viewed_today&from={catePg}\",\r\n \"筛选\":{\r\n\"chinese\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"自慰棒\",\"v\":\"dildo\"},\r\n  {\"n\":\"ACZD\",\"v\":\"ACZD\"},\r\n  {\"n\":\"绿帽子\",\"v\":\"cuckold\"},\r\n  {\"n\":\"自卫\",\"v\":\"solo\"},\r\n  {\"n\":\"成熟\",\"v\":\"mature\"},\r\n  {\"n\":\"多人性交\",\"v\":\"gangbang\"},\r\n  {\"n\":\"bdsm\",\"v\":\"bdsm\"},\r\n  {\"n\":\"按摩\",\"v\":\"massage\"},\r\n  {\"n\":\"复古\",\"v\":\"vintage\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"200\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_xvideos",
+      "name": "xvideos",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"xvideos\",\r\n\"主页url\":\"https://www.xvideos67.com/\",\r\n\"请求头\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"起始页\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"1\",\r\n\"二次截取\":\"<div id=\\\"content\\\">&&<div id=\\\"footer\\\">\",\r\n\"数组\":\"<div class=\\\"thumb\\\"&&<p class=\\\"metadata\\\"\",\r\n\"图片\":\"data-src=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"xh-icon beta-thumb-hd thumb-image-container__icon thumb-image-container__icon--&&</span>[替换:  \\\"></i>>>空#<span data-role=\\\"video-duration\\\">>>空]\",\r\n\"搜索url\":\"/?k={wd}&p={pg}\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"移除广告&&<div class=\\\"pager-section\\\">\",\r\n\"搜索数组\": \"role-pop thumb-image-container\\\"&&</a>\",\r\n\"搜索图片\": \"src=\\\"&&\\\"\",\r\n\"搜索标题\": \"alt=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"搜索后缀\":\"\",\r\n\"线路二次截取\":\"\",\r\n\"线路数组\":\"\",\r\n\"线路标题\":\"\",\r\n\"播放数组\":\"<script type=\\\"application/ld+json\\\">&&</script>\",\r\n\"播放列表\":\"{&&}\",\r\n\"播放标题\":\"name\\\": \\\"&&\\\"\",\r\n\"播放链接\":\"contentUrl\\\": \\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\".mp4.m3u8#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"144p.av1#thumb-l3.flixcdn.com#vlcdn.tsyndicate.com#lcdn.tsyndicate.com#edge-hls.doppiocdn.org#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"jav$jav+anal#wife$wife+dildo#亚洲$asian#国产$chinese#复古$retro#钢棒$gangbang\",\r\n//\"类型\":\"big+dick+anal--無修正流出$chinese+milf#日本無碼$japanese+日本+無修正+高画質#亚洲$asina+anal#极限$japanese+extreme+bdsm#无修正$extreme+japanese+anal+日本+無修正+高画質#真实摄像头$hidden+camera#摄像头手瘾$hidden+camera+masturbation#隐藏摄像头按摩$hidden+camera+massage#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju\",\r\n//\"分类url\":\"https://zh.xhamster3.com/categories/{cateId}/{catePg}\",\r\n\"分类url\":\"https://www.xvideos67.com/?k={cateId}&quality=hd&p={catePg}\",\r\n\"筛选\":{\r\n\"asian\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"1\"},\r\n{\"n\":\"偷窥\",\"v\":\"voyeur\"},\r\n{\"n\":\"复古\",\"v\":\"retro\"},\r\n{\"n\":\"摄像头\",\"v\":\"webcam\"},\r\n{\"n\":\"隐秘的相机\",\"v\":\"hidden-camera\"},\r\n{\"n\":\"双洞\",\"v\":\"double-penetration\"},\r\n{\"n\":\"张开\",\"v\":\"gaping\"},\r\n{\"n\":\"粗暴肛交\",\"v\":\"rough-anal\"},\r\n{\"n\":\"肛交\",\"v\":\"anal\"},\r\n{\"n\":\"极限\",\"v\":\"extreme-insertion\"},\r\n{\"n\":\"性虐\",\"v\":\"bdsm\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"chinese\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"假鸡吧\",\"v\":\"dildo\"},\r\n{\"n\":\"拳交\",\"v\":\"fisting\"},\r\n{\"n\":\"大公鸡\",\"v\":\"big-cock\"},\r\n{\"n\":\"钢棒\",\"v\":\"gangbang\"},\r\n{\"n\":\"公共裸露\",\"v\":\"public-nudity\"},\r\n{\"n\":\"瑜伽\",\"v\":\"yoga\"},\r\n{\"n\":\"肛门自卫\",\"v\":\"big+dildo+anal\"},\r\n{\"n\":\"中国自拍\",\"v\":\"chinese+milf\"},\r\n{\"n\":\"日本五码\",\"v\":\"japanese+日本+無修正+高画質\"},\r\n{\"n\":\"亚洲肛交\",\"v\":\"asina+anal\"},\r\n{\"n\":\"日本肛交\",\"v\":\"extreme+japanese+anal+日本+無修正+高画質\"},\r\n{\"n\":\"夫妻道具\",\"v\":\"wife+dildo\"},\r\n{\"n\":\"异族\",\"v\":\"interracial\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"3\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"3\"},\r\n{\"n\":\"大陆综艺\",\"v\":\"28\"},\r\n{\"n\":\"港台综艺\",\"v\":\"29\"},\r\n{\"n\":\"日韩综艺\",\"v\":\"30\"},\r\n{\"n\":\"欧美综艺\",\"v\":\"31\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"4\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"4\"},\r\n{\"n\":\"国产动漫\",\"v\":\"32\"},\r\n{\"n\":\"日本动漫\",\"v\":\"33\"},\r\n{\"n\":\"其他动漫\",\"v\":\"35\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n]\r\n}\r\n}"
+    },
+    {
+      "key": "花猫",
+      "name": "花猫",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "lbapiby",
+      "name": "lbapiby",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xxavs",
+      "name": "xxavs",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "yutu",
+      "name": "yutu",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "阿里资源",
+      "name": "阿里资源",
+      "type": 1,
+      "api": "https://bbckzy8.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "丝袜资源",
+      "name": "丝袜资源",
+      "type": 1,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "色色虎",
+      "name": "色色虎",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "好色采集",
+      "name": "好色采集",
+      "type": 1,
+      "api": "https://haosezyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鲨鱼采集",
+      "name": "鲨鱼采集",
+      "type": 1,
+      "api": "http://shayuzy5.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "森林采集",
+      "name": "森林采集",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番号采集",
+      "name": "番号采集",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "大地采集",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XBPQ_en",
+      "name": "en",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://zh-tw.thisav.one/\",\r\n//发布页http://18fby.com/https://new.18jvip.com/18302/\r\n\"请求头\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"1\",\r\n\"二次截取\":\"<div class=\\\"video-list  ui link cards bbt-row avdata-4r\\\"&&<div class=\\\"sc-16r8icm-0 sc-4r7b5t-0 cjTnHf __navigation_page\\\"\",\r\n\"数组\":\"<li&&</li>[替换:data-hash-id=\\\">>data-hash-id=\\\"https://b2.bttss.cc/videos/]\",\r\n\"图片\":\"data-src=&& class=\\\"\",\r\n\"标题\":\"target=_blank class=title>&& </a>\",\r\n\"链接\":\"data-hash-id=\\\"&&\\\"\",\r\n \"链接后缀\":\"/g.m3u8?h=3121efe8979c635\",\r\n\"副标题\":\"time\\\">&&</span>\",\r\n\"搜索url\":\"https://zh-tw.thisav.one/search/{wd}/{pg}?f=hr\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"<ul class=\\\"row row-space7 row-m-space7 tx-column-4 tx-column-m-2\\\">&&id=__navigation_page>\",\r\n\"搜索数组\": \"<li&&</li>\",\r\n\"搜索图片\": \"data-src=&& class=\\\"\",\r\n\"搜索标题\": \"target=_blank class=title>&& </a>\",\r\n\"搜索链接\": \"https://b2.bttss.cc/videos/+data-hash-id=\\\"&&\\\"+/g.m3u8?h=3121efe8979c635\",\r\n//\"搜索后缀\":\"/voddetail/\",\r\n\"播放二次截取\":\"<script>var avdata_source&&cdn_host\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"线路标题\":\"<h3>&&</h3>\",\r\n\"播放数组\":\"categories&&release_time\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"tid\\\":&&space_name\",\r\n\"播放标题\":\"data_type\\\":&&,\",\r\n\"播放链接\":\"https://b2.bttss.cc/videos/+hash_id\\\": \\\"&&\\\"+/g.m3u8?h=3121efe8979c635\",\r\n//\"跳转播放链接\":\"https://pornken.net/+src=\\\"&&\\\"\",\r\n//\"二次跳转播放链接\":\"480p\\\"><source src=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n//\"嗅探词\":\"?embed=true#.ahcdn.com\",\r\n\"过滤词\":\"s3t3d2y8.afcdn.net\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"加勒比$加勒比#一本道$一本道#成熟$阿姨#按摩$按摩#偷拍$偷拍#麻豆$麻豆#素人熟女ナンパ$素人熟女ナンパ#瑜伽$瑜伽#良家$良家#双洞$双洞\",\r\n\"分类url\":\"https://zh-tw.thisav.one/search/{cateId}/{catePg}\",\r\n \"筛选\":{\r\n\"阿姨\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"91短视频\",\"v\":\"91短视频\"},\r\n  {\"n\":\"重口\",\"v\":\"重口\"},\r\n  {\"n\":\"熟女ソー\",\"v\":\"熟女ソー\"},\r\n  {\"n\":\"东京热\",\"v\":\"东京热\"},\r\n  {\"n\":\"50路\",\"v\":\"十路妻\"},\r\n  {\"n\":\"多人性交\",\"v\":\"gangbang\"},\r\n  {\"n\":\"bdsm\",\"v\":\"bdsm\"},\r\n  {\"n\":\"按摩\",\"v\":\"massage\"},\r\n  {\"n\":\"复古\",\"v\":\"vintage\"},\r\n   {\"n\":\"强奸\",\"v\":\"强奸\"},  \r\n{\"n\":\"乱伦\",\"v\":\"乱伦\"},  \r\n{\"n\":\"按摩\",\"v\":\"按摩\"},  \r\n{\"n\":\"少妇\",\"v\":\"少妇\"},  \r\n{\"n\":\"强奸成人\",\"v\":\"强奸成人\"},  \r\n{\"n\":\"麻豆\",\"v\":\"麻豆\"},  \r\n{\"n\":\"黑人\",\"v\":\"黑人\"},  \r\n{\"n\":\"自慰\",\"v\":\"自慰\"},  \r\n{\"n\":\"萝莉\",\"v\":\"萝莉\"},  \r\n{\"n\":\"原神\",\"v\":\"原神\"},  \r\n{\"n\":\"哥哥操我\",\"v\":\"哥哥操我\"},  \r\n{\"n\":\"学生\",\"v\":\"学生\"},  \r\n{\"n\":\"调教\",\"v\":\"调教\"},  \r\n{\"n\":\"阿姨\",\"v\":\"阿姨\"},  \r\n{\"n\":\"老师\",\"v\":\"老师\"},  \r\n{\"n\":\"无码\",\"v\":\"无码\"},  \r\n{\"n\":\"在校女生\",\"v\":\"在校女生\"},  \r\n{\"n\":\"内射\",\"v\":\"内射\"},  \r\n{\"n\":\"黑丝\",\"v\":\"黑丝\"},  \r\n{\"n\":\"音乐\",\"v\":\"音乐\"},  \r\n{\"n\":\"喷水\",\"v\":\"喷水\"},  \r\n{\"n\":\"巨乳\",\"v\":\"巨乳\"},  \r\n{\"n\":\"白丝\",\"v\":\"白丝\"},  \r\n{\"n\":\"偷情\",\"v\":\"偷情\"},  \r\n{\"n\":\"妈妈\",\"v\":\"妈妈\"},  \r\n{\"n\":\"熟女 群\",\"v\":\"熟女 群\"},  \r\n{\"n\":\"中国老熟女\",\"v\":\"中国老熟女\"},  \r\n{\"n\":\"父母中文字幕\",\"v\":\"父母中文字幕\"},  \r\n{\"n\":\"夜袭儿媳\",\"v\":\"夜袭儿媳\"},  \r\n{\"n\":\"熟女\",\"v\":\"熟女\"},  \r\n{\"n\":\"高潮\",\"v\":\"高潮\"},  \r\n{\"n\":\"偷拍\",\"v\":\"偷拍\"},  \r\n{\"n\":\"中文字幕\",\"v\":\"中文字幕\"},  \r\n{\"n\":\"母子\",\"v\":\"母子\"},  \r\n{\"n\":\"伪娘\",\"v\":\"伪娘\"},  \r\n{\"n\":\"娜娜\",\"v\":\"娜娜\"},  \r\n{\"n\":\"探花\",\"v\":\"探花\"},  \r\n{\"n\":\"白虎\",\"v\":\"白虎\"},  \r\n{\"n\":\"换妻\",\"v\":\"换妻\"},  \r\n{\"n\":\"丝袜\",\"v\":\"丝袜\"},  \r\n{\"n\":\"玩偶姐姐\",\"v\":\"玩偶姐姐\"},  \r\n{\"n\":\"女友内裤\",\"v\":\"女友内裤\"},  \r\n{\"n\":\"足交\",\"v\":\"足交\"},  \r\n{\"n\":\"嫂子\",\"v\":\"嫂子\"},  \r\n{\"n\":\"传媒\",\"v\":\"传媒\"},  \r\n{\"n\":\"素人熟女ナンパ\",\"v\":\"素人熟女ナンパ\"},  \r\n{\"n\":\"韩国\",\"v\":\"韩国\"},  \r\n{\"n\":\"母狗\",\"v\":\"母狗\"},  \r\n{\"n\":\"人工智能\",\"v\":\"人工智能\"},  \r\n{\"n\":\"国产\",\"v\":\"国产\"},  \r\n{\"n\":\"三上悠亚\",\"v\":\"三上悠亚\"},  \r\n{\"n\":\"剧情\",\"v\":\"剧情\"},  \r\n{\"n\":\"糖心\",\"v\":\"糖心\"},  \r\n{\"n\":\"人妻\",\"v\":\"人妻\"},  \r\n{\"n\":\"合集\",\"v\":\"合集\"},  \r\n{\"n\":\"极品\",\"v\":\"极品\"},  \r\n{\"n\":\"人妖\",\"v\":\"人妖\"},  \r\n{\"n\":\"幼女\",\"v\":\"幼女\"},  \r\n{\"n\":\"岳母\",\"v\":\"岳母\"},  \r\n{\"n\":\"处女\",\"v\":\"处女\"},  \r\n{\"n\":\"真实\",\"v\":\"真实\"},  \r\n{\"n\":\"迷奸\",\"v\":\"迷奸\"},  \r\n{\"n\":\"勾引\",\"v\":\"勾引\"},  \r\n{\"n\":\"孕妇\",\"v\":\"孕妇\"},  \r\n{\"n\":\"破处\",\"v\":\"破处\"},  \r\n{\"n\":\"母女\",\"v\":\"母女\"},  \r\n{\"n\":\"空姐\",\"v\":\"空姐\"},  \r\n{\"n\":\"香港三级\",\"v\":\"香港三级\"},  \r\n{\"n\":\"女同\",\"v\":\"女同\"},  \r\n{\"n\":\"轮奸\",\"v\":\"轮奸\"},  \r\n{\"n\":\"健身\",\"v\":\"健身\"},  \r\n{\"n\":\"韩国限制级\",\"v\":\"韩国限制级\"},  \r\n{\"n\":\"瑜伽\",\"v\":\"瑜伽\"},  \r\n{\"n\":\"jk\",\"v\":\"jk\"},  \r\n{\"n\":\"日本少女按摩\",\"v\":\"日本少女按摩\"},  \r\n{\"n\":\"绿帽\",\"v\":\"绿帽\"},  \r\n{\"n\":\"10人生活/\",\"v\":\"10人生活/\"},  \r\n{\"n\":\"户外\",\"v\":\"户外\"},  \r\n{\"n\":\"cos\",\"v\":\"cos\"},  \r\n{\"n\":\"多人\",\"v\":\"多人\"},  \r\n{\"n\":\"捆绑\",\"v\":\"捆绑\"},  \r\n{\"n\":\"姐姐\",\"v\":\"姐姐\"},  \r\n{\"n\":\"同性\",\"v\":\"同性\"},  \r\n{\"n\":\"波多野结衣\",\"v\":\"波多野结衣\"},  \r\n{\"n\":\"明星\",\"v\":\"明星\"},  \r\n{\"n\":\"眼镜\",\"v\":\"眼镜\"},  \r\n{\"n\":\"初中生\",\"v\":\"初中生\"},  \r\n{\"n\":\"闺蜜\",\"v\":\"闺蜜\"},\r\n{\"n\":\"河北彩花\",\"v\":\"河北彩花\"},  \r\n{\"n\":\"双飞\",\"v\":\"双飞\"},  \r\n{\"n\":\"高中\",\"v\":\"高中\"},  \r\n{\"n\":\"中文\",\"v\":\"中文\"},  \r\n{\"n\":\"对白\",\"v\":\"对白\"},  \r\n{\"n\":\"情侣\",\"v\":\"情侣\"},  \r\n{\"n\":\"海角\",\"v\":\"海角\"},  \r\n{\"n\":\"打屁股\",\"v\":\"打屁股\"},  \r\n{\"n\":\"空运催乳\",\"v\":\"空运催乳\"},  \r\n{\"n\":\"女儿\",\"v\":\"女儿\"},  \r\n{\"n\":\"电话\",\"v\":\"电话\"},  \r\n{\"n\":\"大奶\",\"v\":\"大奶\"},  \r\n{\"n\":\"继母\",\"v\":\"继母\"},  \r\n{\"n\":\"母乳\",\"v\":\"母乳\"},  \r\n{\"n\":\"御姐\",\"v\":\"御姐\"},  \r\n{\"n\":\"丝巾捆绑\",\"v\":\"丝巾捆绑\"},  \r\n{\"n\":\"后入\",\"v\":\"后入\"},  \r\n{\"n\":\"肛交\",\"v\":\"肛交\"},  \r\n{\"n\":\"白浆\",\"v\":\"白浆\"},  \r\n{\"n\":\"撮影寝取\",\"v\":\"撮影寝取\"},  \r\n{\"n\":\"sm\",\"v\":\"sm\"},  \r\n{\"n\":\"女神\",\"v\":\"女神\"},  \r\n{\"n\":\"体育生\",\"v\":\"体育生\"},  \r\n{\"n\":\"大学生\",\"v\":\"大学生\"},  \r\n{\"n\":\"姐弟\",\"v\":\"姐弟\"},  \r\n{\"n\":\"抖音\",\"v\":\"抖音\"},  \r\n{\"n\":\"做朋友\",\"v\":\"做朋友\"},  \r\n{\"n\":\"露出\",\"v\":\"露出\"},  \r\n{\"n\":\"潮吹\",\"v\":\"潮吹\"},  \r\n{\"n\":\"麻酥酥\",\"v\":\"麻酥酥\"},  \r\n{\"n\":\"湿逼\",\"v\":\"湿逼\"},  \r\n{\"n\":\"妹妹\",\"v\":\"妹妹\"},  \r\n{\"n\":\"模特\",\"v\":\"模特\"},  \r\n{\"n\":\"秘书\",\"v\":\"秘书\"},  \r\n{\"n\":\"3D\",\"v\":\"3D\"},  \r\n{\"n\":\"一本道\",\"v\":\"一本道\"},  \r\n{\"n\":\"唐伯虎\",\"v\":\"唐伯虎\"},  \r\n{\"n\":\"厕所\",\"v\":\"厕所\"},  \r\n{\"n\":\"露脸\",\"v\":\"露脸\"},  \r\n{\"n\":\"公公\",\"v\":\"公公\"},  \r\n{\"n\":\"深田咏美\",\"v\":\"深田咏美\"},  \r\n{\"n\":\"网红\",\"v\":\"网红\"},  \r\n{\"n\":\"高中生\",\"v\":\"高中生\"},  \r\n{\"n\":\"良家\",\"v\":\"良家\"},  \r\n{\"n\":\"技师\",\"v\":\"技师\"},  \r\n{\"n\":\"出轨\",\"v\":\"出轨\"},  \r\n{\"n\":\"反差\",\"v\":\"反差\"},  \r\n{\"n\":\"主播\",\"v\":\"主播\"},  \r\n{\"n\":\"3p\",\"v\":\"3p\"},  \r\n{\"n\":\"迪热力巴\",\"v\":\"迪热力巴\"},  \r\n{\"n\":\"动画\",\"v\":\"动画\"},  \r\n{\"n\":\"白袜\",\"v\":\"白袜\"},  \r\n{\"n\":\"口交\",\"v\":\"口交\"},  \r\n{\"n\":\"変態奥様\",\"v\":\"変態奥様\"},  \r\n{\"n\":\"相泽南相泽南\",\"v\":\"相泽南相泽南\"},  \r\n{\"n\":\"打电话\",\"v\":\"打电话\"},  \r\n{\"n\":\"打飞机\",\"v\":\"打飞机\"},  \r\n{\"n\":\"三级\",\"v\":\"三级\"},  \r\n{\"n\":\"屁眼\",\"v\":\"屁眼\"},  \r\n{\"n\":\"强推\",\"v\":\"强推\"},  \r\n{\"n\":\"苍井空\",\"v\":\"苍井空\"},  \r\n{\"n\":\"麻豆传媒\",\"v\":\"麻豆传媒\"},  \r\n{\"n\":\"变态\",\"v\":\"变态\"},  \r\n{\"n\":\"直播\",\"v\":\"直播\"},  \r\n{\"n\":\"卡在窗户\",\"v\":\"卡在窗户\"},  \r\n{\"n\":\"91\",\"v\":\"91\"},  \r\n{\"n\":\"清纯\",\"v\":\"清纯\"},  \r\n{\"n\":\"桥本香菜\",\"v\":\"桥本香菜\"},  \r\n{\"n\":\"男同\",\"v\":\"男同\"},  \r\n{\"n\":\"鹿少女演绎\",\"v\":\"鹿少女演绎\"},  \r\n{\"n\":\"口爆\",\"v\":\"口爆\"},  \r\n{\"n\":\"香港\",\"v\":\"香港\"},  \r\n{\"n\":\"未成年\",\"v\":\"未成年\"},  \r\n{\"n\":\"少女\",\"v\":\"少女\"},  \r\n{\"n\":\"推油\",\"v\":\"推油\"},  \r\n{\"n\":\"父女\",\"v\":\"父女\"},  \r\n{\"n\":\"跳蛋\",\"v\":\"跳蛋\"},  \r\n{\"n\":\"护士\",\"v\":\"护士\"},  \r\n{\"n\":\"灌肠\",\"v\":\"灌肠\"},  \r\n{\"n\":\"丈母娘\",\"v\":\"丈母娘\"},  \r\n{\"n\":\"明日\",\"v\":\"明日\"},  \r\n{\"n\":\"女王\",\"v\":\"女王\"},  \r\n{\"n\":\"桥本有菜\",\"v\":\"桥本有菜\"},  \r\n{\"n\":\"换脸\",\"v\":\"换脸\"},  \r\n{\"n\":\"福利姬\",\"v\":\"福利姬\"},  \r\n{\"n\":\"柚子猫\",\"v\":\"柚子猫\"},  \r\n{\"n\":\"三上\",\"v\":\"三上\"},  \r\n{\"n\":\"北条麻妃\",\"v\":\"北条麻妃\"},  \r\n{\"n\":\"杨幂\",\"v\":\"杨幂\"},  \r\n{\"n\":\"深喉\",\"v\":\"深喉\"},  \r\n{\"n\":\"台湾\",\"v\":\"台湾\"},  \r\n{\"n\":\"相泽南\",\"v\":\"相泽南\"},  \r\n{\"n\":\"葵司\",\"v\":\"葵司\"},  \r\n{\"n\":\"老熟女\",\"v\":\"老熟女\"},  \r\n{\"n\":\"初中\",\"v\":\"初中\"},  \r\n{\"n\":\"老板娘\",\"v\":\"老板娘\"},  \r\n{\"n\":\"制服\",\"v\":\"制服\"},  \r\n{\"n\":\"儿子\",\"v\":\"儿子\"},  \r\n{\"n\":\"推特\",\"v\":\"推特\"},  \r\n{\"n\":\"东北\",\"v\":\"东北\"},  \r\n{\"n\":\"舞蹈\",\"v\":\"舞蹈\"},  \r\n{\"n\":\"吴梦梦\",\"v\":\"吴梦梦\"},  \r\n{\"n\":\"学妹\",\"v\":\"学妹\"},  \r\n{\"n\":\"旗袍\",\"v\":\"旗袍\"},  \r\n{\"n\":\"办公室\",\"v\":\"办公室\"},  \r\n{\"n\":\"宿舍\",\"v\":\"宿舍\"},  \r\n{\"n\":\"美女\",\"v\":\"美女\"},  \r\n{\"n\":\"单男\",\"v\":\"单男\"},  \r\n{\"n\":\"爱田奈奈步兵\",\"v\":\"爱田奈奈步兵\"},  \r\n{\"n\":\"川越にこ\",\"v\":\"川越にこ\"},  \r\n{\"n\":\"暴力\",\"v\":\"暴力\"},  \r\n{\"n\":\"淫语\",\"v\":\"淫语\"},  \r\n{\"n\":\"牛仔裤\",\"v\":\"牛仔裤\"},  \r\n{\"n\":\"强上\",\"v\":\"强上\"},  \r\n{\"n\":\"教室\",\"v\":\"教室\"},  \r\n{\"n\":\"肉丝\",\"v\":\"肉丝\"},  \r\n{\"n\":\"学校\",\"v\":\"学校\"},  \r\n{\"n\":\"上司\",\"v\":\"上司\"},  \r\n{\"n\":\"老婆\",\"v\":\"老婆\"},  \r\n{\"n\":\"校花\",\"v\":\"校花\"},  \r\n{\"n\":\"酒吧\",\"v\":\"酒吧\"},  \r\n{\"n\":\"吞精\",\"v\":\"吞精\"},  \r\n{\"n\":\"农村\",\"v\":\"农村\"},  \r\n{\"n\":\"炮机\",\"v\":\"炮机\"},  \r\n{\"n\":\"爆乳\",\"v\":\"爆乳\"},  \r\n{\"n\":\"兄妹\",\"v\":\"兄妹\"},  \r\n{\"n\":\"邻居\",\"v\":\"邻居\"},  \r\n{\"n\":\"同事\",\"v\":\"同事\"},  \r\n{\"n\":\"夫妻\",\"v\":\"夫妻\"},  \r\n{\"n\":\"欧美\",\"v\":\"欧美\"},  \r\n{\"n\":\"小学生\",\"v\":\"小学生\"},  \r\n{\"n\":\"会所\",\"v\":\"会所\"},  \r\n{\"n\":\"车震\",\"v\":\"车震\"},  \r\n{\"n\":\"交换\",\"v\":\"交换\"},  \r\n{\"n\":\"李政宰\",\"v\":\"李政宰\"},  \r\n{\"n\":\"母亲\",\"v\":\"母亲\"},  \r\n{\"n\":\"舔逼\",\"v\":\"舔逼\"},  \r\n{\"n\":\"洛丽塔\",\"v\":\"洛丽塔\"},  \r\n{\"n\":\"大屁股\",\"v\":\"大屁股\"},  \r\n{\"n\":\"女友\",\"v\":\"女友\"},  \r\n{\"n\":\"人兽\",\"v\":\"人兽\"},  \r\n{\"n\":\"ktv\",\"v\":\"ktv\"},  \r\n{\"n\":\"寸止\",\"v\":\"寸止\"},  \r\n{\"n\":\"佐山爱\",\"v\":\"佐山爱\"},  \r\n{\"n\":\"老阿姨\",\"v\":\"老阿姨\"},  \r\n{\"n\":\"桃乃木香奈\",\"v\":\"桃乃木香奈\"},  \r\n{\"n\":\"深田\",\"v\":\"深田\"},  \r\n{\"n\":\"中国色情网站\",\"v\":\"中国色情网站\"},  \r\n{\"n\":\"枫花恋\",\"v\":\"枫花恋\"},  \r\n{\"n\":\"足浴\",\"v\":\"足浴\"},  \r\n{\"n\":\"尿\",\"v\":\"尿\"},  \r\n{\"n\":\"留学生\",\"v\":\"留学生\"},  \r\n{\"n\":\"约炮\",\"v\":\"约炮\"},  \r\n{\"n\":\"电车\",\"v\":\"电车\"},  \r\n{\"n\":\"KTV\",\"v\":\"KTV\"},  \r\n{\"n\":\"饼干姐姐\",\"v\":\"饼干姐姐\"},  \r\n{\"n\":\"眼镜妹\",\"v\":\"眼镜妹\"},  \r\n{\"n\":\"抽搐\",\"v\":\"抽搐\"},  \r\n{\"n\":\"刘玥\",\"v\":\"刘玥\"},  \r\n{\"n\":\"新娘\",\"v\":\"新娘\"},  \r\n{\"n\":\"同学\",\"v\":\"同学\"},  \r\n{\"n\":\"销售\",\"v\":\"销售\"},  \r\n{\"n\":\"俄罗斯\",\"v\":\"俄罗斯\"},  \r\n{\"n\":\"小姨子\",\"v\":\"小姨子\"},  \r\n{\"n\":\"张津瑜\",\"v\":\"张津瑜\"},  \r\n{\"n\":\"骚话\",\"v\":\"骚话\"},  \r\n{\"n\":\"舔\",\"v\":\"舔\"},  \r\n{\"n\":\"丰满\",\"v\":\"丰满\"},  \r\n{\"n\":\"哭\",\"v\":\"哭\"},  \r\n{\"n\":\"女性向\",\"v\":\"女性向\"},  \r\n{\"n\":\"asmr\",\"v\":\"asmr\"},  \r\n{\"n\":\"喝尿\",\"v\":\"喝尿\"},  \r\n{\"n\":\"痉挛\",\"v\":\"痉挛\"},  \r\n{\"n\":\"女仆\",\"v\":\"女仆\"},  \r\n{\"n\":\"医生\",\"v\":\"医生\"},  \r\n{\"n\":\"00后\",\"v\":\"00后\"},  \r\n{\"n\":\"河北\",\"v\":\"河北\"},  \r\n{\"n\":\"教师\",\"v\":\"教师\"},  \r\n{\"n\":\"颜射\",\"v\":\"颜射\"},  \r\n{\"n\":\"男男\",\"v\":\"男男\"},  \r\n{\"n\":\"小孩\",\"v\":\"小孩\"},  \r\n{\"n\":\"学姐\",\"v\":\"学姐\"},  \r\n{\"n\":\"诱惑\",\"v\":\"诱惑\"},  \r\n{\"n\":\"骚\",\"v\":\"骚\"},  \r\n{\"n\":\"富婆\",\"v\":\"富婆\"},  \r\n{\"n\":\"校服\",\"v\":\"校服\"},  \r\n{\"n\":\"拳交\",\"v\":\"拳交\"},  \r\n{\"n\":\"大桥未久\",\"v\":\"大桥未久\"},  \r\n{\"n\":\"怀孕\",\"v\":\"怀孕\"},  \r\n{\"n\":\"搭讪\",\"v\":\"搭讪\"},  \r\n{\"n\":\"小宝\",\"v\":\"小宝\"},  \r\n{\"n\":\"酒店\",\"v\":\"酒店\"},  \r\n{\"n\":\"射精\",\"v\":\"射精\"},  \r\n{\"n\":\"潮喷\",\"v\":\"潮喷\"},  \r\n{\"n\":\"自拍\",\"v\":\"自拍\"},  \r\n{\"n\":\"刺激\",\"v\":\"刺激\"},  \r\n{\"n\":\"爸爸\",\"v\":\"爸爸\"},  \r\n{\"n\":\"母\",\"v\":\"母\"},  \r\n{\"n\":\"古装\",\"v\":\"古装\"},  \r\n{\"n\":\"无修正\",\"v\":\"无修正\"},  \r\n{\"n\":\"游戏\",\"v\":\"游戏\"},  \r\n{\"n\":\"桃乃木\",\"v\":\"桃乃木\"},  \r\n{\"n\":\"春药\",\"v\":\"春药\"},  \r\n{\"n\":\"乳交\",\"v\":\"乳交\"},  \r\n{\"n\":\"长腿\",\"v\":\"长腿\"},  \r\n{\"n\":\"中文音声\",\"v\":\"中文音声\"},  \r\n{\"n\":\"医院\",\"v\":\"医院\"},  \r\n{\"n\":\"高跟鞋\",\"v\":\"高跟鞋\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"200\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_肉铺",
+      "name": "肉铺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n  \"作者\": \"凯哥\",\r\n  \"发布地址\": \"https://rou.pub/dizhi\",\r\n  \"首页\": \"https://rouvx5.xyz/\",\r\n // \"请求头\": \"User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#Referer$http://www.tvyb03.com/\",\r\n  \"分类\": \"国产AV&自拍流出&探花&OnlyFans&日本\",\r\n  \"分类值\": \"國產AV&自拍流出&探花&OnlyFans&日本\",\r\n  \"分类url\": \"https://rouvx5.xyz/t/{cateId}?order=createdAt&page={catePg}\",\r\n // \"数组二次截取\": \"list\\\":[&&]\",\r\n  \"数组\": \"<div class=\\\"shadow p-1 md:p-2 my-auto\\\">&&</a>\",\r\n  \"图片\": \"<img src=\\\"&&\\\"\",\r\n  \"标题\": \"alt=\\\"&&\\\"\",\r\n  \"副标题\": \"bg-opacity-75 px-1 py-0.5 md:px-2 \\\">&&</div>\",\r\n  \"链接\": \" href=\\\"&&\\\"\",\r\n  \"搜索url\": \"https://rouvx5.xyz/search?q={wd}&t=&page={pg}\",\r\n  \"搜索模式\": \"1\",\r\n // \"搜索二次截取\": \"list\\\":[&&]\",\r\n  \"搜索数组\": \"<div class=\\\"shadow p-1 md:p-2 my-auto\\\">&&</a>\",\r\n  \"搜索图片\": \"<img src=\\\"&&\\\"\",\r\n  \"搜索标题\": \"alt=\\\"&&\\\"\",\r\n  \"搜索副标题\": \"bg-opacity-75 px-1 py-0.5 md:px-2 \\\">&&</div>\",\r\n  \"搜索链接\": \"href=\\\"&&\\\"\",\r\n  \"影片类型\": \"vod_class\\\"*\\\"&&\\\"\",\r\n  \"导演\": \"vod_director\\\"*\\\"&&\\\"\",\r\n  \"主演\": \"vod_actor\\\"*\\\"&&\\\"\",\r\n  \"简介\": \"vod_content\\\"*\\\"&&\\\"\",\r\n  \"线路二次截取\": \"\\\"list\\\":[&&]\",\r\n  \"线路数组\": \"\\\"vod_play_from\\\":&&,\",\r\n  \"线路标题\": \"\\\"&&\\\"\",\r\n  \"播放数组\": \"type=\\\"application/json\\\">&&tags\",\r\n  \"播放二次截取\": \"<div class=\\\"flex-1\\\">&&</body>\",\r\n  \"播放列表\": \"video\\\":{&&description\",\r\n  \"播放标题\": \"name\\\":\\\"&&\\\"\",\r\n  \"播放链接\": \"https://rouvx5.xyz/api/v/+id\\\":\\\"&&\\\"\",\r\n  \"跳转播放链接\": \"videoUrl\\\":\\\"&&\\\"\",\r\n  \"嗅探词\": \".m3u8?\",\r\n  \"倒序播放\": \"0\",\r\n  \"免嗅\": \"0\"\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_百花视频",
+      "name": "百花视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"优狐视频\",\r\n\"主页url\":\"https://www.bh601.top/\",\r\n//发布页bh2024.top\r\n//\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n//\"二次截取\":\"id=\\\"list_videos_common_videos_list_items\\\">&&<div class=\\\"pagination\\\"\",\r\n\"数组\":\"<div class=\\\"item\\\">&&</a>[不包含:https://www.nuuydhxkkmw.xyz/?code=19]\",\r\n\"图片\":\"src=\\\"&&\\\"[不包含:https://jikk.oiuejmmwm.xyz/nsjwjwmm/33665.jpg]\",\r\n\"标题\":\"title\\\">&&</strong>[不包含:幼女初中嫩妹破处合集]\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"duration iconfont\\\">&&</div>\",\r\n\"链接后缀\":\"\",\r\n\"搜索url\":\"https://www.bh601.top/search/video/{wd}/{pg}\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"id=\\\"list_videos_videos_list_search_result_items\\\">&&<div class=\\\"pagination\\\"\",\r\n\"搜索数组\": \"<div class=\\\"item\\\">&&</a>\",\r\n\"搜索图片\": \"src=\\\"&&\\\"\",\r\n\"搜索标题\": \"title\\\">&&</strong>\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"搜索链接后缀\":\"\",\r\n\r\n//\"线路二次截取\":\"<ul class=\\\"nav nav-tabs  dpplay pull-right\\\">&&</ul>\",\r\n\"播放二次截取\":\"id=\\\"dplayer-container\\\">&&<div class=\\\"video-info\\\">\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"播放数组\":\"<script>&&</script>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\" const dp&&})\",\r\n\"播放标题\":\"type: '&&'\",\r\n\"播放链接\":\"url: '&&'\",\r\n//\"嗅探词\":\".m3u8?#.mp4#.m3u8\",\r\n//\"过滤词\":\"url=#?v=https\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"国产$1#国产主播$6#日本无码$2#网报黑料$7#欧美$4#三级$9\",\r\n\"分类url\":\"https://www.bh601.top/type/{cateId}/{catePg}\",\r\n \"筛选\":{\r\n\"91porn\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日本无码\",\"v\":\"ri-ben-wu-ma\"},\r\n  {\"n\":\"国产主播\",\"v\":\"guo-chan-zhu-bo\"},\r\n  {\"n\":\"国产原创\",\"v\":\"guo-chan-yuan-chuang\"},\r\n  {\"n\":\"三级综艺\",\"v\":\"san-ji-zong-yi\"},\r\n  {\"n\":\"人妖视频\",\"v\":\"ren-yao-shi-pin\"},\r\n  {\"n\":\"国产探花\",\"v\":\"guo-chan-tan-hua\"},\r\n  {\"n\":\"国产网曝\",\"v\":\"guo-chan-wang-pu\"},\r\n  {\"n\":\"华语AV\",\"v\":\"hua-yu-av\"},\r\n  {\"n\":\"國產品牌新資源\",\"v\":\"guo-chan-pin-pai-xin-zi-yuan2\"},\r\n  {\"n\":\"日韩无码\",\"v\":\"ri-han-wu-ma\"},\r\n  {\"n\":\"mywife\",\"v\":\"scute-mywife\"},\r\n  {\"n\":\"亞洲SM\",\"v\":\"ya-zhou-sm\"},\r\n  {\"n\":\"日本高清\",\"v\":\"ri-ben-gao-qing\"},\r\n  {\"n\":\"國產直播\",\"v\":\"guo-chan-zhi-bo\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"ri-han-zi-pai\"}]}],\r\n  \r\n\"guo-chan-zi-pai\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"ou-mei-zi-pai\"},\r\n  {\"n\":\"国产裸聊\",\"v\":\"guo-chan-luo-liao\"},\r\n  {\"n\":\"三级\",\"v\":\"san-ji\"},\r\n  {\"n\":\"精品偷拍\",\"v\":\"jing-pin-tou-pai\"}\r\n  ]}],\r\n  \r\n\"zhong-guo-zhu-bo\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"国产偷拍\",\"v\":\"guo-chan-tou-pai\"},\r\n  {\"n\":\"摄像头\",\"v\":\"dao-she\"},\r\n  {\"n\":\"主播网红\",\"v\":\"zhu-bo-wang-hong\"}]}],\r\n  \r\n\"tou-pai-shi-pin\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"SM调教\",\"v\":\"sm-tiao-jiao\"},\r\n  {\"n\":\"自慰合集\",\"v\":\"zi-wei-he-ji\"},\r\n  {\"n\":\"3P群交\",\"v\":\"3p-qun-jiao\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_爱上AV",
+      "name": "爱上AV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://xxdd30.com/\",\r\n//\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n//\"二次截取\":\"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"数组\":\"<div class=\\\"item\\\">&&</div>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n//\"副标题\":\"pic-text text-right\\\"><b>&&</b>\",\r\n\"搜索url\":\"https://xxdd30.com/vod/search/page/{pg}/wd/{wd}/\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<div class=\\\"item\\\">&&</div>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n//\"搜索后缀\":\"/voddetail/\",\r\n\"播放二次截取\":\"<div id=\\\"kt_player\\\">&&</div>\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"线路标题\":\"<h3>&&</h3>\",\r\n\"播放数组\":\"<script type=\\\"text/javascript\\\">&&</script>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"{&&}\",\r\n\"播放标题\":\"flag\\\":\\\"&&\\\"\",\r\n\"播放链接\":\"url\\\":\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n//\"嗅探词\":\".m3u8?#.mp4#.m3u8\",\r\n//\"过滤词\":\"url=#?v=https\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"最新$new#日韩$2#欧美$25#伦理$27#精品推荐$1#国产视频$20\",\r\n\"分类url\":\"https://xxdd30.com/vodtype/{cateId}-{catePg}/\",\r\n \"筛选\":{\r\n\"11\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"自拍\",\"v\":\"5\"},\r\n  {\"n\":\"主播诱惑\",\"v\":\"6\"},\r\n  {\"n\":\"探花约泡\",\"v\":\"7\"},\r\n  {\"n\":\"偷拍偷窥\",\"v\":\"8\"},\r\n  {\"n\":\"乱伦侵犯\",\"v\":\"9\"},\r\n  {\"n\":\"网曝吃瓜\",\"v\":\"10\"},\r\n  {\"n\":\"短视频\",\"v\":\"11\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"200\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_youporn",
+      "name": "youporn",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://www.youporn.com/\",\r\n\"请求头\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"<div class='searchResults full-row-thumbs js_video_row tm_search_result_videos'>&&<div class=\\\"js_pornstar_search_results_wrapper list_el\\\">\",\r\n\"数组\":\"<div class=\\\"video-box pc js_video-box\\\"&&</a>\",\r\n\"图片\":\"data-src=\\\"&&\\\"\",\r\n\"标题\":\"alt=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n//\"副标题\":\"pic-text text-right\\\"><b>&&</b>\",\r\n\"搜索url\":\"https://www.youporn.com/search/?query={wd}&page={pg}\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<div class=\\\"preloadLine\\\">&&</p>\",\r\n\"搜索图片\": \"data-src=\\\"&&\\\"\",\r\n\"搜索标题\": \"alt=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n//\"搜索后缀\":\"/voddetail/\",\r\n//\"播放二次截取\":\"<script id=\\\"tm_pc_player_setup\\\">&&<div id=\\\"pb_template\\\">\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"线路标题\":\"<h3>&&</h3>\",\r\n\"播放数组\":\"mediaDefinition:&&thumbs:\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"[{&&duration:\",\r\n\"播放标题\":\"title: '&&'\",\r\n\"跳转播放链接\":\"videoUrl\\\":\\\"&&\\\"\",\r\n\"播放链接\": \"videoUrl\\\":\\\"&&\\\"\",\r\n\"播放链接后缀\":\"\",\r\n\"嗅探词\":\"em-h-ph.ypncdn.com#ev-h-ph.ypncdn.com#.mp4#.m3u8?#.ahcdn.com\",\r\n//\"过滤词\":\"cn.xgroovy.com#?v=https\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"中国人$chinese#日本人$japanese+anal#爆菊$anal#自慰棒$dildo#大吊$big+cock#硬核性交$rough#公共场合$public#双插$doublepenetration\",\r\n\"分类url\":\"https://www.youporn.com/search/?query={cateId}&page={catePg}\",\r\n \"筛选\":{\r\n\"chinese\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"绿帽子\",\"v\":\"cuckold\"},\r\n  {\"n\":\"自卫\",\"v\":\"solo\"},\r\n  {\"n\":\"成熟\",\"v\":\"mature\"},\r\n  {\"n\":\"多人性交\",\"v\":\"gangbang\"},\r\n  {\"n\":\"bdsm\",\"v\":\"bdsm\"},\r\n  {\"n\":\"按摩\",\"v\":\"massage\"},\r\n  {\"n\":\"复古\",\"v\":\"vintage\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"japanese\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"夫妻自卫\",\"v\":\"wife+dildo\"},\r\n  {\"n\":\"自卫棒\",\"v\":\"dildo\"},\r\n  {\"n\":\"夫妻\",\"v\":\"wife+anal\"},\r\n  {\"n\":\"亚洲\",\"v\":\"asian\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_noodlemaga",
+      "name": "noodlemaga",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"noodlemagazine\",\r\n\"主页url\":\"https://ukdevilz.com/\",\r\n//\"Set-Cookie:\":\"csrftoken=lHAEG9Ed31G6kdkLJIS54XJUXcKYCmIZ; Domain=noodlemagazine.com; expires=Mon, 21 Apr 2025 08:48:41 GMT; HttpOnly; Max-Age=31449600; Path=/; SameSite=Lax\",\r\n//\"头部集合\": \"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#authority$noodlemagazine.com#Cookie$PHPSESSID=.eJwly7EOwiAUheF3ubMm2JYIZzMunbp0c2lArw0J9hqgcTC-u1TH75z8b1ozpyk8CdR0itFqhtUOxioFvtkGRnUa3miNgzm2tCOf5LVF0S1zzS79vj8NYz2iXF0JstTxPFQnnv8aN4U8eSmEu4uZf3yID5EJJa38-QLB0im1:1ryohg:CH5gQNNpABYvQC94TH8958ZHOdP2VVY2PTUOLv1N4_w; ut=t-pOy_UM1xRu-iAMJxToRg; utex=1714118828; cf_clearance=J73L7WCBBlztCYX54T8J2TqJnibLdOpljVnEgJgQpi8-1713773232-1.0.1.1-mOy1iJjnG9ngNNWB0QkIp50ziFYW9C5C_TOJGXAJws6EdWUGgzPDQfkCWoGo2.S9K07ggx2y0k2Y4CSzWKsu7A; csrftoken=lHAEG9Ed31G6kdkLJIS54XJUXcKYCmIZ\",\r\n\"起始页\":\"1\",\r\n\"直接播放\":\"1\",\r\n\"二次截取\":\"id=\\\"list_videos\\\">&&<div class=\\\"more\\\"\",\r\n\"数组\":\"<a&&</a>\",\r\n\"图片\":\"data-src=\\\"&&\\\"\",\r\n\"标题\":\"alt=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"</svg>&&</div>\",\r\n\"搜索url\":\"https://ukdevilz.com/video/{wd}?p={pg}\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"\",\r\n\"搜索数组\": \"<div class=\\\"item\\\">&&</a>\",\r\n\"搜索图片\": \"data-src=\\\"&&\\\"\",\r\n\"搜索标题\": \"alt=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"搜索后缀\":\"\",\r\n\"线路二次截取\":\"\",\r\n\"线路数组\":\"\",\r\n\"线路标题\":\"\",\r\n\"播放数组\":\"<div id=\\\"player_box\\\">&&</div>\",\r\n\"状态\":\"更新：&&</p>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"card-body\\\">&&</div>\",\r\n\"播放列表\":\"<iframe&&</iframe>\",\r\n\"播放标题\":\"title=\\\"&&\\\"\",\r\n\"播放链接\":\"src=\\\"&&\\\"\",\r\n\"跳转播放链接\":\"https://ukdevilz.com+window.playlistUrl='&&'\",\r\n\"二次跳转播放链接\":\"file\\\": \\\"&&\\\"\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"adactioner#51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"\",\r\n\"分类\":\"JAV$jav#日本肛交$anal#肛门自慰$asian%20japanese%20anal%20masturbation#肛自慰$anal%20masturbation#中国$chianese#自慰棒$dildo#双洞$dvoinoe%20proniknovenie#摄像头$hidden%20cam#大家吧$big%20cock#大几把肛交$big%20cock%20anal#打手枪$massage%20handjob\",\r\n\"分类url\":\"https://ukdevilz.com/video/{cateId}?p={catePg}\",\r\n\"筛选\":\"1\"\r\n}"
+    },
+    {
+      "key": "草流采集",
+      "name": "草流采集",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "fhapi9采集",
+      "name": "fhapi9采集",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "葡萄",
+      "name": "葡萄采集",
+      "type": 1,
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "奥斯卡",
+      "name": "奥斯卡采集",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "博天堂资",
+      "name": "博天堂资采集",
+      "type": 0,
+      "api": "http://bttcjz.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "155",
+      "name": "155采集",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "玉兔卡",
+      "name": "玉兔采集",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "探探",
+      "name": "探探",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "X资源",
+      "name": "X资源采集",
+      "type": 1,
+      "api": "https://jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XBPQ_xhand",
+      "name": "xhand",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://xhand.net/\",\r\n//\"头部集合\": \"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n//\"二次截取\":\"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"数组\":\"<div class=\\\"item col  \\\">&&/div>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"data-href=\\\"&&\\\"\",\r\n\"搜索url\":\"https://xhand.net/search/{wd}/?mode=async&function=get_block&block_id=custom_list_videos_videos_list_search_result&category_ids=&duration_to=&duration_from=&post_date_from=&sort_by=&from_videos={pg}\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<div class=\\\"item col  \\\">&&/div>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"data-href=\\\"&&\\\"\",\r\n\"播放二次截取\":\"<div id=\\\"kt_player\\\">&&<div class=\\\"video__player-tools\\\">\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n//\"线路标题\":\"<h3>&&</h3>\",\r\n\"播放数组\":\"video_id:&&</script>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"var pageContext&&'\",\r\n\"播放列表\":\"video_url:&&timeline_screens_url:\",\r\n\"播放标题\":\"video_alt_url_text: '&&'\",\r\n\"播放链接\":\"video_alt_url: '&&'\",\r\n\"播放链接后缀\":\"?rnd=+rnd: '&&'\",\r\n//\"跳转播放链接\":\"https://pornken.net/+src=\\\"&&\\\"\",\r\n//\"二次跳转播放链接\":\"480p\\\"><source src=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\".ahcdn.com#vcdn.xhand.com#afilmones3#.m3u8\",\r\n//\"过滤词\":\"vacdn.tsyndicate.com#.ahcdn.com#vd.jkha742.xyz\",\r\n//\"播放请求头\":\"authority$voyeyrist.com#method$GET#scheme$https#cache-control$max-age=0#sec-ch-ua$Google Chrome\\\";v=\\\"112\\\", \\\"Chromium\\\";v=\\\"112\\\", \\\"Not=A?Brand\\\";v=\\\"24\\\"#sec-ch-ua-mobile$?1#sec-ch-ua-platform$Android#upgrade-insecure-requests$1#user-agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7#sec-fetch-site$same-origin#sec#fetch-mode$navigate#sec-fetch-user$?1#sec-fetch-dest$document#referer$https://voyeyrist.com/#accept-encoding$gzip, deflate, br, zstd#accept-language$zh-CN,zh;q=0.9#cookie: PHPSESSID=9886558cb110708bac5aa8d00717a864\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"年轻$young-cumshot#夫妻$wife#街头$street-piss#裸体海滩$nude-beach#厕所$woman-toilet#海滩小屋$beach-booth#浴室$shower-room#医院$gynecology-cabinet#间谍$hidden-sex#短裙$upskirt#更衣室$locker-room#裸体$podglyadyvanie-za-devushkami\",\r\n\"分类url\":\"https://xhand.net/categories/{cateId}/?mode=async&function=get_block&block_id=custom_list_videos_common_videos_list&sort_by=post_date&from={catePg}\",\r\n \"筛选\":{\r\n\"chinese\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"自慰棒\",\"v\":\"dildo\"},\r\n  {\"n\":\"ACZD\",\"v\":\"ACZD\"},\r\n  {\"n\":\"绿帽子\",\"v\":\"cuckold\"},\r\n  {\"n\":\"自卫\",\"v\":\"solo\"},\r\n  {\"n\":\"成熟\",\"v\":\"mature\"},\r\n  {\"n\":\"多人性交\",\"v\":\"gangbang\"},\r\n  {\"n\":\"bdsm\",\"v\":\"bdsm\"},\r\n  {\"n\":\"按摩\",\"v\":\"massage\"},\r\n  {\"n\":\"复古\",\"v\":\"vintage\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"200\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_pornken",
+      "name": "全球pornken",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://pornken.net/\",\r\n//发布页http://18fby.com/https://new.18jvip.com/18302/\r\n//\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n//\"二次截取\":\"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"数组\":\"<div class=\\\"item\\\">&&/div>\",\r\n\"图片\":\"data-src=\\\"&&\\\"\",\r\n\"标题\":\"alt=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"fa fa-clock-o\\\"></i>&&<\",\r\n\"搜索url\":\"https://pornken.net/hash-japanisexy?;post;mix=video-next&value={wd}&page={pg}\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<div class=\\\"item\\\">&&/div>\",\r\n\"搜索图片\": \"data-src=\\\"&&\\\"\",\r\n\"搜索标题\": \"alt=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n//\"搜索后缀\":\"/voddetail/\",\r\n\"播放二次截取\":\"<div class=\\\"butdown\\\">&&<div class=\\\"suggestions2 suggestions3\\\">\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"线路标题\":\"<h3>&&</h3>\",\r\n\"播放数组\":\"$(document)&&$('.butdown')\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"$.post(&&function\",\r\n\"播放标题\":\"op\\\":\\\"&&\\\"\",\r\n\"播放链接\":\"https://pornken.net/hash-japanisexy?;post;mix=moviesiframe2&num=+num:'&&'\",\r\n\"跳转播放链接\":\"https://pornken.net/+src=\\\"&&\\\"\",\r\n\"二次跳转播放链接\":\"480p\\\"><source src=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\".mycdn.me#.ahcdn.com\",\r\n\"过滤词\":\"s3t3d2y8.afcdn.net\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"中国人$chinese#美关结衣$yui-misaki#日本人$japanese#爆菊$anal#大吊$big-cock#硬核性交$rough#公共场合$public#双插$double-penetration\",\r\n\"分类url\":\"https://pornken.net/hash-japanisexy?;post;mix=video-next&value={cateId}&page={catePg}[firstPage=https://pornken.net/video/{cateId}]\",\r\n \"筛选\":{\r\n\"chinese\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"自慰棒\",\"v\":\"dildo\"},\r\n  {\"n\":\"ACZD\",\"v\":\"ACZD\"},\r\n  {\"n\":\"绿帽子\",\"v\":\"cuckold\"},\r\n  {\"n\":\"自卫\",\"v\":\"solo\"},\r\n  {\"n\":\"成熟\",\"v\":\"mature\"},\r\n  {\"n\":\"多人性交\",\"v\":\"gangbang\"},\r\n  {\"n\":\"bdsm\",\"v\":\"bdsm\"},\r\n  {\"n\":\"按摩\",\"v\":\"massage\"},\r\n  {\"n\":\"复古\",\"v\":\"vintage\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"200\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_anal2",
+      "name": "anal2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"站名\":\"交\",\r\n\"主页url\":\"https://m.v-anale.best/\",\r\n//\"二次截取\":\"<ul>&&<div class=\\\"pagenavi_txt\\\">\",\r\n\"数组\":\"<div class=\\\"video-content\\\">&&</div>\",\r\n\"图片\":\"src=\\\"&&\\\"\",\r\n\"标题\":\"alt=\\\"&&\\\"\",\r\n\"链接\":\"data-id=\\\"&&\\\"\",\r\n\"链接前缀\":\"https://m.v-anale.best/get/\",\r\n//\"线路数组\":\"<div class=\\\"mi_paly_box\\\">&&</div>\",\r\n//\"线路标题\":\"<span>&&</span>\",\r\n\"播放数组\":\"htt&&3u8[替换:ps:>>我是高清的不https:#.m>>.m3u8你他]\",\r\n\"状态\":\"上映：&&</li>\",\r\n\"导演\":\"导演：&&</li>\",\r\n\"主演\":\"主演：&&</li>\",\r\n\"简介\":\"<div class=\\\"yp_context\\\">&&</p>\",\r\n\"播放列表\":\"我&&他\",\r\n\"播放标题\":\"是&&的\",\r\n\"播放链接\":\"不&&你\",\r\n\"搜索url\":\"https://m.v-anale.best/{wd}?page={catePg}\",\r\n\"搜索模式\":\"1\",\r\n//\"搜索二次截取\":\"<div class=\\\"bt_img mi_ne_kd search_list\\\">&&<div class=\\\"pagenavi_txt\\\">\",\r\n\"搜索数组\":\"<div class=\\\"video-content\\\">&&</div>\",\r\n\"搜索图片\":\"src=\\\"&&\\\"\",\r\n\"搜索标题\":\"alt=\\\"&&\\\"\",\r\n\"搜索链接\":\"data-id=\\\"&&\\\"\",\r\n\"搜索副标题\":\"<span>&&</span>\",\r\n\"搜索链接前缀\":\"https://v-anale.best/get/\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"日本&亚洲&dildo&成熟&硬&复古&多人&极限&双打&多人\",\r\n\"分类值\":\"japanese&asian&dildo&mature&hardcore&vintage&gangbang&extreme&double-anal&多人\",\r\n\"分类url\":\"https://m.v-anale.best/{cateId}?page={catePg}\",\r\n\"筛选\":{\r\n\"1\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"1\"},\r\n{\"n\":\"动作片\",\"v\":\"5\"},\r\n{\"n\":\"喜剧片\",\"v\":\"6\"},\r\n{\"n\":\"爱情片\",\"v\":\"7\"},\r\n{\"n\":\"科幻片\",\"v\":\"8\"},\r\n{\"n\":\"恐怖片\",\"v\":\"9\"},\r\n{\"n\":\"剧情片\",\"v\":\"10\"},\r\n{\"n\":\"战争片\",\"v\":\"11\"},\r\n{\"n\":\"奇幻片\",\"v\":\"16\"},\r\n{\"n\":\"惊悚片\",\"v\":\"17\"},\r\n{\"n\":\"动画片\",\"v\":\"18\"},\r\n{\"n\":\"悬疑片\",\"v\":\"19\"},\r\n{\"n\":\"犯罪片\",\"v\":\"20\"},\r\n{\"n\":\"记录片\",\"v\":\"21\"},\r\n{\"n\":\"音乐片\",\"v\":\"22\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"2\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"2\"},\r\n{\"n\":\"大陆\",\"v\":\"12\"},\r\n{\"n\":\"港剧\",\"v\":\"13\"},\r\n{\"n\":\"韩剧\",\"v\":\"14\"},\r\n{\"n\":\"美剧\",\"v\":\"15\"},\r\n{\"n\":\"日剧\",\"v\":\"24\"},\r\n{\"n\":\"台剧\",\"v\":\"25\"},\r\n{\"n\":\"泰剧\",\"v\":\"26\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"3\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"3\"},\r\n{\"n\":\"大陆综艺\",\"v\":\"28\"},\r\n{\"n\":\"港台综艺\",\"v\":\"29\"},\r\n{\"n\":\"日韩综艺\",\"v\":\"30\"},\r\n{\"n\":\"欧美综艺\",\"v\":\"31\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n],\r\n\"4\":[\r\n{\r\n\"key\":\"cateId\",\r\n\"name\":\"类型\",\r\n\"value\":[\r\n{\"n\":\"全部\",\"v\":\"4\"},\r\n{\"n\":\"国产动漫\",\"v\":\"32\"},\r\n{\"n\":\"日本动漫\",\"v\":\"33\"},\r\n{\"n\":\"其他动漫\",\"v\":\"35\"}\r\n]\r\n},\r\n{\r\n\"key\":\"by\",\r\n\"name\":\"排序\",\r\n\"value\":[\r\n{\"n\":\"时间\",\"v\":\"time\"},\r\n{\"n\":\"人气\",\"v\":\"hits\"},\r\n{\"n\":\"评分\",\"v\":\"score\"}\r\n]\r\n}\r\n]\r\n}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_18j",
+      "name": "18j",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://18hq.life/\",\r\n//发布页http://18fby.com/https://new.18jvip.com/18302/\r\n//\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"数组\":\"<li&&</li>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n//\"副标题\":\"pic-text text-right\\\"><b>&&</b>\",\r\n\"搜索url\":\"https://18hq.life/s/nid/1/page/{pg}/sid/1/wd/{wd}/\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"<ul class=\\\"list\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<li&&</li>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"itle=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"播放二次截取\":\"<div class=\\\"main warp rows\\\">&&</div>\",\r\n\"播放数组\":\"<script type=\\\"text/javascript\\\">&&</script>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"vod_data\\\":{&&url_next\",\r\n\"播放标题\":\"vod_name\\\":\\\"[&&\\\"\",\r\n\"播放链接\":\"url\\\":\\\"&&\\\"\",\r\n//\"嗅探词\":\".m3u8?#.mp4#.m3u8\",\r\n//\"过滤词\":\"url=#?v=https\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"主播$6#国产$1#日韩$2#欧美$3#伦理$4\",\r\n\"分类url\":\"https://18hq.life/t/{cateId}-{catePg}/\",\r\n \"筛选\":{\r\n\"1\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"自拍\",\"v\":\"5\"},\r\n  {\"n\":\"主播诱惑\",\"v\":\"6\"},\r\n  {\"n\":\"探花约泡\",\"v\":\"7\"},\r\n  {\"n\":\"偷拍偷窥\",\"v\":\"8\"},\r\n  {\"n\":\"乱伦侵犯\",\"v\":\"9\"},\r\n  {\"n\":\"网曝吃瓜\",\"v\":\"10\"},\r\n  {\"n\":\"短视频\",\"v\":\"11\"},\r\n  {\"n\":\"传媒剧评\",\"v\":\"12\"}]}],\r\n  \r\n\"2\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"3\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"4\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_国产视频",
+      "name": "国产视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://37haobb.com/\",\r\n//发布页https://10haobb.comhttps://11haobb.com\r\n//\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"<div class=\\\"row gutter-20\\\">&&<div class=\\\"wrap\\\">\",\r\n\"数组\":\"<img&&<p class=\\\"sub-title\\\">\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"ml\\\">&&</a>\",\r\n\"链接\":\"<a href=\\\"&&.ht\",\r\n\"链接后缀\":\".html\",\r\n\"副标题\":\"ribbon-top-left\\\">&&</div>\",\r\n\"搜索url\":\"https://37haobb.com/vodsearch/{wd}----------{pg}---.html\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"<div class=\\\"row gutter-20\\\">&&<div class=\\\"wrap\\\">\",\r\n\"搜索数组\": \"<img&&<p class=\\\"sub-title\\\">\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"ml\\\">&&</a>\",\r\n\"搜索链接\": \"<a href=\\\"&&.ht\",\r\n\"搜索链接后缀\":\".html\",\r\n//\"线路二次截取\":\"<ul class=\\\"nav nav-tabs  dpplay pull-right\\\">&&</ul>\",\r\n\"播放二次截取\":\"<div id=\\\"kt_player\\\">&&</div>\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n\"播放数组\":\"<script type=\\\"text/javascript\\\">&&</script>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"vod_data\\\":{&&url_next\",\r\n\"播放标题\":\"vod_name\\\":\\\"[&&\\\"\",\r\n\"播放链接\":\"url\\\":\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n//\"嗅探词\":\".m3u8?#.mp4#.m3u8\",\r\n//\"过滤词\":\"url=#?v=https\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"国产视频$25#日本无码$20#三级电影$1#人妻$8#欧美$18\",\r\n\"分类url\":\"https://37haobb.com/typegaokk/{cateId}_{catePg}.html[firstPage=https://37haobb.com/typegaokk/{cateId}.html]\",\r\n \"筛选\":{\r\n\"25\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"自拍\",\"v\":\"17\"},\r\n  {\"n\":\"主播诱惑\",\"v\":\"6\"},\r\n  {\"n\":\"独家DMM\",\"v\":\"4\"},\r\n  {\"n\":\"偷拍偷窥\",\"v\":\"8\"},\r\n  {\"n\":\"乱伦侵犯\",\"v\":\"14\"},\r\n  {\"n\":\"日韩精品\",\"v\":\"10\"},\r\n  {\"n\":\"高潮喷吹\",\"v\":\"22\"},\r\n  {\"n\":\"自慰颜射\",\"v\":\"23\"}]}],\r\n  \r\n\"200\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"日韩自拍\",\"v\":\"13\"},\r\n  {\"n\":\"日韩五码\",\"v\":\"14\"},\r\n  {\"n\":\"中文字幕\",\"v\":\"15\"},\r\n  {\"n\":\"五码字幕\",\"v\":\"19\"}\r\n  ]}],\r\n  \r\n\"300\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"欧美自拍\",\"v\":\"21\"},\r\n  {\"n\":\"欧美字幕\",\"v\":\"22\"},\r\n  {\"n\":\"重口味\",\"v\":\"23\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_AV兄弟",
+      "name": "AV兄弟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"石榴\",\r\n\"主页url\":\"https://avbro.me/\",\r\n//发布页https://avbro.one/\r\n//\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"1\",\r\n\"二次截取\":\"<ul class=\\\"hl-vod-list hl-wide-list clearfix\\\">&&<ul class=\\\"hl-page-wrap hl-text-center cleafix\\\">\",\r\n\"数组\":\"<li&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n//\"副标题\":\"pic-text text-right\\\"><b>&&</b>\",\r\n\"搜索url\":\"/vodsearch/-------------/?wd={wd}&submit=\",\r\n\"搜索模式\": \"1\",\r\n\"搜索二次截取\": \"<ul class=\\\"vodlist clearfix\\\">&&<ul class=\\\"pagelist\\\">\",\r\n\"搜索数组\": \"<li&&</a>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"[不包含:廣告合作]\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n//\"搜索后缀\":\"/voddetail/\",\r\n\"播放二次截取\":\"id=\\\"pills-tabContent\\\">&&<ul class=\\\"page text_center cleafix\\\">\",\r\n//\"线路数组\":\"<div class=\\\"stui-vodlist__head\\\">&&</div>\",\r\n//\"线路标题\":\"<h3>&&</h3>\",\r\n//\"播放数组\":\"{\\\"@context&&</div>\",\r\n\"播放数组\":\"<ul class=\\\"content_playlist list_scroll clearfix\\\">&&</ul>\",\r\n\"状态\":\"更新：&&</span>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</span>\",\r\n\"播放列表\":\"<li&&</li>\",\r\n\"播放标题\":\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"跳转播放链接数组\":\"<div class=\\\"left_row fl\\\">&&</div>\",\r\n\"跳转播放链接\":\"url\\\":\\\"&&\\\"\",\r\n\"嗅探词\":\".m3u8\",\r\n//\"过滤词\":\"cn.xgroovy.com#?v=https\",\r\n\"播放请求头\":\"\",\r\n//\"免嗅\":\"0\",\r\n\"分类\":\"自拍$29#主播$35#国产乱伦$52#sm$105#国产$20#五码$22#美国$23#人妻$31\",\r\n\"分类url\":\"https://avbro.me/vodshow/{cateId}--------{catePg}---/\",\r\n \"筛选\":{\r\n\"49\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"女王调教\",\"v\":\"60\"},\r\n  {\"n\":\"女奴\",\"v\":\"61\"},\r\n  {\"n\":\"自拍偷拍\",\"v\":\"39\"},\r\n  {\"n\":\"国产主播\",\"v\":\"44\"},\r\n  {\"n\":\"抖音视频\",\"v\":\"45\"},\r\n  {\"n\":\"网曝门\",\"v\":\"57\"}]}],\r\n  \r\n\"271\":[\r\n {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"五码专区\",\"v\":\"254\"},\r\n  {\"n\":\"亚洲情色\",\"v\":\"22\"},\r\n  {\"n\":\"亚洲五码\",\"v\":\"64\"},\r\n  {\"n\":\"重口激情\",\"v\":\"518\"},\r\n  {\"n\":\"重咸口味\",\"v\":\"144\"},\r\n  {\"n\":\"美尻翹臀\",\"v\":\"445\"},\r\n  {\"n\":\"自慰群交\",\"v\":\"33\"}\r\n  ]}],\r\n\"390\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"麻豆传媒\",\"v\":\"416\"},\r\n  {\"n\":\"人妻五码\",\"v\":\"43\"},\r\n  {\"n\":\"SWAG\",\"v\":\"452\"},\r\n  {\"n\":\"抖陰短片\",\"v\":\"514\"},\r\n  {\"n\":\"映畫傳媒\",\"v\":\"395\"},\r\n  {\"n\":\"探花系列\",\"v\":\"433\"},\r\n  {\"n\":\"蜜桃传媒\",\"v\":\"494\"},\r\n  {\"n\":\"星空传媒\",\"v\":\"497\"},\r\n  {\"n\":\"大象传媒\",\"v\":\"496\"},\r\n  {\"n\":\"乌鸦传媒\",\"v\":\"498\"},\r\n  {\"n\":\"網曝門事\",\"v\":\"58\"}]}],\r\n  \r\n\"400\":[\r\n  {\"key\":\"cateId\",\"name\":\"类型\",\"value\":[\r\n  {\"n\":\"全部\",\"v\":\"\"},\r\n  {\"n\":\"港台伦理\",\"v\":\"29\"},\r\n  {\"n\":\"日韩伦理\",\"v\":\"30\"},\r\n  {\"n\":\"欧美伦理\",\"v\":\"31\"}]}]}\r\n}"
+    },
+    {
+      "key": "csp_XBPQ_javmenu",
+      "name": "javmenu",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/javmenu.json"
+    },
+    {
+      "key": "csp_XBPQ_asianxxx",
+      "name": "asianxxx",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/asianxxx.json"
+    },
+    {
+      "key": "csp_XBPQ_xgroovy",
+      "name": "xgroovy",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/xgroovy.json"
+    },
+    {
+      "key": "csp_XBPQ_好色",
+      "name": "好色",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/好色.json"
+    },
+    {
+      "key": "csp_XBPQ_anal",
+      "name": "anal2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/anal2.json"
+    },
+    {
+      "key": "csp_XBPQ_69色",
+      "name": "69色",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/69色.json"
+    },
+    {
+      "key": "csp_XBPQ_xtits",
+      "name": "xtits",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/xtits.json"
+    },
+    {
+      "key": "csp_XBPQ_arival",
+      "name": "arival",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/arival.json"
+    }
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext="
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "4K",
+      "type": 0,
+      "url": "http://g119.icu/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/jiexi/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "往往",
+      "type": 0,
+      "url": "https://www.oftens.top/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "zhanglang",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "咸鱼云解析",
+      "type": 0,
+      "url": "https://jx.xyflv.com/?url="
+    },
+    {
+      "name": "OKjx嗅探",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "扶风解析",
+      "type": 0,
+      "url": "https://api.huomiao.cc/api/bfq/?key=uXTGVVcEN7KtgvNXJu&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
+    },
+    {
+      "name": "酷秒云解析",
+      "type": 1,
+      "url": "http://lg.llwwwll.com:5477/home/api?type=ys&uid=339615&key=bdehjmnoGJLNRUW016&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "ltnb",
+    "rx",
+    "SLYS4k",
+    "BYGA",
+    "BYGB",
+    "luanzi",
+    "dxzy",
+    "QEYSS",
+    "aliyun",
+    "AliS",
+    "122",
+    "chuangying",
+    "CL4K",
+    "xfyun",
+    "wuduzy",
+    "wasu",
+    "bilibili",
+    "renrenmi",
+    "xmm",
+    "xigua",
+    "m1905",
+    "funshion",
+    "优酷",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "哔哩哔哩",
+    "哔哩",
+    "西瓜视频",
+    "腾讯视频",
+    "奇艺视频",
+    "优酷视频",
+    "芒果视频",
+    "乐视视频",
+    "FY",
+    "fy",
+    "FeiYun",
+    "feiyun",
+    "飞云"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-rangeupport",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurateeek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-rangeupport",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurateeek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "wallpaper": "https://api.likepoems.com/img/bing",
+  "spider": "https://drive.almondcloud.cn/f/w62jfY/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
+}
