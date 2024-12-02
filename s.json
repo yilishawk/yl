@@ -147,6 +147,26 @@
       "quickSearch": 1,
       "filterable": 0
     },
+        {
+      "key": "csp_XBPQ_javidol",
+      "name": "javidol",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/javidol.json"
+    },
+    {
+      "key": "csp_XBPQ_japonoporno",
+      "name": "japonoporno",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/japonoporno.json"
+    },
     {
       "key": "csp_XBPQ_en",
       "name": "en",
