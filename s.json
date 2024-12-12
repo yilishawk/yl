@@ -39,6 +39,16 @@
       "filterable": 1,
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/xvideos.json"
     },
+        {
+      "key": "csp_XBPQ_青青草",
+      "name": "青青草",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yilishawk/yl/master/青青草.json"
+    },
     {
       "key": "花猫",
       "name": "花猫",
