@@ -50,6 +50,26 @@
       "filterable": 1,
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/青青草.json"
     },
+            {
+      "key": "csp_XBPQ_ssavws",
+      "name": "ssavws",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/ssavws.json"
+    },
+            {
+      "key": "csp_XBPQ_metube",
+      "name": "metube",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/metube.json"
+    },
     {
       "key": "花猫",
       "name": "花猫",
