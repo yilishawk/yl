@@ -8,7 +8,7 @@ var rule = {
 	filterable:1,//是否启用分类
   class_name:'视频&黑料吃瓜&日本AV&综艺',
   tab_remove:'失效',
-图片来源:'@Referer=https://357.pptftygg.cc/@User-Agent=MOBILE_UA',
+图片来源:'@Referer=https://pic.rwywfq.cn/@User-Agent=MOBILE_UA',
    class_url:'comic/index/video?category=play&黑料吃瓜?&comic/av/cate?type=update&3',
       推荐: 'body&&.module-items;a.module-poster-item.module-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
        一级: 'ul.grid[class*="grid-cols-"] li;.line-clamp-2,.post-item-title&&Text;img,.h-full&&data-src;.post-item-desc,.text-white&&Text;a&&href',
