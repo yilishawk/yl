@@ -11,6 +11,17 @@
       "filterable": 1,
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/黄色仓库.json"
     },
+                                                {
+      "key": "dr_91porn",
+      "name": "91porn",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/t/-/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/91porn.js"
+    },
+
     {
       "key": "三级",
       "name": "三级",
