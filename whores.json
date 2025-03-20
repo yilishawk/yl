@@ -15,7 +15,7 @@
 "副标题":"time\">&&</span>",
 "搜索url":"/search/{wd}/{pg}",
 "搜索模式": "1",
-//"搜索二次截取": "<ul class=\"list\">&&<ul class=\"pagelist\">",
+"搜索二次截取": "id=\"list_videos_videos_list_search_result_items\">&&<div class=\"pagination\"",
 "搜索数组": "<div class=\"item thumb\">&&</a>",
 "搜索图片": "data-original=\"&&\"",
 "搜索标题": "title=\"&&\"",
