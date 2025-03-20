@@ -3,7 +3,7 @@
 "站名":"石榴",
 "主页url":"https://japan-whores.com/",
 //发布页http://18fby.com/https://new.18jvip.com/18302/
-  "头部集合":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=k3rs6806fgooo4sa33qqu8e2nd; feid=97afa7b45136a7e822621a0c32b46098; utm=%7B%22ads_type%22%3A%22%22%7D; st_d=%7B%7D; sid=656e72a30a5166c35138926f195152bf; kt_tcookie=1; xfeid=a82fbf11ea6f30adab70d37ad4d1f25a; atas_uid=; zone-cap-5118902=1%3B1719295047; kt_qparams=id%3D350645%26dir%3Djapanese-mommy-s-taboo-ultimate-bonding-son-s-penis-meets-mom-s-tongue; feid_sa=4; sid_sa=4",
+  //"头部集合":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=k3rs6806fgooo4sa33qqu8e2nd; feid=97afa7b45136a7e822621a0c32b46098; utm=%7B%22ads_type%22%3A%22%22%7D; st_d=%7B%7D; sid=656e72a30a5166c35138926f195152bf; kt_tcookie=1; xfeid=a82fbf11ea6f30adab70d37ad4d1f25a; atas_uid=; zone-cap-5118902=1%3B1719295047; kt_qparams=id%3D350645%26dir%3Djapanese-mommy-s-taboo-ultimate-bonding-son-s-penis-meets-mom-s-tongue; feid_sa=4; sid_sa=4",
 "cookie":"",
 "热门推荐":"1",
 "直接播放":"1",
@@ -13,7 +13,7 @@
 "标题":"title=\"&&\"",
 "链接":"https://japan-whores.com/embed/+href=\"https://japan-whores.com/videos/&&/",
 "副标题":"time\">&&</span>",
-"搜索url":"/search/{wd}/{pg}",
+"搜索url":"https://japan-whores.com/search/{wd}/[firstPage=https://japan-whores.com/search/{wd}/{pg}]",
 "搜索模式": "1",
 "搜索二次截取": "id=\"list_videos_videos_list_search_result_items\">&&<div class=\"pagination\"",
 "搜索数组": "<div class=\"item thumb\">&&</a>",
@@ -38,9 +38,8 @@
 "嗅探词":"cdn.privatehost.com#?embed=true",
 "过滤词":".jpg#s3t3d2y8.afcdn.net",
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=k3rs6806fgooo4sa33qqu8e2nd; feid=97afa7b45136a7e822621a0c32b46098; utm=%7B%22ads_type%22%3A%22%22%7D; st_d=%7B%7D; sid=656e72a30a5166c35138926f195152bf; kt_tcookie=1; xfeid=a82fbf11ea6f30adab70d37ad4d1f25a; atas_uid=; zone-cap-5118902=1%3B1719295047; kt_qparams=id%3D350645%26dir%3Djapanese-mommy-s-taboo-ultimate-bonding-son-s-penis-meets-mom-s-tongue; feid_sa=3; sid_sa=3",
-//"免嗅":"0",
 "分类":"无码$uncensored#成熟$mature#肛交$anal#高清$hd#欧美$european#跨种族$interracial#摄像头$webcam#公共场合$public#双插$double-penetration",
-"分类url":"https://japan-whores.com/c/{cateId}/?mode=async&function=get_block&block_id=list_videos_common_videos_list&sort_by=video_viewed_today&from={catePg}",
+"分类url":"https://japan-whores.com/search/{cateId}/{catePg}/[firstPage=https://japan-whores.com/search/{cateId}/]",
  "筛选":{
 "mature":[
   {"key":"cateId","name":"类型","value":[
