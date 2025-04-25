@@ -19,6 +19,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+            {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 1,
+      "api": "https://fqzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
       "key": "csp_XBPQ_优狐视频",
       "name": "优狐视频",
