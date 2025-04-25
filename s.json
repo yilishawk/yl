@@ -2,14 +2,13 @@
 {
   "sites": [
     {
-      "key": "csp_XBPQ_黄色仓库",
-      "name": "黄色仓库",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "key": "仓库",
+      "name": "仓库",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/from/hsckm3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/黄色仓库.json"
+      "filterable": 0
     },
         {
       "key": "csp_XBPQ_优狐视频",
