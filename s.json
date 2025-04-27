@@ -38,6 +38,16 @@
       "filterable": 1,
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/优狐视频.json"
     },
+            {
+      "key": "csp_XBPQ-theporn",
+      "name": "theporn",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/theporn.json"
+    },
     {
       "key": "csp_XBPQ_whores",
       "name": "whores",
