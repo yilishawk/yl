@@ -39,14 +39,14 @@
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/优狐视频.json"
     },
             {
-      "key": "csp_XBPQ-theporn",
+      "key": "csp_dr-theporn",
       "name": "theporn",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://git.acwing.com/mimang/t/-/raw/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/theporn.json"
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/theporn.js"
     },
     {
       "key": "csp_XBPQ_whores",
