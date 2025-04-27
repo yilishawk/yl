@@ -3,10 +3,10 @@
 "站名":"石榴",
 //"主页url":"https://theporn.cc/",
 //发布页https://thepthep5002.cc/
-"请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36",
+//"请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36",
 //"直接播放":"1",
 //"直接播放":"1",
-//"二次截取":"<div class=video-av-data>&&<div class=cl>",
+"二次截取":"<div class=video-av-data>&&<div id=navigation_page",
 "数组":"<div class=\"avdata-outer col-3\">&&</a>",
 "图片":"data-src=\"&&\"",
 "标题":"alt=\"&&\"",
