@@ -1,0 +1,23 @@
+var rule = {
+  title: '',
+  host: 'https://thep5045.cc/',
+  url: '/fyclass/fypage',
+  searchUrl: '/search/**/fypage?',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  headers: {
+    'User-Agent': 'MOBILE_UA',
+  },
+ class_name:'日本无码&欧美&人妻&肛交&熟女&少妇&口交&群交&自慰&黑人&中国&香港',
+  tab_remove:'失效',
+   class_url:'jav/uncensored&eu&categories/wife&categories/anal&categories/MILF&categories/young_woman&categories/oral_sex&categories/group_sex&categories/masturbation&categories/ebony&categories/chinese&categories/hongkong',
+  play_parse: true,
+  lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input;\n  }",
+  limit: 6,
+  double: true,
+    推荐: '.index-container .video-av-data;.avdata.card;img&&alt;img&&data-src;.duration&&Text;a&&href',
+  一级: '.video-list .avdata;img&&alt;img&&data-src;.duration&&Text;.av-link&&href',
+  二级: '*',
+  搜索: '*',
+}
