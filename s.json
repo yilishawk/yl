@@ -246,6 +246,17 @@
       "filterable": 1,
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/百花视频.json"
     },
+            {
+      "key": "csp_XBPQ_badnew",
+      "name": "badnew",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/badnew.json"
+    },
+         
     {
       "key": "csp_XBPQ_69色",
       "name": "69色",
