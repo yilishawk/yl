@@ -34,7 +34,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"91传媒$6#精东传媒$7#麻豆传媒$8#麻豆映画$9#麻豆猫爪$10#蜜桃传媒$11#天美传媒$12#星空传媒$13#偷拍自拍$14#日韩视频$15#欧美性爱$16#智能换脸$17#经典三级$18#网红主播$19#台湾辣妹$20#onlyfans$21#中文字幕$22#经典素人$23#高清无码$24#美颜巨乳$25#丝袜制服$26#SM系列$27#欧美系列$28#H動畫$29#街拍偷拍$30#丝袜美腿$31#欧美风情$32#网友自拍$33#卡通漫画$34#露出激情$35#唯美写真$36#女优情报$37#都市激情$38#校园情事$39#人妻縱情$40#風俗倫理$41#另类小说$42#武侠古典$43#长篇连载$44#科学幻想$45",
-"分类url":"https://spiderscloudcn2.51111666.com/forward;post;command=WEB_GET_INFO&pageNumber={catePg}&typeId={cateId}&RecordsPage=20&languageType=CN",
+"分类url":"https://spiderscloudcn2.51111666.com/forward;post;{\"command\":\"WEB_GET_INFO\",\"pageNumber\":{catePg},\"RecordsPage\":20,\"typeId\":\"{cateId}\",\"typeMid\":\"1\",\"languageType\":\"CN\",\"content\":\"\"}",
  "筛选":{
 "1":[
   {"key":"cateId","name":"类型","value":[
