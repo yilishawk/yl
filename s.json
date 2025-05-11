@@ -20,6 +20,16 @@
       "filterable": 0
     },
             {
+      "key": 小鸡资源站",
+      "name": "小鸡资源站",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod/",
+      "playUrl": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+            {
       "key": "番茄资源",
       "name": "番茄资源",
       "type": 1,
