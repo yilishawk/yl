@@ -32,8 +32,7 @@
       "key": "小鸡资源站",
       "name": "小鸡资源站",
       "type": 1,
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "playUrl": "https://updata.xiaojizy.live/aplayer/player.html?autoplay=1&movurl=",
+      "api": "https://xingba111.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -56,16 +55,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/优狐视频.json"
-    },
-            {
-      "key": "csp_XBPQ_/熊猫",
-      "name": "熊猫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/熊猫.json"
     },
             {
       "key": "csp_dr-theporn",
