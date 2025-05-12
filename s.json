@@ -406,6 +406,16 @@
       "filterable": 1,
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/xhand.json"
     },
+        {
+      "key": "csp_XBPQ_蘑菇",
+      "name": "蘑菇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/yl/master/蘑菇.json"
+    },
     {
       "key": "csp_XBPQ_pornken",
       "name": "全球pornken",
