@@ -20,6 +20,15 @@
       "filterable": 0
     },
             {
+      "key": "hd",
+      "name": "hd",
+      "type": 1,
+      "api": "https://hd1.huaduys.org/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+            {
       "key": "小鸡资源站",
       "name": "小鸡资源站",
       "type": 1,
