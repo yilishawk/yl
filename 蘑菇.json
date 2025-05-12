@@ -2,7 +2,7 @@
 "作者":"凯哥",
 "站名":"石榴",
 //"主页url":"https://17c1103.com:8899/",
-//发布页https://17c13.app/
+//发布页mogu1.me
 //"请求头":"Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq",
 "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#authority$api.koudailc.net#origin$https://mogu66666.cc#referer$https://mogu66666.cc/",
 "热门推荐":"1",
@@ -12,14 +12,14 @@
 "数组":"{&&gender",
 "图片":"cover\":\"&&\"",
 "标题":"title\":\"&&\"",
-"链接":"https://api.koudailc.net/api/vod/info?id=+id\":&&,",
-"搜索url":"https://yp2md.xyz:9166/index/search/?keyword={wd}&page={pg}&limit=30",
+"链接":"https://47.96.171.99/api/vod/info?id=+id\":&&,",
+"搜索url":"https://47.96.171.99/api/vod/clever?wd={wd}&limit=20&page={pg}",
 "搜索模式": "1",
 "搜索二次截取": "data\":[&&]",
 "搜索数组": "{&&}",
 "搜索图片": "url\":\"&&\"",
 "搜索标题": "title\":\"&&\"",
-"搜索链接": "https://yp2md.xyz:9166/videoplay/?vid=+id\":&&,",
+"搜索链接": "https://47.96.171.99/api/vod/info?id=+id\":&&,",
 "播放二次截取":"function getFileIds&&</script>",
 "播放数组":"return&&}",
 "状态":"更新：&&</span>",
@@ -34,7 +34,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"原创$42,45#华人AV$16,20,22,24,26,27,28,14#国产$12,11,18,13,19#日韩$9,10,8,7,15#欧美$31,32,38,33",
-"分类url":"https://api.koudailc.net/api/vod/list?types={cateId}&order=-id&limit=20&page={catePg}",
+"分类url":"https://47.96.171.99//api/vod/list?types={cateId}&order=-id&limit=20&page={catePg}",
  "筛选":{
 "1":[
   {"key":"class","name":"类型","value":[
