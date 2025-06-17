@@ -426,6 +426,16 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/yilishawk/yl/master/pornken.json"
     },
+        {
+      "key": "csp_XBPQ_anal",
+      "name": "anal",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yilishawk/yl/master/anal.json"
+    },
     {
       "key": "csp_XBPQ_anal2",
       "name": "anal2",
