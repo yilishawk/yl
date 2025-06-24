@@ -4,7 +4,7 @@
 //"头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.nkvod.com",
 //https://hsck43.25img.com/
     //"直接播放":"1",
-    "主页url":"http://hsck1.cctv23.cc/",
+    "主页url":"http://8407ck.cc/",
     //"二次截取":"<div class=\"module-list\">&&<footer id=\"footer\"",
     "数组":"lazyload&&</a>[不包含:米菲兔]",
     "图片":"data-original=\"&&\"",
@@ -31,7 +31,7 @@
     "播放标题":"id=\"&&\"",
     "播放列表":"<video&&</video>",
     "播放链接":"src=\"&&\"",
-    "分类url":"http://hsck1.cctv23.cc/{cateId}&p={catePg}",
+    "分类url":"/{cateId}&p={catePg}",
     "分类":"国产最新$/?type=ycgc#国产$/?type=gc#动漫$/?type=dm#无码中字$/?type=wz#无码$/?type=rw#欧美$/?type=om",
     "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
     "过滤词":"mp4.js",
