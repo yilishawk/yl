@@ -1,14 +1,15 @@
 
 {
   "sites": [
-    {
-      "key": "仓库",
-      "name": "仓库",
-      "type": 1,
-      "api": "https://hsckzy.vip/api.php/provide/vod/from/hsckm3u8/",
+        {
+      "key": "csp_XBPQ_黄色仓库",
+      "name": "黄色仓库",
+      "type": 3,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yilishawk/yl/master/黄色仓库.json"
     },
         {
       "key": "搜av资源站",
