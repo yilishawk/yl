@@ -75,7 +75,7 @@ var rule = {
   tab_remove:'失效',
    class_url:'comic/index/video?category=play&黑料吃瓜?&comic/av/cate?type=update&3',
       推荐: 'body&&.module-items;a.module-poster-item.module-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
-       一级: 'ul.grid[class*="grid-cols-"] li;.line-clamp-2,h2.post-item-title&&Text;img.h-full&&data-src;.post-item-desc,.text-white&&Text;a&&href',
+       一级: 'ul.grid[class*="grid-cols-"] li;.line-clamp-2,h2.post-item-title&&Text||img&&alt;img.h-full&&data-src;.post-item-desc,.text-white&&Text;a&&href',
       二级:'*',
 lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(mp4?|m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
 	    sniffer:1,
