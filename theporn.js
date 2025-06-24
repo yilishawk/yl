@@ -56,9 +56,7 @@ hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST =
   filter_def: {
     'categories/all': {cateId: 'categories/all'},
     'jav/uncensored': {cateId: 'jav/uncensored'},
-    1: {cateId: '1'},
-    3: {cateId: '3'},
-    4: {cateId: '4'}  // 移除了末尾多余逗号
+    'eu': {cateId: 'eu'}
   },
   searchUrl: '/search/**/fypage?',
   searchable: 2,
@@ -66,9 +64,9 @@ hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST =
   headers: {
     'User-Agent': 'MOBILE_UA'
   },
-  class_name: '全部影片&日本无码&欧美&人妻&肛交&熟女&少妇&口交&群交&自慰&黑人&中国&香港',
+  class_name: '全部影片&日本无码&欧美',
   tab_remove: '失效',
-  class_url: 'categories/all&jav/uncensored&eu&categories/wife&categories/anal&categories/MILF&categories/young_woman&categories/oral_sex&categories/group_sex&categories/masturbation&categories/ebony&categories/chinese&categories/hongkong',
+  class_url: 'categories/all&jav/uncensored&eu',
   limit: 6,
   double: true,
   推荐: '.index-container .video-av-data;.avdata.card;img&&alt;img&&data-src;.duration&&Text;a&&href',
