@@ -4,6 +4,9 @@ var rule = {
     host:'https://gitlab.com/dizhi8',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".file-content p:eq(1)&&a&&href");log(HOST);',
 	 url: '/fyfilter',
+      headers: {
+      'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36',
+    },
   filterable: 1, //是否启用分类筛选
   filter_url: '{{fl.cateId}}&page=fypage',
   filter: {
@@ -74,8 +77,8 @@ var rule = {
   class_name:'视频&黑料吃瓜&日本AV&综艺',
   tab_remove:'失效',
    class_url:'comic/index/video?category=play&黑料吃瓜?&comic/av/cate?type=update&3',
-      推荐: 'body&&.module-items;a.module-poster-item.module-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
-       一级: 'ul.grid[class*="grid-cols-"] li;h2.post-item-title&&Text||img&&alt;img&&src;.text-white&&Text;a&&href',
+      推荐: 'body&&.module-items;a.module-poster-item.module-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a.overflow-hidden&&href',
+       一级: 'ul.grid[class*="grid-cols-"] li;img&&alt;img&&data-src;.text-white&&Text;a&&href',
       二级:'*',
 lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(mp4?|m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
 	    sniffer:1,
