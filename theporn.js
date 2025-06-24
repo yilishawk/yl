@@ -2,7 +2,7 @@ var rule = {
   title: '',
   //host: 'https://thep5045.cc/',
   host: 'https://thepthep2104.cc/',
-hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".show_hosta:eq(0)&&href");log(HOST);',
+hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".show_host a:eq(0)&&href");log(HOST);',
   url: '/fyfilter',
   filterable: 1, //是否启用分类筛选
   filter_url: '{{fl.cateId}}/fypage',
