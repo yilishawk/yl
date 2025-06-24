@@ -67,6 +67,16 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/yilishawk/yl/master/theporn.js"
     },
+                {
+      "key": "dr-91porn",
+      "name": "91porn",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/t/-/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yilishawk/yl/master/91porn.js"
+    },
     {
       "key": "csp_XBPQ_whores",
       "name": "whores",
