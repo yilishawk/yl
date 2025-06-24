@@ -73,4 +73,4 @@ hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST =
   一级: '.video-list .avdata;img&&alt;img&&data-src;.duration&&Text;.av-link&&href',
   二级: '*',
   搜索: '*'  // 移除了末尾多余逗号
-};
+}
